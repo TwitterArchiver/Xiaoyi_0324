@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2049119938393346295",
+    "created_at": "2026-05-08T22:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052881334578905433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2561704644",
+          "start": 0,
+          "username": "IAmAlanWalker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052881334578905433",
+    "in_reply_to_user_id": "2561704644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049119938393346295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IAmAlanWalker 原來滿地都是中國人這句話在互聯網上依舊成立😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049119932261265409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_vuMCa8AEdvNz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2049119938393346295",
+        "created_at": "2026-05-08T22:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052881334578905433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2561704644",
+              "start": 0,
+              "username": "IAmAlanWalker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052881334578905433",
+        "in_reply_to_user_id": "2561704644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049119938393346295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IAmAlanWalker 原來滿地都是中國人這句話在互聯網上依舊成立😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049119932261265409"
+          ]
+        },
+        "author_id": "2561704644",
+        "conversation_id": "2049119938393346295",
+        "created_at": "2026-04-28T13:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049119938393346295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHAvUfK8gx",
+              "end": 44,
+              "expanded_url": "https://x.com/IAmAlanWalker/status/2049119938393346295/photo/1",
+              "media_key": "3_2049119932261265409",
+              "start": 21,
+              "url": "https://t.co/XHAvUfK8gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049119938393346295",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 759506,
+          "like_count": 10071,
+          "quote_count": 88,
+          "reply_count": 801,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "This is a great wall https://t.co/XHAvUfK8gx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 221,
+          "like_count": 1364,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1426
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-11T17:03:23.000Z",
+        "description": "💿World of Walker, Season One: Rise of the Drones - New Album out now🫶🏻 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alanwalker.ffm.to/bio",
+                "end": 23,
+                "expanded_url": "https://alanwalker.ffm.to/bio",
+                "start": 0,
+                "url": "https://t.co/r4exnZyRLm"
+              }
+            ]
+          }
+        },
+        "id": "2561704644",
+        "location": "World of Walker",
+        "name": "Alan Walker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954122072965148672/sqGrCcCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838407,
+          "following_count": 904,
+          "like_count": 8510,
+          "listed_count": 1065,
+          "media_count": 1591,
+          "tweet_count": 3013
+        },
+        "url": "https://t.co/r4exnZyRLm",
+        "username": "IAmAlanWalker",
+        "verified": true
+      }
+    ]
+  }
+}

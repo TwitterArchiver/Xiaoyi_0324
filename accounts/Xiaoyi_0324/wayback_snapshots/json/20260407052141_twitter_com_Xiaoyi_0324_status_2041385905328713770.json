@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2041115460587212858",
+    "created_at": "2026-04-07T05:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041385905328713770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018318410015490048",
+          "start": 0,
+          "username": "KomariChika4097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041385905328713770",
+    "in_reply_to_user_id": "2018318410015490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041115460587212858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika4097 去看了也没效果其实（个人感觉）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2041115460587212858",
+        "created_at": "2026-04-07T05:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041385905328713770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018318410015490048",
+              "start": 0,
+              "username": "KomariChika4097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041385905328713770",
+        "in_reply_to_user_id": "2018318410015490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041115460587212858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika4097 去看了也没效果其实（个人感觉）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2041115460587212858",
+        "created_at": "2026-04-06T11:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041115460587212858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041115460587212858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去看看心理科但是不知道怎么跟父母说 去年去过好几次了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n如果你觉得我的负面情绪影响到你 我向你道歉｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039652543136194560/agP5b8Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 91,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "🇹🇼中華民國北平15嵗國中生 民主社會主義 激進共和主義 議會民主 階級鬥爭 愛好：人文社科 語言學 計算機科學 enby/she/her 半出柜 enfp-t 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙  亚健康 割手不od 希望成为可爱的小男女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小静|Тишина🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "2040273453916545404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040225577769340928/sWe7pIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 452,
+          "like_count": 5995,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      }
+    ]
+  }
+}

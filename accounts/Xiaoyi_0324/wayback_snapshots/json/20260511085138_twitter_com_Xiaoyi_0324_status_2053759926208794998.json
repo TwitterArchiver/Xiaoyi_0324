@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2049359690753249463",
+    "created_at": "2026-05-11T08:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T09:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053759926208794998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1459490226095943685",
+          "start": 0,
+          "username": "miratsu169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053759926208794998",
+    "in_reply_to_user_id": "1459490226095943685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049359690753249463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miratsu169 已經有人通過這個 ai 生成視頻的方式 在中國版抖音上獲取了不少粉絲🤔 大家都不知道原作者來自外網）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2049359690753249463",
+        "created_at": "2026-05-11T08:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053759926208794998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1459490226095943685",
+              "start": 0,
+              "username": "miratsu169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053759926208794998",
+        "in_reply_to_user_id": "1459490226095943685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049359690753249463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miratsu169 已經有人通過這個 ai 生成視頻的方式 在中國版抖音上獲取了不少粉絲🤔 大家都不知道原作者來自外網）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459490226095943685",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049359690753249463",
+        "created_at": "2026-04-29T05:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049359690753249463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DaaiCorn/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/DaaiCorn/status/2049119272182685891",
+              "start": 23,
+              "url": "https://t.co/ffkcZeAxYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049359690753249463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 420,
+          "impression_count": 296720,
+          "like_count": 8125,
+          "quote_count": 12,
+          "reply_count": 39,
+          "retweet_count": 784
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049119272182685891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "そうです！私の絵のAI学習は禁止しています🥹 https://t.co/ffkcZeAxYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 221,
+          "like_count": 1386,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T11:56:07.000Z",
+        "description": "🚫AI🚫26년 10월　외주모집중 ご依頼受付中\n現在新規のご依頼は10月~可能\n📧seet100r@gmail.com\nFA- #miratsu_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 65,
+                "tag": "miratsu_art"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cardit.to/miratsu169",
+                "end": 23,
+                "expanded_url": "https://cardit.to/miratsu169",
+                "start": 0,
+                "url": "https://t.co/anOaM65FMn"
+              }
+            ]
+          }
+        },
+        "id": "1459490226095943685",
+        "location": "hp",
+        "name": "みらつ/밋다다@依頼受付中",
+        "pinned_tweet_id": "2043295184050696213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040323915130744832/y7YidBb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102322,
+          "following_count": 97,
+          "like_count": 1216,
+          "listed_count": 276,
+          "media_count": 768,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/anOaM65FMn",
+        "username": "miratsu169",
+        "verified": true
+      }
+    ]
+  }
+}

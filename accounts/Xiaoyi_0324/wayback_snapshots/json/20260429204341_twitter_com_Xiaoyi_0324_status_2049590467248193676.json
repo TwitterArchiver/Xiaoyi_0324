@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2049587207342833904",
+    "created_at": "2026-04-29T20:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049590467248193676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876333701845630976",
+          "start": 0,
+          "username": "Z348457376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049590467248193676",
+    "in_reply_to_user_id": "1876333701845630976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049588853120631035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z348457376 那是属于我的（悲）pwp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2049587207342833904",
+        "created_at": "2026-04-29T20:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049590467248193676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876333701845630976",
+              "start": 0,
+              "username": "Z348457376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049590467248193676",
+        "in_reply_to_user_id": "1876333701845630976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049588853120631035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z348457376 那是属于我的（悲）pwp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876333701845630976",
+        "conversation_id": "2049587207342833904",
+        "created_at": "2026-04-29T20:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049588853120631035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049588853120631035",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049587207342833904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 咪咪咪 运气太好，好烦恼～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|里推@NiaoYou83766|👇匿名提问|或许是个心理委员|详细BIO在置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2049169139013439534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 187,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T18:23:32.000Z",
+        "description": "",
+        "id": "1876333701845630976",
+        "name": "青木a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021950891625197568/TVEi97TK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 28,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "Z348457376",
+        "verified": false
+      }
+    ]
+  }
+}

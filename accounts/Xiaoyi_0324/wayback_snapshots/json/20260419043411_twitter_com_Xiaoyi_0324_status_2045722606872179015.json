@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2045543247679017330",
+    "created_at": "2026-04-19T04:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045722606872179015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_kuma"
+        },
+        {
+          "end": 30,
+          "id": "1883117066812882944",
+          "start": 16,
+          "username": "jituiroubaogu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045722606872179015",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543247679017330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_kuma @jituiroubaogu 怎么把这个搞得像问诊啊我不行了QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_2045543240041218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6vTNbwAAs4P4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2045543247679017330",
+        "created_at": "2026-04-19T04:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045722606872179015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_kuma"
+            },
+            {
+              "end": 30,
+              "id": "1883117066812882944",
+              "start": 16,
+              "username": "jituiroubaogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045722606872179015",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543247679017330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_kuma @jituiroubaogu 怎么把这个搞得像问诊啊我不行了QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543240041218048"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2045543247679017330",
+        "created_at": "2026-04-18T16:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543247679017330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTdHgMquC3",
+              "end": 27,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2045543247679017330/photo/1",
+              "media_key": "3_2045543240041218048",
+              "start": 4,
+              "url": "https://t.co/OTdHgMquC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543247679017330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5289,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我笑得 https://t.co/OTdHgMquC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网fw!负面情绪致歉|直fo成分回|同类直接回(没看到要私信🥹)|MTX(F?)|里推@NiaoYou83766|TG群:https://t.co/Me2AWhCgJS|这些是关系好的推U @Sankta_AM @Z348457376 @aberyoheiskm @YOYOSAMA372185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Z348457376"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "YOYOSAMA372185"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sakura_xiaoyi",
+                "end": 93,
+                "expanded_url": "https://t.me/sakura_xiaoyi",
+                "start": 70,
+                "url": "https://t.co/Me2AWhCgJS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 160,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4716,
+          "following_count": 3473,
+          "like_count": 34182,
+          "listed_count": 6,
+          "media_count": 481,
+          "tweet_count": 9105
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 368,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      }
+    ]
+  }
+}

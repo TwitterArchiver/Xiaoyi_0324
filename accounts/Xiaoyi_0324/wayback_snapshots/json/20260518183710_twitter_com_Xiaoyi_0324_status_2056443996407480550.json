@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2056263212887400719",
+    "created_at": "2026-05-18T18:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056443996407480550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056443996407480550",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056263212887400719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 去和感康死鬼坐一桌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056263178884128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlQd3YaoAAXQW5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2056263212887400719",
+        "created_at": "2026-05-18T18:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056443996407480550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056443996407480550",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056263212887400719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 去和感康死鬼坐一桌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056263178884128768"
+          ]
+        },
+        "author_id": "2006896037412352000",
+        "conversation_id": "2056263212887400719",
+        "created_at": "2026-05-18T06:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056263212887400719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ym7a8MO5X",
+              "end": 42,
+              "expanded_url": "https://x.com/plh1649513/status/2056263212887400719/photo/1",
+              "media_key": "3_2056263178884128768",
+              "start": 19,
+              "url": "https://t.co/3ym7a8MO5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056263212887400719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1210,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神人，臭抖人怎么还嗑苯海索啊磕不死你 https://t.co/3ym7a8MO5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|推当QQ空间发|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|负面情绪/碎碎念移步@NiaoYou83766|⬇️匿名提问|第二人格:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 238,
+          "like_count": 1508,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "乙一笔下的青",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048765550151770112/Gueb8S9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 213,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 393
+        },
+        "username": "plh1649513",
+        "verified": false
+      }
+    ]
+  }
+}

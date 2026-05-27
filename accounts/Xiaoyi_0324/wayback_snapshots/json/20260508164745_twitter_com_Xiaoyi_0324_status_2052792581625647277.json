@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2052749471461896667",
+    "created_at": "2026-05-08T16:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052792581625647277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050025901656813568",
+          "start": 0,
+          "username": "WenYuTang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052792581625647277",
+    "in_reply_to_user_id": "2050025901656813568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052749471461896667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenYuTang1019 我求你了你能不能不要和自己互罵了我真沒繃住啊🤣🤣😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2052749471461896667",
+        "created_at": "2026-05-08T16:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052792581625647277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050025901656813568",
+              "start": 0,
+              "username": "WenYuTang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052792581625647277",
+        "in_reply_to_user_id": "2050025901656813568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052749471461896667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenYuTang1019 我求你了你能不能不要和自己互罵了我真沒繃住啊🤣🤣😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050025901656813568",
+        "conversation_id": "2052749471461896667",
+        "created_at": "2026-05-08T13:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052749471461896667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xynMTFxyn/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xynMTFxyn/status/2052641463453057415",
+              "start": 14,
+              "url": "https://t.co/UKmWg3balc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052749471461896667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052641463453057415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈还评价上我了\n滚出去 https://t.co/UKmWg3balc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 221,
+          "like_count": 1361,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T01:34:04.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 | 对跨性别持反对意见 | 自切：2026.1.13 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/zmvtUghZ66"
+              }
+            ]
+          }
+        },
+        "id": "2050025901656813568",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2052640183577973038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050025981755396096/xvHoD3RX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 34,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/zmvtUghZ66",
+        "username": "WenYuTang1019",
+        "verified": true
+      }
+    ]
+  }
+}

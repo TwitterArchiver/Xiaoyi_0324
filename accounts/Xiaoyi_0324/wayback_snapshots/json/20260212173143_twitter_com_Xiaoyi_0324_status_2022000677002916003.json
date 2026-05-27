@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022000604873469954"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2022000677002916003",
+    "created_at": "2026-02-12T17:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022000677002916003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/R3RKQI5rUF",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2022000677002916003/photo/1",
+          "media_key": "3_2022000604873469954",
+          "start": 11,
+          "url": "https://t.co/R3RKQI5rUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022000677002916003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "成功在PC上使用X喵 https://t.co/R3RKQI5rUF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2022000604873469954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-W1k0bsAIi0JH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022000604873469954"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2022000677002916003",
+        "created_at": "2026-02-12T17:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022000677002916003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R3RKQI5rUF",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2022000677002916003/photo/1",
+              "media_key": "3_2022000604873469954",
+              "start": 11,
+              "url": "https://t.co/R3RKQI5rUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022000677002916003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功在PC上使用X喵 https://t.co/R3RKQI5rUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "NiaoYou83766"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615504486805504/JHrCtWFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 35
+        },
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

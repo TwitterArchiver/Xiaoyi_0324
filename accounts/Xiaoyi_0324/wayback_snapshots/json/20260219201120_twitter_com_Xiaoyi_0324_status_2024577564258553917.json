@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2024478244528083425",
+    "created_at": "2026-02-19T20:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024577564258553917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551813602553757697",
+          "start": 0,
+          "username": "mimi_VnV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024577564258553917",
+    "in_reply_to_user_id": "1551813602553757697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024478244528083425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimi_VnV 摸摸喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2024478244528083425",
+        "created_at": "2026-02-19T20:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024577564258553917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551813602553757697",
+              "start": 0,
+              "username": "mimi_VnV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024577564258553917",
+        "in_reply_to_user_id": "1551813602553757697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024478244528083425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimi_VnV 摸摸喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551813602553757697",
+        "conversation_id": "2024478244528083425",
+        "created_at": "2026-02-19T13:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024478244528083425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024478244528083425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头疼喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜有o但不多｜重度社恐｜重抑中焦｜cn是琉璃月酱哦｜可以找我互fo/聊天❤️不用担心不好意思喵｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "想让我在哪 我就在哪",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 46,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T06:16:28.000Z",
+        "description": "天才    音游吃    屎屁尿小孩    \n                                                   三次绕道喵😾\nhttps://t.co/g9bldFhSZO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vnv_mimi",
+                "end": 104,
+                "expanded_url": "https://ngl.link/vnv_mimi",
+                "start": 81,
+                "url": "https://t.co/g9bldFhSZO"
+              }
+            ]
+          }
+        },
+        "id": "1551813602553757697",
+        "name": "离离原上咪",
+        "pinned_tweet_id": "1999555259333497156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008842552644935680/j_lhQCe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 666,
+          "like_count": 19144,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3983
+        },
+        "username": "mimi_VnV",
+        "verified": false
+      }
+    ]
+  }
+}

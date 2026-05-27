@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2024505689570496735",
+    "created_at": "2026-02-19T20:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024578472497295848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2018318410015490048",
+          "start": 0,
+          "username": "KomariChika4097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024578472497295848",
+    "in_reply_to_user_id": "2018318410015490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024505689570496735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika4097 但是割可是不行的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2024505689570496735",
+        "created_at": "2026-02-19T20:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024578472497295848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2018318410015490048",
+              "start": 0,
+              "username": "KomariChika4097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024578472497295848",
+        "in_reply_to_user_id": "2018318410015490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024505689570496735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika4097 但是割可是不行的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018318410015490048",
+        "conversation_id": "2024505689570496735",
+        "created_at": "2026-02-19T15:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024505689570496735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024505689570496735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想割手好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜有o但不多｜重度社恐｜重抑中焦｜cn是琉璃月酱哦｜可以找我互fo/聊天❤️不用担心不好意思喵｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "想让我在哪 我就在哪",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 46,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T13:39:59.000Z",
+        "description": "🇹🇼中華民國北平15嵗國中生 民主社會主義者 三民主義者 愛好：人文社科 語言學 計算機科學 enby/she/her 語言: 漢語🇹🇼 英語🏴󠁧󠁢󠁥󠁮󠁧󠁿OK俄語🇷🇺(學習中) 雙相情感障礙（已停藥）反感支黑右逼和粉紅 严重性压抑患者 看我像台独说明你是粉红 🚪89.64 为了中华的自由！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.tw",
+                "end": 23,
+                "expanded_url": "http://president.gov.tw",
+                "start": 0,
+                "url": "https://t.co/mbOKViAaa5"
+              }
+            ]
+          }
+        },
+        "id": "2018318410015490048",
+        "location": "Peking, ROC",
+        "name": "小鞠Chika",
+        "pinned_tweet_id": "2022779099861913826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020880620059295745/jlr8bPEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 205,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/mbOKViAaa5",
+        "username": "KomariChika4097",
+        "verified": false
+      }
+    ]
+  }
+}

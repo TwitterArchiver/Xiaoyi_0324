@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2021892822606193068",
+    "created_at": "2026-02-13T06:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T07:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022200579322446249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        },
+        {
+          "end": 25,
+          "id": "1509465131037892608",
+          "start": 12,
+          "username": "onimai_anime"
+        },
+        {
+          "end": 34,
+          "id": "68677850",
+          "start": 26,
+          "username": "nekotou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022200579322446249",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021892822606193068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 @onimai_anime @nekotou 24年年底就把第一季看完了 我觉得要是有第二季我还是会看的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2021892822606193068",
+        "created_at": "2026-02-13T06:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022200579322446249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            },
+            {
+              "end": 25,
+              "id": "1509465131037892608",
+              "start": 12,
+              "username": "onimai_anime"
+            },
+            {
+              "end": 34,
+              "id": "68677850",
+              "start": 26,
+              "username": "nekotou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022200579322446249",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021892822606193068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 @onimai_anime @nekotou 24年年底就把第一季看完了 我觉得要是有第二季我还是会看的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750684739441446912",
+        "conversation_id": "2021892822606193068",
+        "created_at": "2026-02-12T10:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021892822606193068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 84,
+              "tag": "お兄ちゃんはおしまい"
+            },
+            {
+              "end": 104,
+              "start": 97,
+              "tag": "别当欧尼酱了"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1509465131037892608",
+              "start": 59,
+              "username": "onimai_anime"
+            },
+            {
+              "end": 82,
+              "id": "68677850",
+              "start": 74,
+              "username": "nekotou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021892822606193068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有谁知道《别当欧尼酱了》什么时候出第二季？😭\n「お兄ちゃんはおしまい」の第二期がいつ放送されるか知ってる人いますか？\n@onimai_anime \n@nekotou \n#お兄ちゃんはおしまい \n#别当欧尼酱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜有o但不多｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "你看看你身后",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2007609870544187787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 531,
+          "like_count": 7255,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 996
+        },
+        "username": "wngy189327",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T09:38:51.000Z",
+        "description": "『#おにまい』AT-X 23:30/TOKYO MX 24:00/BS11 24:30/ABEMA 25:00 原作：ねことうふ／監督：藤井慎吾／シリーズ構成：横手美智子／キャラクターデザイン：今村亮／プロデュース：EGG FIRM／制作：スタジオバインド 推奨ハッシュタグ #おにまい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 1,
+                "tag": "おにまい"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "おにまい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onimai.jp",
+                "end": 23,
+                "expanded_url": "https://onimai.jp",
+                "start": 0,
+                "url": "https://t.co/apM9nEa71D"
+              }
+            ]
+          }
+        },
+        "id": "1509465131037892608",
+        "name": "TVアニメ『お兄ちゃんはおしまい！』",
+        "pinned_tweet_id": "1641447926609350661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517306028500475904/1X6tk8WF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123075,
+          "following_count": 23,
+          "like_count": 2377,
+          "listed_count": 661,
+          "media_count": 1202,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/apM9nEa71D",
+        "username": "onimai_anime",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-25T12:18:11.000Z",
+        "description": "GRINPの中の人 「お兄ちゃんはおしまい！」商業版第9巻＆アンソロ5巻発売中！家庭菜園日記漫画も。 一部投稿にAmazonアフィリンクを含みます。Pixiv：https://t.co/G6BGgCiQji BOOTH：https://t.co/qtxJERtSy4 FANBOX：https://t.co/uAJp9Qvx5W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.sc/WaU4KBZ",
+                "end": 103,
+                "expanded_url": "http://onl.sc/WaU4KBZ",
+                "start": 80,
+                "url": "https://t.co/G6BGgCiQji"
+              },
+              {
+                "display_url": "grinp.booth.pm",
+                "end": 133,
+                "expanded_url": "http://grinp.booth.pm",
+                "start": 110,
+                "url": "https://t.co/qtxJERtSy4"
+              },
+              {
+                "display_url": "grinp.fanbox.cc",
+                "end": 164,
+                "expanded_url": "http://grinp.fanbox.cc",
+                "start": 141,
+                "url": "https://t.co/uAJp9Qvx5W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grin.oops.jp",
+                "end": 23,
+                "expanded_url": "http://grin.oops.jp/",
+                "start": 0,
+                "url": "https://t.co/4cmunr6T70"
+              }
+            ]
+          }
+        },
+        "id": "68677850",
+        "location": "都内某所",
+        "name": "ねことうふ@おにまいアニメご視聴感謝！",
+        "pinned_tweet_id": "1944687639845912998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3780734142/b049cc1a277b2a12648d4eaa7ccfef02_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148323,
+          "following_count": 247,
+          "like_count": 53800,
+          "listed_count": 1364,
+          "media_count": 1991,
+          "tweet_count": 32039
+        },
+        "url": "https://t.co/4cmunr6T70",
+        "username": "nekotou",
+        "verified": true
+      }
+    ]
+  }
+}

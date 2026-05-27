@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2021534725052203472",
+    "created_at": "2026-02-12T02:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021768443159273869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595110651621318656",
+          "start": 0,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021768443159273869",
+    "in_reply_to_user_id": "1595110651621318656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021534725052203472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ProcyonCoke731 如果我用微软outlook邮箱注册的推应该没问题吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2021534725052203472",
+        "created_at": "2026-02-12T02:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021768443159273869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595110651621318656",
+              "start": 0,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021768443159273869",
+        "in_reply_to_user_id": "1595110651621318656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021534725052203472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ProcyonCoke731 如果我用微软outlook邮箱注册的推应该没问题吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595110651621318656",
+        "conversation_id": "2021534725052203472",
+        "created_at": "2026-02-11T10:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021534725052203472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021534725052203472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1130,
+          "impression_count": 913481,
+          "like_count": 2563,
+          "quote_count": 8,
+          "reply_count": 132,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "第一，不要用墙内手机号注册推特，就算已经注册了，去隐私里把关联手机号删除\n第二，不要再推特上暴露任何墙内账号，包括qq、微信、微博、贴吧、哔哩哔哩以及任何墙内游戏账号（只要是中国区的游戏账户，都不要暴露）\n第三，中国有一些软件会扫描用户手机数据，翻墙上推的时候，不要打开这些软件（qq）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "很抱歉我的负面情绪影响到你 对不起",
+        "id": "2008812080099672064",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615504486805504/JHrCtWFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004629230051614720/oQ3zNr4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4911,
+          "following_count": 1190,
+          "like_count": 32292,
+          "listed_count": 49,
+          "media_count": 3652,
+          "tweet_count": 15893
+        },
+        "username": "ProcyonCoke731",
+        "verified": false
+      }
+    ]
+  }
+}

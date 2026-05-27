@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2027133705362559306",
+    "created_at": "2026-02-28T18:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T19:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027812856184684926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027812856184684926",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027133705362559306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo 你成功让我眯起眼睛看你的贴子。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_2027133699679256576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHTXBGbAAAxSyq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2027133705362559306",
+        "created_at": "2026-02-28T18:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T19:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027812856184684926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027812856184684926",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027133705362559306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo 你成功让我眯起眼睛看你的贴子。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027133699679256576"
+          ]
+        },
+        "author_id": "1286241253621817344",
+        "conversation_id": "2027133705362559306",
+        "created_at": "2026-02-26T21:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T22:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027133705362559306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyGR5KDiHe",
+              "end": 26,
+              "expanded_url": "https://x.com/CldGeo/status/2027133705362559306/photo/1",
+              "media_key": "3_2027133699679256576",
+              "start": 3,
+              "url": "https://t.co/eyGR5KDiHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027133705362559306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 201281,
+          "like_count": 3483,
+          "quote_count": 23,
+          "reply_count": 102,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/eyGR5KDiHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜有o但不多｜重度社恐｜重抑中焦｜友跨喵！🏳️‍⚧️｜可以找我互fo/聊天❤️不用担心不好意思喵｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaoyi-0324",
+                "end": 23,
+                "expanded_url": "https://github.com/xiaoyi-0324",
+                "start": 0,
+                "url": "https://t.co/0xWsTSdTii"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 54,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/0xWsTSdTii",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う",
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2018082327285702682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2795,
+          "following_count": 313,
+          "like_count": 2842,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 1240
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

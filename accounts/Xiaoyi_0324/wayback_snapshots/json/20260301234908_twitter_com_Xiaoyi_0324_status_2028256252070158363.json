@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2028256252070158363",
+    "created_at": "2026-03-01T23:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T00:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028256252070158363"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028256252070158363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有病吧 前任和我朋友的前任谈上了。。。甚至说我前任和我朋友的前任25年11月就开始暧昧了 我跟我前任1月18号分的 这俩人傻逼吧 之前让她配电脑跟我玩 她说我把她当陪玩故意不攒钱买 一个月工资三千五 能做到一分钱不剩 最后就是 我跟异性朋友玩游戏的时候 也没直接贴脸给她发视频啊 这俩人不愧是一对👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2028256252070158363",
+        "created_at": "2026-03-01T23:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028256252070158363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028256252070158363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有病吧 前任和我朋友的前任谈上了。。。甚至说我前任和我朋友的前任25年11月就开始暧昧了 我跟我前任1月18号分的 这俩人傻逼吧 之前让她配电脑跟我玩 她说我把她当陪玩故意不攒钱买 一个月工资三千五 能做到一分钱不剩 最后就是 我跟异性朋友玩游戏的时候 也没直接贴脸给她发视频啊 这俩人不愧是一对👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜有o但不多｜重度社恐｜重抑中焦｜友跨喵！🏳️‍⚧️｜可以找我互fo/聊天❤️不用担心不好意思喵｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaoyi-0324",
+                "end": 23,
+                "expanded_url": "https://github.com/xiaoyi-0324",
+                "start": 0,
+                "url": "https://t.co/0xWsTSdTii"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 56,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 283
+        },
+        "url": "https://t.co/0xWsTSdTii",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

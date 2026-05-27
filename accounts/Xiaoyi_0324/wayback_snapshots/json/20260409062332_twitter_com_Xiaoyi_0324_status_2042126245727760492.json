@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2042116984289243339",
+    "created_at": "2026-04-09T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042126245727760492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1996651822451511300",
+          "start": 0,
+          "username": "dyzdsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042126245727760492",
+    "in_reply_to_user_id": "1996651822451511300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042116984289243339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dyzdsq 是的 我17t糯米胶囊给我干恶心了 强吃下去 17t药片就不会这样（哭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2042116984289243339",
+        "created_at": "2026-04-09T06:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042126245727760492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1996651822451511300",
+              "start": 0,
+              "username": "dyzdsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042126245727760492",
+        "in_reply_to_user_id": "1996651822451511300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042116984289243339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dyzdsq 是的 我17t糯米胶囊给我干恶心了 强吃下去 17t药片就不会这样（哭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996651822451511300",
+        "conversation_id": "2042116984289243339",
+        "created_at": "2026-04-09T05:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042116984289243339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042116984289243339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糯米胶囊我恨你每次吃糯米胶囊我都要吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n负面情绪致歉｜直fo成分回｜MTX(F?)｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 124,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T18:44:38.000Z",
+        "description": "OD/轻微智障/碎碎念/很温良/玻璃心",
+        "id": "1996651822451511300",
+        "name": "病态垢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041414691545845760/Rk0YbHKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 21
+        },
+        "username": "dyzdsq",
+        "verified": false
+      }
+    ]
+  }
+}

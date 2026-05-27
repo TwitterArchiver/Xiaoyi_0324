@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2032799308907687936"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2032799312594481425",
+    "created_at": "2026-03-14T12:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032799312594481425"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032799312594481425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "樱川由奈算不算MTF"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 3630,
+        "end_datetime": "2026-03-17T01:11:37.000Z",
+        "id": "2032799308907687936",
+        "options": [
+          {
+            "label": "算",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不算",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "我觉得是FTM",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "我觉得是MTX",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2032799308907687936"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2032799312594481425",
+        "created_at": "2026-03-14T12:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032799312594481425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032799312594481425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "樱川由奈算不算MTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜OverDose｜不见证不割手｜重度社恐｜重抑中焦｜友跨喵！🏳️‍⚧️｜可以找我互fo/聊天❤️｜生日：100324｜@NiaoYou83766是小号喵｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 96,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaoyi-0324",
+                "end": 23,
+                "expanded_url": "https://github.com/xiaoyi-0324",
+                "start": 0,
+                "url": "https://t.co/0xWsTSdTii"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈#sakura",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 75,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/0xWsTSdTii",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

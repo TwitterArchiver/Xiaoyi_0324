@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022754750576705536",
+        "3_2022754749544902656"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022754784072339931",
+    "created_at": "2026-02-14T19:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022754784072339931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/xiandingxiaoyi2",
+          "end": 90,
+          "expanded_url": "https://ngl.link/xiandingxiaoyi2",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2022754428831567877/ezN1_DDI?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022754428831567877/ezN1_DDI?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 67,
+          "status": 200,
+          "title": "@xiandingxiaoyi: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/xiandingxiaoyi2",
+          "url": "https://t.co/iB4YZul5nH"
+        },
+        {
+          "display_url": "miyu.link/xiandingxiaoyi",
+          "end": 122,
+          "expanded_url": "https://miyu.link/xiandingxiaoyi",
+          "start": 99,
+          "status": 404,
+          "unwound_url": "https://miyu.link/xiandingxiaoyi",
+          "url": "https://t.co/nw891xHAnl"
+        },
+        {
+          "display_url": "pic.x.com/rzTKP2rW8J",
+          "end": 190,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2022754784072339931/photo/1",
+          "media_key": "3_2022754750576705536",
+          "start": 167,
+          "url": "https://t.co/rzTKP2rW8J"
+        },
+        {
+          "display_url": "pic.x.com/rzTKP2rW8J",
+          "end": 190,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2022754784072339931/photo/1",
+          "media_key": "3_2022754749544902656",
+          "start": 167,
+          "url": "https://t.co/rzTKP2rW8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022754784072339931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果看到这条帖子的你此时此刻心情不好或者急需找人聊天 欢迎来找我倾诉/聊天\n联系方式如图\n如果你不想让我知道你是谁 可以使用这个链接：https://t.co/iB4YZul5nH\n匿名提问链接是：https://t.co/nw891xHAnl\n咱也是欢迎给我赞赏喵 但是还是劝劝各位哥哥姐姐还是把钱多多留给自己花吧\n大概就是这样喵 https://t.co/rzTKP2rW8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022754750576705536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJEuofbwAA-bRf.jpg",
+        "width": 930
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2022754749544902656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJEukpbsAA6fqN.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022754750576705536",
+            "3_2022754749544902656"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022754784072339931",
+        "created_at": "2026-02-14T19:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022754784072339931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiandingxiaoyi2",
+              "end": 90,
+              "expanded_url": "https://ngl.link/xiandingxiaoyi2",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2022754428831567877/ezN1_DDI?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022754428831567877/ezN1_DDI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "@xiandingxiaoyi: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiandingxiaoyi2",
+              "url": "https://t.co/iB4YZul5nH"
+            },
+            {
+              "display_url": "miyu.link/xiandingxiaoyi",
+              "end": 122,
+              "expanded_url": "https://miyu.link/xiandingxiaoyi",
+              "start": 99,
+              "status": 404,
+              "unwound_url": "https://miyu.link/xiandingxiaoyi",
+              "url": "https://t.co/nw891xHAnl"
+            },
+            {
+              "display_url": "pic.x.com/rzTKP2rW8J",
+              "end": 190,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2022754784072339931/photo/1",
+              "media_key": "3_2022754750576705536",
+              "start": 167,
+              "url": "https://t.co/rzTKP2rW8J"
+            },
+            {
+              "display_url": "pic.x.com/rzTKP2rW8J",
+              "end": 190,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2022754784072339931/photo/1",
+              "media_key": "3_2022754749544902656",
+              "start": 167,
+              "url": "https://t.co/rzTKP2rW8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022754784072339931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果看到这条帖子的你此时此刻心情不好或者急需找人聊天 欢迎来找我倾诉/聊天\n联系方式如图\n如果你不想让我知道你是谁 可以使用这个链接：https://t.co/iB4YZul5nH\n匿名提问链接是：https://t.co/nw891xHAnl\n咱也是欢迎给我赞赏喵 但是还是劝劝各位哥哥姐姐还是把钱多多留给自己花吧\n大概就是这样喵 https://t.co/rzTKP2rW8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜有o但不多｜重度社恐｜重抑中焦｜cn是琉璃月酱哦｜可以找我互fo/聊天❤️｜@NiaoYou83766是小号喵｜关注你大概率是想跟你互fo呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "想让我在哪 我就在哪",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754405570011637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

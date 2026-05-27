@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056529845232996352"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414838",
+          "name": "Bing"
+        }
+      }
+    ],
+    "conversation_id": "2056529847766462859",
+    "created_at": "2026-05-19T00:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056529847766462859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wb4rOTjaXH",
+          "end": 72,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2056529847766462859/photo/1",
+          "media_key": "3_2056529845232996352",
+          "start": 49,
+          "url": "https://t.co/wb4rOTjaXH"
+        },
+        {
+          "display_url": "x.com/TransCircleOrg…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/TransCircleOrg/status/2055975013145260489",
+          "start": 73,
+          "url": "https://t.co/CCemGIweOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056529847766462859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055975013145260489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你在使用 Microsoft Bing 這個搜索引擎 您已經可以搜索 TransCircle https://t.co/wb4rOTjaXH https://t.co/CCemGIweOo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2056529845232996352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpC_48aEAA5rwl.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056529845232996352"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414838",
+              "name": "Bing"
+            }
+          }
+        ],
+        "conversation_id": "2056529847766462859",
+        "created_at": "2026-05-19T00:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056529847766462859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wb4rOTjaXH",
+              "end": 72,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2056529847766462859/photo/1",
+              "media_key": "3_2056529845232996352",
+              "start": 49,
+              "url": "https://t.co/wb4rOTjaXH"
+            },
+            {
+              "display_url": "x.com/TransCircleOrg…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/TransCircleOrg/status/2055975013145260489",
+              "start": 73,
+              "url": "https://t.co/CCemGIweOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056529847766462859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975013145260489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你在使用 Microsoft Bing 這個搜索引擎 您已經可以搜索 TransCircle https://t.co/wb4rOTjaXH https://t.co/CCemGIweOo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055356059066466304",
+        "conversation_id": "2055975013145260489",
+        "created_at": "2026-05-17T11:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055975013145260489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055975013145260489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 27973,
+          "like_count": 272,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "following",
+        "text": "您好！我们正在进行 TransCircleProject 的初期准备。\n\n长此以往，中文 MtF 社群有个很奇怪的现象：我们确实有比较全面的社群 wiki，HRT 指南等，但几乎没有一个能见证我们社群存在与抗争的地方。\n\n跨性别社群流动性极大，这里发生过很多故事，但没有人把它们完整地记录下来过。\n(1/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|推当QQ空间发|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|负面情绪/碎碎念移步@NiaoYou83766|⬇️匿名提问|第二人格:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 237,
+          "like_count": 1515,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T18:35:13.000Z",
+        "description": "中文推特女性倾向跨性别者社群史官项目\n我们深信历史终将向前。这份记录，就是我们走过长夜的铁证。\nGithub: https://t.co/8uXoPf6E7j\nbluesky: https://t.co/pzuooxut0T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TransCircle",
+                "end": 79,
+                "expanded_url": "https://github.com/TransCircle",
+                "start": 56,
+                "url": "https://t.co/8uXoPf6E7j"
+              },
+              {
+                "display_url": "bsky.app/profile/transc…",
+                "end": 112,
+                "expanded_url": "http://bsky.app/profile/transcircle.org",
+                "start": 89,
+                "url": "https://t.co/pzuooxut0T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transcircle.org",
+                "end": 23,
+                "expanded_url": "http://transcircle.org",
+                "start": 0,
+                "url": "https://t.co/r8ea82NCCb"
+              }
+            ]
+          }
+        },
+        "id": "2055356059066466304",
+        "name": "TransCircle 跨环",
+        "pinned_tweet_id": "2055975013145260489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055356408699514881/Xwsvn8u3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 33,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/r8ea82NCCb",
+        "username": "TransCircleOrg",
+        "verified": false
+      }
+    ]
+  }
+}

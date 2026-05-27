@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2041377017481031784",
+    "created_at": "2026-04-07T12:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041488510126006741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009195540475748352",
+          "start": 0,
+          "username": "Dolly388769"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041488510126006741",
+    "in_reply_to_user_id": "2009195540475748352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041437184126005398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dolly388769 好蹲 pwp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2041377017481031784",
+        "created_at": "2026-04-07T12:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041488510126006741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009195540475748352",
+              "start": 0,
+              "username": "Dolly388769"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041488510126006741",
+        "in_reply_to_user_id": "2009195540475748352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041437184126005398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dolly388769 好蹲 pwp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009195540475748352",
+        "conversation_id": "2041377017481031784",
+        "created_at": "2026-04-07T08:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041437184126005398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041437184126005398",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041377017481031784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 我蹲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n如果你觉得我的负面情绪影响到你 我向你道歉｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039652543136194560/agP5b8Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 92,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T09:28:50.000Z",
+        "description": "前世：@xiaoyi080 气死我了应该能复活@这个号就是当临时号了！女生无🚪 男生纯绿52半绿120",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "2009195540475748352",
+        "name": "愤怒的11",
+        "pinned_tweet_id": "2041050132284887544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040837416584675328/HkvzdGRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "username": "Dolly388769",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T09:28:50.000Z",
+        "description": "前世：@xiaoyi080 气死我了应该能复活@这个号就是当临时号了！女生无🚪 男生纯绿52半绿120",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "xiaoyi080"
+              }
+            ]
+          }
+        },
+        "id": "2009195540475748352",
+        "name": "愤怒的11",
+        "pinned_tweet_id": "2041050132284887544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040837416584675328/HkvzdGRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 35,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "Dolly388769",
+        "verified": false
+      }
+    ]
+  }
+}

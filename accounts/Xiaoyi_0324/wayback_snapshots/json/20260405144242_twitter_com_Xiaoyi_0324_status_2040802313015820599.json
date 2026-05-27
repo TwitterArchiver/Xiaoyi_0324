@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2040802313015820599",
+    "created_at": "2026-04-05T14:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T15:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040802313015820599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2040472479333052736",
+          "start": 21,
+          "url": "https://t.co/PIb5ywipXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040802313015820599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040472479333052736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "互转自介条好不好\n看见的和我互fo好不好 https://t.co/PIb5ywipXJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2040472470529122305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE25qvaIAETnFC.jpg",
+        "width": 1272
+      },
+      {
+        "height": 720,
+        "media_key": "3_2040472163682254848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE2nzpagAAt8kt.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2040472218107510784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE2q-ZaAAAdt7U.jpg",
+        "width": 2556
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2040472050058567680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFE2hMXaoAAnKYL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2040802313015820599",
+        "created_at": "2026-04-05T14:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040802313015820599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2040472479333052736",
+              "start": 21,
+              "url": "https://t.co/PIb5ywipXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040802313015820599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040472479333052736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "互转自介条好不好\n看见的和我互fo好不好 https://t.co/PIb5ywipXJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040472470529122305",
+            "3_2040472163682254848",
+            "3_2040472218107510784",
+            "3_2040472050058567680"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040472479333052736",
+        "created_at": "2026-04-04T16:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040472479333052736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtube.com/@xiaoyi_0324?s…",
+              "end": 43,
+              "expanded_url": "https://youtube.com/@xiaoyi_0324?si=wwkw0TcbYNpQZl5E",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2040449998303993857/KRl9N3dO?format=jpg&name=orig",
+                  "width": 900
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040449998303993857/KRl9N3dO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 20,
+              "status": 200,
+              "title": "小鳥遊 ホシノ",
+              "unwound_url": "https://www.youtube.com/@xiaoyi_0324?si=wwkw0TcbYNpQZl5E",
+              "url": "https://t.co/rdS2i6XQfb"
+            },
+            {
+              "description": "一个啥也不会的fw喵. GitHub is where xiaoyi-0324 builds software.",
+              "display_url": "github.com/xiaoyi-0324",
+              "end": 67,
+              "expanded_url": "https://github.com/xiaoyi-0324",
+              "start": 44,
+              "status": 200,
+              "title": "xiaoyi-0324 - Overview",
+              "unwound_url": "https://github.com/xiaoyi-0324",
+              "url": "https://t.co/Z8IJxWGdaj"
+            },
+            {
+              "display_url": "m.twitch.tv/xiaoyi0324/home",
+              "end": 91,
+              "expanded_url": "https://m.twitch.tv/xiaoyi0324/home",
+              "start": 68,
+              "status": 103,
+              "unwound_url": "https://m.twitch.tv/xiaoyi0324/home",
+              "url": "https://t.co/uovNoJRkCw"
+            },
+            {
+              "description": "0 Followers, 0 Following, 0 Posts - See Instagram photos and videos from 小毅 (@xiangming524)",
+              "display_url": "instagram.com/xiangming524?i…",
+              "end": 115,
+              "expanded_url": "https://www.instagram.com/xiangming524?igsh=MTJhcWd6M3ZoNnoxaA%3D%3D&utm_source=qr",
+              "start": 92,
+              "status": 200,
+              "title": "小毅 (@xiangming524) • Instagram profile",
+              "unwound_url": "https://www.instagram.com/xiangming524/",
+              "url": "https://t.co/OZapuMpJcM"
+            },
+            {
+              "display_url": "pic.x.com/cG3hXHsWj0",
+              "end": 147,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2040472479333052736/photo/1",
+              "media_key": "3_2040472470529122305",
+              "start": 124,
+              "url": "https://t.co/cG3hXHsWj0"
+            },
+            {
+              "display_url": "pic.x.com/cG3hXHsWj0",
+              "end": 147,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2040472479333052736/photo/1",
+              "media_key": "3_2040472163682254848",
+              "start": 124,
+              "url": "https://t.co/cG3hXHsWj0"
+            },
+            {
+              "display_url": "pic.x.com/cG3hXHsWj0",
+              "end": 147,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2040472479333052736/photo/1",
+              "media_key": "3_2040472218107510784",
+              "start": 124,
+              "url": "https://t.co/cG3hXHsWj0"
+            },
+            {
+              "display_url": "pic.x.com/cG3hXHsWj0",
+              "end": 147,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2040472479333052736/photo/1",
+              "media_key": "3_2040472050058567680",
+              "start": 124,
+              "url": "https://t.co/cG3hXHsWj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040472479333052736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "news自介条！\n链接附注 详见图1！\nhttps://t.co/rdS2i6XQfb\nhttps://t.co/Z8IJxWGdaj\nhttps://t.co/uovNoJRkCw\nhttps://t.co/OZapuMpJcM\n以下是一些附图 https://t.co/cG3hXHsWj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "みんなとても可愛いですよ、私はみんなのことを大好きです！\n如果你觉得我的负面情绪影响到你 我向你道歉｜里推@NiaoYou83766｜提问箱在下面｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039652543136194560/agP5b8Sq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 92,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

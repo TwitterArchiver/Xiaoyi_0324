@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2014864230621839850",
+    "created_at": "2026-01-24T00:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T01:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014864230621839850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2014864230621839850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问大家一件事 推特现在还能当朋友圈发吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2014864230621839850",
+        "created_at": "2026-01-24T00:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T01:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014864230621839850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014864230621839850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一件事 推特现在还能当朋友圈发吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "Mojang Studio激推党｜2010｜负能量｜",
+        "id": "2008812080099672064",
+        "name": "小鳥遊 ホシノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009705240443125760/gqTuSMb5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

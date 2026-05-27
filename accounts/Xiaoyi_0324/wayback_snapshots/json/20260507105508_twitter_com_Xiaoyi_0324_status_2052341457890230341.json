@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052186028010815488"
+      ],
+      "media_source_tweet_id": [
+        "2052186034570760446"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052341457890230341",
+    "created_at": "2026-05-07T10:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052341457890230341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720425128125947904",
+          "start": 3,
+          "username": "xxz10110116791"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vclwT2fb0i",
+          "end": 99,
+          "expanded_url": "https://x.com/xxz10110116791/status/2052186034570760446/photo/1",
+          "media_key": "3_2052186028010815488",
+          "start": 76,
+          "url": "https://t.co/vclwT2fb0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052341457890230341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052186034570760446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxz10110116791: 不想再回头了 我也不想再等了\n只要家里再有一次重大的矛盾\n就这样吧\n不过应该没那么快 最近也没什么冲突\n再忍忍 https://t.co/vclwT2fb0i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2052186028010815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrUUcyawAASU7t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052186028010815488"
+          ],
+          "media_source_tweet_id": [
+            "2052186034570760446"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052341457890230341",
+        "created_at": "2026-05-07T10:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052341457890230341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720425128125947904",
+              "start": 3,
+              "username": "xxz10110116791"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vclwT2fb0i",
+              "end": 99,
+              "expanded_url": "https://x.com/xxz10110116791/status/2052186034570760446/photo/1",
+              "media_key": "3_2052186028010815488",
+              "start": 76,
+              "url": "https://t.co/vclwT2fb0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052341457890230341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052186034570760446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxz10110116791: 不想再回头了 我也不想再等了\n只要家里再有一次重大的矛盾\n就这样吧\n不过应该没那么快 最近也没什么冲突\n再忍忍 https://t.co/vclwT2fb0i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052186028010815488"
+          ]
+        },
+        "author_id": "1720425128125947904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052186034570760446",
+        "created_at": "2026-05-07T00:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052186034570760446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vclwT2fb0i",
+              "end": 79,
+              "expanded_url": "https://x.com/xxz10110116791/status/2052186034570760446/photo/1",
+              "media_key": "3_2052186028010815488",
+              "start": 56,
+              "url": "https://t.co/vclwT2fb0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052186034570760446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想再回头了 我也不想再等了\n只要家里再有一次重大的矛盾\n就这样吧\n不过应该没那么快 最近也没什么冲突\n再忍忍 https://t.co/vclwT2fb0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 216,
+          "like_count": 1341,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T12:58:18.000Z",
+        "description": "Mtf🏳️‍⚧️|地球ol注册日2010.7.26| 现读高一 | 不经常建政| 技术宅(?│火车迷│喜欢编程💻,数码,AI,vocaloid | INFP\n│曾经也是信竞生（│经常焦虑│\nOD💊|无证含糖🍥2026.3.27",
+        "id": "1720425128125947904",
+        "name": "xnfvotyierslol🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051171309095464960/8znKSJIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 240,
+          "like_count": 6034,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 467
+        },
+        "username": "xxz10110116791",
+        "verified": false
+      }
+    ]
+  }
+}

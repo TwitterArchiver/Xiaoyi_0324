@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031111646400360450",
+        "3_2031111686837645317"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2031188292444762631",
+    "created_at": "2026-03-10T02:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031188292444762631"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "F06A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N7cCL0ih07",
+          "end": 158,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2031188292444762631/photo/1",
+          "media_key": "3_2031111646400360450",
+          "start": 135,
+          "url": "https://t.co/N7cCL0ih07"
+        },
+        {
+          "display_url": "pic.x.com/N7cCL0ih07",
+          "end": 158,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2031188292444762631/photo/1",
+          "media_key": "3_2031111686837645317",
+          "start": 135,
+          "url": "https://t.co/N7cCL0ih07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031188292444762631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前还好奇为什么在查看互动圈之后 会被莫名其妙关注一些账号 直到今天看到了下面的提示 我相信有人跟我一样没看就同意了（悲）\n至于怎么解除：设置-安全性和账号访问权限-应用和会话-已连接的应用-Beyond Tweets Your #F06A\n-撤销应用权限\n就可以了喵 https://t.co/N7cCL0ih07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031111646400360450",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_1R_baMAIkYE3.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031111686837645317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_1UWEaMAULftv.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031111646400360450",
+            "3_2031111686837645317"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2031188292444762631",
+        "created_at": "2026-03-10T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031188292444762631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 115,
+              "tag": "F06A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7cCL0ih07",
+              "end": 158,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2031188292444762631/photo/1",
+              "media_key": "3_2031111646400360450",
+              "start": 135,
+              "url": "https://t.co/N7cCL0ih07"
+            },
+            {
+              "display_url": "pic.x.com/N7cCL0ih07",
+              "end": 158,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2031188292444762631/photo/1",
+              "media_key": "3_2031111686837645317",
+              "start": 135,
+              "url": "https://t.co/N7cCL0ih07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031188292444762631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前还好奇为什么在查看互动圈之后 会被莫名其妙关注一些账号 直到今天看到了下面的提示 我相信有人跟我一样没看就同意了（悲）\n至于怎么解除：设置-安全性和账号访问权限-应用和会话-已连接的应用-Beyond Tweets Your #F06A\n-撤销应用权限\n就可以了喵 https://t.co/N7cCL0ih07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜可爱的10后喵｜少量od不割手｜重度社恐｜重抑中焦｜友跨喵！🏳️‍⚧️｜可以找我互fo/聊天❤️不用担心不好意思喵｜@NiaoYou83766是小号喵｜好姐姐@Sankta_AM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "Sankta_AM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaoyi-0324",
+                "end": 23,
+                "expanded_url": "https://github.com/xiaoyi-0324",
+                "start": 0,
+                "url": "https://t.co/0xWsTSdTii"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 64,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/0xWsTSdTii",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

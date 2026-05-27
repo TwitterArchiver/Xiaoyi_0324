@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2022161544600334676",
+    "created_at": "2026-02-13T04:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022161544600334676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "miyu.link/xiandingxiaoyi",
+          "end": 44,
+          "expanded_url": "https://miyu.link/xiandingxiaoyi",
+          "start": 21,
+          "status": 404,
+          "unwound_url": "https://miyu.link/xiandingxiaoyi",
+          "url": "https://t.co/nw891xHAnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022161544600334676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱也来试试这个ngl\n我尽我所能回复喵\n\nhttps://t.co/nw891xHAnl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2022161544600334676",
+        "created_at": "2026-02-13T04:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022161544600334676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "miyu.link/xiandingxiaoyi",
+              "end": 44,
+              "expanded_url": "https://miyu.link/xiandingxiaoyi",
+              "start": 21,
+              "status": 404,
+              "unwound_url": "https://miyu.link/xiandingxiaoyi",
+              "url": "https://t.co/nw891xHAnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022161544600334676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱也来试试这个ngl\n我尽我所能回复喵\n\nhttps://t.co/nw891xHAnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜有o但不多｜@NiaoYou83766是小号喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "你看看你身后",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

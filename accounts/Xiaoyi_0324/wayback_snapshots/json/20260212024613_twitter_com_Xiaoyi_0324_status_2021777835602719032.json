@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021486763735416832"
+      ],
+      "media_source_tweet_id": [
+        "2021487070615867872"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2021777835602719032",
+    "created_at": "2026-02-12T02:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021777835602719032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1404738934043602947",
+          "start": 3,
+          "username": "Jackywine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ZzuzwBZc1",
+          "end": 60,
+          "expanded_url": "https://x.com/Jackywine/status/2021487070615867872/photo/1",
+          "media_key": "3_2021486763735416832",
+          "start": 37,
+          "url": "https://t.co/4ZzuzwBZc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021777835602719032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021487070615867872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jackywine: 今天用知乎测网速，看到了一篇牛而逼之的回答 https://t.co/4ZzuzwBZc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2021486763735416832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3DgFaagAA9qFZ.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021486763735416832"
+          ],
+          "media_source_tweet_id": [
+            "2021487070615867872"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2021777835602719032",
+        "created_at": "2026-02-12T02:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021777835602719032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1404738934043602947",
+              "start": 3,
+              "username": "Jackywine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZzuzwBZc1",
+              "end": 60,
+              "expanded_url": "https://x.com/Jackywine/status/2021487070615867872/photo/1",
+              "media_key": "3_2021486763735416832",
+              "start": 37,
+              "url": "https://t.co/4ZzuzwBZc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021777835602719032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021487070615867872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jackywine: 今天用知乎测网速，看到了一篇牛而逼之的回答 https://t.co/4ZzuzwBZc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021486763735416832"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2021487070615867872",
+        "created_at": "2026-02-11T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021487070615867872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZzuzwBZc1",
+              "end": 45,
+              "expanded_url": "https://x.com/Jackywine/status/2021487070615867872/photo/1",
+              "media_key": "3_2021486763735416832",
+              "start": 22,
+              "url": "https://t.co/4ZzuzwBZc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021487070615867872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 736,
+          "impression_count": 232043,
+          "like_count": 2175,
+          "quote_count": 36,
+          "reply_count": 116,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "今天用知乎测网速，看到了一篇牛而逼之的回答 https://t.co/4ZzuzwBZc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "很抱歉我的负面情绪影响到你 对不起",
+        "id": "2008812080099672064",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615504486805504/JHrCtWFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "清华大学·  游客\n苹果公司·  用户\n不过是工作之余分享一些 Agent、AI、品牌、UIUX、AI产品、一人公司、AI创业、梗图、汽车的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj\n公众号：jackywine\n2026零基础自学 AI 就来我知识库👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jackywineEarth",
+                "end": 119,
+                "expanded_url": "http://t.me/jackywineEarth",
+                "start": 96,
+                "url": "https://t.co/HRpOru3LUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/BX54wYGhJ…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/BX54wYGhJizwzhkKLbFcqaSKnPb",
+                "start": 0,
+                "url": "https://t.co/SIc6iP3BDY"
+              }
+            ]
+          }
+        },
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "pinned_tweet_id": "2019419775634665761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33252,
+          "following_count": 3103,
+          "like_count": 85577,
+          "listed_count": 310,
+          "media_count": 4232,
+          "tweet_count": 27824
+        },
+        "url": "https://t.co/SIc6iP3BDY",
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

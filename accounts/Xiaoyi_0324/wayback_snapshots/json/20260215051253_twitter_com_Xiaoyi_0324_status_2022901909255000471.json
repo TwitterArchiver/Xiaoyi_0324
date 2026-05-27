@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022901748189532161"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2022540543260234071",
+    "created_at": "2026-02-15T05:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T06:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022901909255000471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799331977205796864",
+          "start": 0,
+          "username": "Xxxxx62778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w7OY7KwmNT",
+          "end": 82,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2022901909255000471/photo/1",
+          "media_key": "3_2022901748189532161",
+          "start": 59,
+          "url": "https://t.co/w7OY7KwmNT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022901909255000471",
+    "in_reply_to_user_id": "1799331977205796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022540543260234071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxx62778 用谷歌浏览器登录网页版 然后点一下添加到主屏幕就可以生成一个快捷方式 和XApp操作没啥区别 https://t.co/w7OY7KwmNT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022901748189532161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLKbBRakAEDdRJ.jpg",
+        "width": 930
+      },
+      {
+        "height": 604,
+        "media_key": "3_2022540534133514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGB5mDbYAADeUX.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022901748189532161"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2022540543260234071",
+        "created_at": "2026-02-15T05:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022901909255000471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799331977205796864",
+              "start": 0,
+              "username": "Xxxxx62778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7OY7KwmNT",
+              "end": 82,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2022901909255000471/photo/1",
+              "media_key": "3_2022901748189532161",
+              "start": 59,
+              "url": "https://t.co/w7OY7KwmNT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022901909255000471",
+        "in_reply_to_user_id": "1799331977205796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022540543260234071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxx62778 用谷歌浏览器登录网页版 然后点一下添加到主屏幕就可以生成一个快捷方式 和XApp操作没啥区别 https://t.co/w7OY7KwmNT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022540534133514240"
+          ]
+        },
+        "author_id": "1799331977205796864",
+        "conversation_id": "2022540543260234071",
+        "created_at": "2026-02-14T05:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022540543260234071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C6JE1pJy5U",
+              "end": 60,
+              "expanded_url": "https://x.com/Xxxxx62778/status/2022540543260234071/photo/1",
+              "media_key": "3_2022540534133514240",
+              "start": 37,
+              "url": "https://t.co/C6JE1pJy5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022540543260234071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21566,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求一下安卓的推特APP。我一直玩网页有点卡。求一下。求一下。我一直在哭。 https://t.co/C6JE1pJy5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜有o但不多｜重度社恐｜重抑中焦｜cn是琉璃月酱哦｜可以找我互fo/聊天❤️｜@NiaoYou83766是小号喵｜关注你大概率是想跟你互fo呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "想让我在哪 我就在哪",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022754784072339931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T06:45:56.000Z",
+        "description": "°. ⑅♡⑅ °. +. °. ⑅♡⑅ °. +. °.\n希望你因为拥有小咪的陪伴而幸福",
+        "id": "1799331977205796864",
+        "location": "⌯^⑅˶º ᵕ º˶^",
+        "name": "/•᷅‎‎•᷄\\୭⋆°✩ ๋࣭",
+        "pinned_tweet_id": "2013542676201967753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002547322463600640/hm5xe4nX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 30,
+          "like_count": 24178,
+          "listed_count": 3,
+          "media_count": 3072,
+          "tweet_count": 8634
+        },
+        "username": "Xxxxx62778",
+        "verified": false
+      }
+    ]
+  }
+}

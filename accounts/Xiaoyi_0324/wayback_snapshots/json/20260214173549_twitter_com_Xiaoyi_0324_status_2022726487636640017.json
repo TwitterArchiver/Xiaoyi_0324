@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022726373207609348"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2022726487636640017",
+    "created_at": "2026-02-14T17:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022726487636640017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XrtX17Exzi",
+          "end": 23,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2022726487636640017/video/1",
+          "media_key": "13_2022726373207609348",
+          "start": 0,
+          "url": "https://t.co/XrtX17Exzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022726487636640017",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XrtX17Exzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 2260,
+        "media_key": "13_2022726373207609348",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022726373207609348/img/qgs3eyQgKKkUag4y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022726373207609348/vid/avc1/320x568/b-mfGyznieqsIDjf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022726373207609348/vid/avc1/480x852/0vTYao9OZNjvEERn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022726373207609348/vid/avc1/720x1278/hjq9cyqWIoAhFL8F.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022726373207609348/pl/F3l_vxupWEw8nygI.m3u8?tag=14"
+          }
+        ],
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022726373207609348"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2022726487636640017",
+        "created_at": "2026-02-14T17:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022726487636640017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrtX17Exzi",
+              "end": 23,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2022726487636640017/video/1",
+              "media_key": "13_2022726373207609348",
+              "start": 0,
+              "url": "https://t.co/XrtX17Exzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022726487636640017",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XrtX17Exzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "如果你觉得我的负面情绪影响到你 我向你道歉｜ISFP-T｜有o但不多｜重度社恐｜重抑中焦｜cn是琉璃月酱哦｜可以找我互fo/聊天❤️｜@NiaoYou83766是小号喵｜关注你大概率是想跟你互fo呢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xiandingxiaoyi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xiandingxiaoyi",
+                "start": 0,
+                "url": "https://t.co/Pp4dsLAbQt"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "想让我在哪 我就在哪",
+        "name": "樱川由奈",
+        "pinned_tweet_id": "2022161544600334676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022019196528553985/xntP_5zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/Pp4dsLAbQt",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

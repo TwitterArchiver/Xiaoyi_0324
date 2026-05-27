@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053879785177366530"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053813654500561230",
+    "created_at": "2026-05-11T16:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T17:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053879794954289205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7DjW1eONBY",
+          "end": 46,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2053879794954289205/photo/1",
+          "media_key": "3_2053879785177366530",
+          "start": 23,
+          "url": "https://t.co/7DjW1eONBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053879794954289205",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053813654500561230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX 我說我怎麼掉fo了😭 https://t.co/7DjW1eONBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2053879785177366530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDYyF7aQAI6y6x.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2053813651929497600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICcooYbAAA42_8.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053879785177366530"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053813654500561230",
+        "created_at": "2026-05-11T16:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053879794954289205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DjW1eONBY",
+              "end": 46,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2053879794954289205/photo/1",
+              "media_key": "3_2053879785177366530",
+              "start": 23,
+              "url": "https://t.co/7DjW1eONBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053879794954289205",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053813654500561230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 我說我怎麼掉fo了😭 https://t.co/7DjW1eONBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053813651929497600"
+          ]
+        },
+        "author_id": "2035758475209572352",
+        "conversation_id": "2053813654500561230",
+        "created_at": "2026-05-11T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053813654500561230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/An3YTsaqzH",
+              "end": 30,
+              "expanded_url": "https://x.com/LoveMikuBX/status/2053813654500561230/photo/1",
+              "media_key": "3_2053813651929497600",
+              "start": 7,
+              "url": "https://t.co/An3YTsaqzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053813654500561230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1288,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "他怎麼了😱😱 https://t.co/An3YTsaqzH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 221,
+          "like_count": 1389,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！|\n二號機@LoveMikuBX2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "LoveMikuBX2"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "中國•福建寧德/泉州/浙江溫州/奉化隨機刷新",
+        "name": "伴下",
+        "pinned_tweet_id": "2052970373441003910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053422792507633664/uQ89ZuMm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 1062,
+          "like_count": 9027,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3307
+        },
+        "username": "LoveMikuBX",
+        "verified": true
+      }
+    ]
+  }
+}

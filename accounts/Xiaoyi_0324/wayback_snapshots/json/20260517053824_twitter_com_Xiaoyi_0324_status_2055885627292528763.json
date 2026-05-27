@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2055885627292528763",
+    "created_at": "2026-05-17T05:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055885627292528763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KfirC10SRC/sta…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/KfirC10SRC/status/2055839500690153882",
+          "start": 124,
+          "url": "https://t.co/cni5ysUN4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055885627292528763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055839500690153882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這不是什麼破紀錄的挑戰 也不是任何比誰短的比賽 我也不提倡任何人在極短的時間內開啟 hrt\n理應充分了解風險以及後果 再做決定 這是最安全的做法 因為 hrt 之後的結果是不可逆的……💔\n而且od不和跨圈做任何綁定 不要把這兩個關聯到一起了……😭 https://t.co/cni5ysUN4l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2055839497380847616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfPIWyaYAAfPGO.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1864,
+        "media_key": "3_2055839485301248000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfPHpyaUAAbHTr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2055885627292528763",
+        "created_at": "2026-05-17T05:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055885627292528763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2055839500690153882",
+              "start": 124,
+              "url": "https://t.co/cni5ysUN4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055885627292528763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055839500690153882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這不是什麼破紀錄的挑戰 也不是任何比誰短的比賽 我也不提倡任何人在極短的時間內開啟 hrt\n理應充分了解風險以及後果 再做決定 這是最安全的做法 因為 hrt 之後的結果是不可逆的……💔\n而且od不和跨圈做任何綁定 不要把這兩個關聯到一起了……😭 https://t.co/cni5ysUN4l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055839497380847616",
+            "3_2055839485301248000"
+          ]
+        },
+        "author_id": "1689095384956633088",
+        "conversation_id": "2055839500690153882",
+        "created_at": "2026-05-17T02:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055839500690153882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHZSmABIse",
+              "end": 65,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2055839500690153882/photo/1",
+              "media_key": "3_2055839497380847616",
+              "start": 42,
+              "url": "https://t.co/IHZSmABIse"
+            },
+            {
+              "display_url": "pic.x.com/IHZSmABIse",
+              "end": 65,
+              "expanded_url": "https://x.com/KfirC10SRC/status/2055839500690153882/photo/1",
+              "media_key": "3_2055839485301248000",
+              "start": 42,
+              "url": "https://t.co/IHZSmABIse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055839500690153882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1118,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在一个不为人知的角落，其实还有个比unk还神的人，我hrt和od就间隔不到2个星期 https://t.co/IHZSmABIse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|推当QQ空间发|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|负面情绪/碎碎念移步@NiaoYou83766|⬇️匿名提问|第二人格:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 235,
+          "like_count": 1472,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T02:05:07.000Z",
+        "description": "2010年的，MTX/F？pr80重度依赖,家长不管党，双相/ADHD,   战雷空战大手子   🍥时间：2026.3.15  对象：@keplerD080311 备用号：@kfirc10block60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "keplerD080311"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "kfirc10block60"
+              }
+            ]
+          }
+        },
+        "id": "1689095384956633088",
+        "location": "Hong Kong",
+        "name": "KfirC10🍥",
+        "pinned_tweet_id": "2054139256382394384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055336215151587328/NakmBMx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 246,
+          "like_count": 381,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 492
+        },
+        "username": "KfirC10SRC",
+        "verified": false
+      }
+    ]
+  }
+}

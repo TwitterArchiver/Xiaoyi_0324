@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2052215414168678611",
+    "created_at": "2026-05-07T08:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052310568703594839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859757935267807235",
+          "start": 0,
+          "username": "kafka_ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052310568703594839",
+    "in_reply_to_user_id": "1859757935267807235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052215414168678611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kafka_ww 恭喜喵🎉🎉欢迎来到属于你的新世界）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052215411358457856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrvCySaYAABF5-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2052215414168678611",
+        "created_at": "2026-05-07T08:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052310568703594839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859757935267807235",
+              "start": 0,
+              "username": "kafka_ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052310568703594839",
+        "in_reply_to_user_id": "1859757935267807235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052215414168678611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_ww 恭喜喵🎉🎉欢迎来到属于你的新世界）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052215411358457856"
+          ]
+        },
+        "author_id": "1859757935267807235",
+        "conversation_id": "2052215414168678611",
+        "created_at": "2026-05-07T02:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052215414168678611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ga3UVYh2xL",
+              "end": 26,
+              "expanded_url": "https://x.com/kafka_ww/status/2052215414168678611/photo/1",
+              "media_key": "3_2052215411358457856",
+              "start": 3,
+              "url": "https://t.co/Ga3UVYh2xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215414168678611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 26693,
+          "like_count": 386,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好耶 https://t.co/Ga3UVYh2xL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|半日常推|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|好东西都在这个号👉@NiaoYou83766😋|⬇️匿名提问|二代目:@Johnsons8nx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Johnsons8nx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2049988057991119193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 216,
+          "like_count": 1333,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T00:37:08.000Z",
+        "description": "猫医生指导下的抑郁康复日记\n\n「この白い壁の部屋では、时間は太阳の目を避けたようだ」",
+        "id": "1859757935267807235",
+        "name": "小小卡",
+        "pinned_tweet_id": "2005887758754295912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992821090159382528/WovY5l-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 131,
+          "like_count": 243,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 758
+        },
+        "username": "kafka_ww",
+        "verified": false
+      }
+    ]
+  }
+}

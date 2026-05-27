@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2046605848248774989",
+    "created_at": "2026-04-21T15:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046605848248774989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/2046566442628448291",
+          "start": 152,
+          "url": "https://t.co/3dxyEOb9TJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046605848248774989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046566442628448291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之前对她的印象还挺好的 咱上推第一个互fo就是她 自从她开始接触od之后这么短时间内就被od洗脑了?开始无差别攻击了?已经坚信不od就是sb顺➗ 不是跨性别者也不配进跨圈 非要把这两个强绑在一起吗?跨圈已经够乱了 还要有神人吗?\n如果非要反抗的话 也不要应该用开热点 游走一段时间的形式反抗吧?不理解 https://t.co/3dxyEOb9TJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2046605848248774989",
+        "created_at": "2026-04-21T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046605848248774989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2046566442628448291",
+              "start": 152,
+              "url": "https://t.co/3dxyEOb9TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046605848248774989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046566442628448291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之前对她的印象还挺好的 咱上推第一个互fo就是她 自从她开始接触od之后这么短时间内就被od洗脑了?开始无差别攻击了?已经坚信不od就是sb顺➗ 不是跨性别者也不配进跨圈 非要把这两个强绑在一起吗?跨圈已经够乱了 还要有神人吗?\n如果非要反抗的话 也不要应该用开热点 游走一段时间的形式反抗吧?不理解 https://t.co/3dxyEOb9TJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2046566442628448291",
+        "created_at": "2026-04-21T12:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046566442628448291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2046483349192257843",
+              "start": 57,
+              "url": "https://t.co/UhSmOdBfSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046566442628448291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1529,
+          "like_count": 7,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046483349192257843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个帖子炸出来这么多三好跨啊\n三好跨能不能去死，三好跨一辈子都是男生，不配当女生，只有我们支持od的跨才配当女生 https://t.co/UhSmOdBfSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网fw!负面情绪致歉|直fo成分回|同类直接回(没看到要私信🥹)|MTX(F?)|里推@NiaoYou83766|TG群:https://t.co/Me2AWhCgJS|这些是关系好的推U @Sankta_AM @Z348457376 @aberyoheiskm @YOYOSAMA372185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Z348457376"
+              },
+              {
+                "end": 140,
+                "start": 127,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 156,
+                "start": 141,
+                "username": "YOYOSAMA372185"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sakura_xiaoyi",
+                "end": 93,
+                "expanded_url": "https://t.me/sakura_xiaoyi",
+                "start": 70,
+                "url": "https://t.co/Me2AWhCgJS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 167,
+          "like_count": 1121,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 家长不管党 → 家长党+od不管党 | 割过手，现在不割了 | o！长在春风中，活在药效里。这是最好的，也是唯一获得快乐的方式了 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2042285525139357819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 1379,
+          "like_count": 48239,
+          "listed_count": 3,
+          "media_count": 714,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

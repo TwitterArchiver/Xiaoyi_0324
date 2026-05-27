@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047007533274165248"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2046969531768484229",
+    "created_at": "2026-04-22T17:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047007538298909161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "sunnyz1811"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbKEsLEKPG",
+          "end": 49,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2047007538298909161/photo/1",
+          "media_key": "3_2047007533274165248",
+          "start": 26,
+          "url": "https://t.co/EbKEsLEKPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047007538298909161",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046996964160811432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnyz1811 去发这张图片就会喜提毕业🤫 https://t.co/EbKEsLEKPG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2047007538298909161].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2047007538298909161",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2047007538298909161"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2047007533274165248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhugYla8AAdQiL.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "2046969531768484229",
+        "created_at": "2026-04-22T16:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046996964160811432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046996964160811432",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046969531768484229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 人身攻击了也没有毕业😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|里推@NiaoYou83766|👇匿名提问|或许是个心理委员|详细BIO在置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2047000942542028836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 170,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者Tanya/I’m who you say I’m/@Sydney_Uni and @UNSW alumni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Ningshui Garden",
+        "name": "绫小路梦欣",
+        "pinned_tweet_id": "2042265408103960911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 252,
+          "like_count": 477,
+          "listed_count": 3,
+          "media_count": 516,
+          "tweet_count": 5202
+        },
+        "username": "sunnyz1811",
+        "verified": true
+      }
+    ]
+  }
+}

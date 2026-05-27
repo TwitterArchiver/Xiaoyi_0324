@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021771147319422984"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2021622741108207686",
+    "created_at": "2026-02-12T02:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T03:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021771161882046807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1699740381603409920",
+          "start": 0,
+          "username": "hll18li"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpFzN76iDa",
+          "end": 70,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2021771161882046807/photo/1",
+          "media_key": "3_2021771147319422984",
+          "start": 47,
+          "url": "https://t.co/tpFzN76iDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021771161882046807",
+    "in_reply_to_user_id": "1699740381603409920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021622741108207686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hll18li 已变为私密账号\n\nこのアカウントは現在プライベートアカウントとなっている。 https://t.co/tpFzN76iDa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021771147319422984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7GJY0bsAgYXVl.jpg",
+        "width": 945
+      },
+      {
+        "height": 678,
+        "media_key": "3_2021622736276357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4_KumbAAAHvpJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021771147319422984"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2021622741108207686",
+        "created_at": "2026-02-12T02:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T03:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021771161882046807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1699740381603409920",
+              "start": 0,
+              "username": "hll18li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpFzN76iDa",
+              "end": 70,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2021771161882046807/photo/1",
+              "media_key": "3_2021771147319422984",
+              "start": 47,
+              "url": "https://t.co/tpFzN76iDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021771161882046807",
+        "in_reply_to_user_id": "1699740381603409920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021622741108207686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hll18li 已变为私密账号\n\nこのアカウントは現在プライベートアカウントとなっている。 https://t.co/tpFzN76iDa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021622736276357120"
+          ]
+        },
+        "author_id": "1699740381603409920",
+        "conversation_id": "2021622741108207686",
+        "created_at": "2026-02-11T16:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021622741108207686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbyYi9RscI",
+              "end": 69,
+              "expanded_url": "https://x.com/hll18li/status/2021622741108207686/photo/1",
+              "media_key": "3_2021622736276357120",
+              "start": 46,
+              "url": "https://t.co/KbyYi9RscI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021622741108207686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 30597,
+          "like_count": 287,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "致所有中国用户：此账号为假冒账号。我是日本人，只会说日语。这种转发行为极其恶意，绝不容忍。 https://t.co/KbyYi9RscI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "很抱歉我的负面情绪影响到你 对不起",
+        "id": "2008812080099672064",
+        "name": "樱川由奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615504486805504/JHrCtWFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T11:04:46.000Z",
+        "description": "￤07￤🇯🇵￤HoYoCREATORS⋆꙳￤自我@hll10li｡❀￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "hll10li"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hll18li",
+                "end": 23,
+                "expanded_url": "https://lit.link/hll18li",
+                "start": 0,
+                "url": "https://t.co/FY4wR8Sqze"
+              }
+            ]
+          }
+        },
+        "id": "1699740381603409920",
+        "location": "❤️‍🔥🦋    重加工.存在しません         ",
+        "name": "曖昧 ひな",
+        "pinned_tweet_id": "1946926936703602944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953378345468710912/9AxiHL1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13365,
+          "following_count": 152,
+          "like_count": 8774,
+          "listed_count": 62,
+          "media_count": 114,
+          "tweet_count": 1256
+        },
+        "url": "https://t.co/FY4wR8Sqze",
+        "username": "hll18li",
+        "verified": false
+      }
+    ]
+  }
+}

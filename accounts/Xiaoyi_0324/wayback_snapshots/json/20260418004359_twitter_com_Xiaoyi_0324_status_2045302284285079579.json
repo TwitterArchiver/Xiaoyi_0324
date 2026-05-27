@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2045152849005559963",
+    "created_at": "2026-04-18T00:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T01:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045302284285079579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1336576654022340608",
+          "start": 0,
+          "username": "yu_kirins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045302284285079579",
+    "in_reply_to_user_id": "1336576654022340608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045300281626534288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins 代理IP是回环地址了 跟端口没关系 （？）我之前是非法结束的clash verge主进程 可能残留了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2045152849005559963",
+        "created_at": "2026-04-18T00:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045302284285079579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336576654022340608",
+              "start": 0,
+              "username": "yu_kirins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045302284285079579",
+        "in_reply_to_user_id": "1336576654022340608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045300281626534288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins 代理IP是回环地址了 跟端口没关系 （？）我之前是非法结束的clash verge主进程 可能残留了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336576654022340608",
+        "conversation_id": "2045152849005559963",
+        "created_at": "2026-04-18T00:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045300281626534288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045300281626534288",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045152849005559963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 端口错了吧，clash verge默认是7890"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网fw！负面情绪致歉|直fo成分回|同类直接回(没看到要私信🥹)|MTX(F?)|里推@NiaoYou83766|TG:https://t.co/qxwHiPDvd0|这些是关系好的推U @Sankta_AM @Z348457376 @aberyoheiskm @YOYOSAMA372185",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "Sankta_AM"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "Z348457376"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "YOYOSAMA372185"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyi_0324",
+                "end": 92,
+                "expanded_url": "http://t.me/xiaoyi_0324",
+                "start": 69,
+                "url": "https://t.co/qxwHiPDvd0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2040472479333052736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 157,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 96,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 238
+        },
+        "username": "yu_kirins",
+        "verified": false
+      }
+    ]
+  }
+}

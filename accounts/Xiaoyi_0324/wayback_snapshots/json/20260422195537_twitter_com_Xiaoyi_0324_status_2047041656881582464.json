@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2046696756826476557",
+    "created_at": "2026-04-22T19:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047041656881582464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1920869622670393344",
+          "start": 0,
+          "username": "shiina8964_hjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047041656881582464",
+    "in_reply_to_user_id": "1920869622670393344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046696756826476557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiina8964_hjt 享福去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046696744512061440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdT2GOXAAAc4r9.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2046696756826476557",
+        "created_at": "2026-04-22T19:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047041656881582464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920869622670393344",
+              "start": 0,
+              "username": "shiina8964_hjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047041656881582464",
+        "in_reply_to_user_id": "1920869622670393344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046696756826476557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiina8964_hjt 享福去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046696744512061440"
+          ]
+        },
+        "author_id": "1920869622670393344",
+        "conversation_id": "2046696756826476557",
+        "created_at": "2026-04-21T21:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T22:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046696756826476557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdKkcvj6rh",
+              "end": 34,
+              "expanded_url": "https://x.com/shiina8964_hjt/status/2046696756826476557/photo/1",
+              "media_key": "3_2046696744512061440",
+              "start": 11,
+              "url": "https://t.co/LdKkcvj6rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046696756826476557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不😭雪主席怎麼私了😭 https://t.co/LdKkcvj6rh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞!负面情绪/碎碎念致歉|直fo成分回|同类直接回(没看到要私信🥹|MTX(F?)|里推@NiaoYou83766|👇匿名提问|或许是个心理委员|详细BIO在置顶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "NiaoYou83766"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "来玩捉迷藏吧？",
+        "name": "樱川由奈🏳️‍⚧️sakura🍥",
+        "pinned_tweet_id": "2047000942542028836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 170,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T15:53:17.000Z",
+        "description": "不是跨非二元\n團派｜濤粉\n出版過：雪主席私人醫生回憶錄、《雪主席談治國理政以及跨性別OD主義三個OD代表重要思想和劉辰飛新時代跨圈特色OD主義科學發展觀十大建設五年計劃重要思想特別綱要》、雪主席談如何OD",
+        "id": "1920869622670393344",
+        "location": "中南海",
+        "name": "椎名はやはる_濤🍑回憶錄🇭🇰🇨🇳🏳️‍⚧️",
+        "pinned_tweet_id": "2046705708817621352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032561848231538691/uk5WAHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 249,
+          "like_count": 4300,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1038
+        },
+        "username": "shiina8964_hjt",
+        "verified": false
+      }
+    ]
+  }
+}
