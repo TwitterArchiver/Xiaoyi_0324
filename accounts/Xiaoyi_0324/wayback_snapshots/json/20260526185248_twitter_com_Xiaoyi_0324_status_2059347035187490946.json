@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2059326737696321838",
+    "created_at": "2026-05-26T18:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059347035187490946"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059347035187490946",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059326737696321838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梯子質量不好的話 申請發言會卡連接的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2059326737696321838",
+        "created_at": "2026-05-26T18:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059347035187490946"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059347035187490946",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059326737696321838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梯子質量不好的話 申請發言會卡連接的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2059326737696321838",
+        "created_at": "2026-05-26T17:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059326737696321838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "櫻川由奈🏳️‍⚧️Sakura’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YxNr…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YxNrrbjVLLxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2059326739101437952/Pzbohbqc?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059326739101437952/Pzbohbqc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 推特別搞我了求你了",
+              "unwound_url": "https://twitter.com/i/spaces/1YxNrrbjVLLxw/peek",
+              "url": "https://t.co/VLtRAMQZxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059326737696321838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VLtRAMQZxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2057134938068222099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 269,
+          "like_count": 1404,
+          "listed_count": 4,
+          "media_count": 230,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

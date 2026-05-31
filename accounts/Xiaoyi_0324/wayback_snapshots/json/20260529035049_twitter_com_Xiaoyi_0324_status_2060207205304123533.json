@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2059967676722872632",
+    "created_at": "2026-05-29T03:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060207205304123533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840294676391440386",
+          "start": 0,
+          "username": "miaksgo11"
+        },
+        {
+          "end": 25,
+          "id": "1440983154131488774",
+          "start": 11,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060207205304123533",
+    "in_reply_to_user_id": "1840294676391440386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059967676722872632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaksgo11 @daisy38193824 世界完蛋了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2059967676722872632",
+        "created_at": "2026-05-29T03:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060207205304123533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840294676391440386",
+              "start": 0,
+              "username": "miaksgo11"
+            },
+            {
+              "end": 25,
+              "id": "1440983154131488774",
+              "start": 11,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060207205304123533",
+        "in_reply_to_user_id": "1840294676391440386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059967676722872632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaksgo11 @daisy38193824 世界完蛋了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840294676391440386",
+        "conversation_id": "2059967676722872632",
+        "created_at": "2026-05-28T11:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059967676722872632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059967676722872632",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8850,
+          "like_count": 404,
+          "quote_count": 10,
+          "reply_count": 37,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "ㅏㅎ ㅅㅂ 예쁘면 다 되고 공부 잘허면 다 되는데 머리 좋으면 다 되고 돈 많으면 더 되는데 난 하나도 그런게 없어서 혼자 그냥 찐따처럼있는게 ㅈ같다"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 293,
+          "like_count": 1440,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-29T07:37:07.000Z",
+        "description": "먼저 말 걸어줘요..",
+        "id": "1840294676391440386",
+        "name": "미아",
+        "pinned_tweet_id": "2028525805308084503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025090775479189508/4RSysL0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 59,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "miaksgo11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：19/3/2026 |INFP-T|03/2001|重度社恐｜游戏控｜喜欢音乐 动漫 文学 可爱的小动物 摄影 画作 戏剧 电影 建筑 哲学 美食 风景｜下水道老鼠｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市某下水道",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2059972004787413115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058927454253899776/AWL9L1bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 203,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}

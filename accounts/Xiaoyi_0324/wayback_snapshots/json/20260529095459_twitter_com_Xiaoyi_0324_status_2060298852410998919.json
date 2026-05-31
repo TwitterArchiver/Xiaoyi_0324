@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060162236593885504",
+    "created_at": "2026-05-29T09:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T10:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060298852410998919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "614yuki3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060298852410998919",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060288996840989053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@614yuki3 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T09:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060298852410998919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "614yuki3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060298852410998919",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060288996840989053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@614yuki3 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830546768779755520",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T09:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060288996840989053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060288996840989053",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162236593885504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 讓我看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 295,
+          "like_count": 1448,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "警告 本アカの利用者が百合キスを見る時に笑顔表す可能性があります//\nzh-hant/en-world/ja-google\n白聖女更新了嗎 → @cecilia_updated",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "cecilia_updated"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/touhou",
+                "end": 23,
+                "expanded_url": "https://discord.gg/touhou",
+                "start": 0,
+                "url": "https://t.co/TzMCSHtSQI"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "Fumoland",
+        "name": "無意識ユキさん(ふも化済み)",
+        "pinned_tweet_id": "2055824840695906674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055932803578257408/6SHn4dLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 180,
+          "like_count": 15501,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/TzMCSHtSQI",
+        "username": "614yuki3",
+        "verified": false
+      }
+    ]
+  }
+}

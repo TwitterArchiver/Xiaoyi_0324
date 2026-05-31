@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060162236593885504",
+    "created_at": "2026-05-29T12:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060336651331911968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1785999045087125504",
+          "start": 0,
+          "username": "Tranquilnight01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060336651331911968",
+    "in_reply_to_user_id": "1785999045087125504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060319534645481909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Tranquilnight01 真的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060336651331911968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1785999045087125504",
+              "start": 0,
+              "username": "Tranquilnight01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060336651331911968",
+        "in_reply_to_user_id": "1785999045087125504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060319534645481909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Tranquilnight01 真的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785999045087125504",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T11:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060319534645481909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060319534645481909",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162236593885504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 296,
+          "like_count": 1448,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 1844
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-02T11:45:44.000Z",
+        "description": "Materialist,pacifist and furry Following back is always welcomed",
+        "id": "1785999045087125504",
+        "location": "Antarctica",
+        "name": "赤海绛天夜夜心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010308889992949760/KRz7spy5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1703,
+          "like_count": 5253,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1644
+        },
+        "username": "Tranquilnight01",
+        "verified": false
+      }
+    ]
+  }
+}

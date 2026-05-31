@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059556403237539840"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2058835820665344488",
+    "created_at": "2026-05-27T08:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059556421927412205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mfmGUMa1f",
+          "end": 40,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2059556421927412205/photo/1",
+          "media_key": "3_2059556403237539840",
+          "start": 17,
+          "url": "https://t.co/7mfmGUMa1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059556421927412205",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058835820665344488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 這還有個樂樂呢 https://t.co/7mfmGUMa1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "你們吃肯德基談戀愛能不能別要求全裝愛心\n到我手剩個樂樂",
+        "height": 1663,
+        "media_key": "3_2059556403237539840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUDowHa0AARsZV.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2058835799093968897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJ0QEfagAEnWfr.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059556403237539840"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058835820665344488",
+        "created_at": "2026-05-27T08:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059556421927412205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mfmGUMa1f",
+              "end": 40,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2059556421927412205/photo/1",
+              "media_key": "3_2059556403237539840",
+              "start": 17,
+              "url": "https://t.co/7mfmGUMa1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059556421927412205",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058835820665344488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 這還有個樂樂呢 https://t.co/7mfmGUMa1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058835799093968897"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058835820665344488",
+        "created_at": "2026-05-25T09:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058835820665344488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nbcLs80BUj",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2058835820665344488/photo/1",
+              "media_key": "3_2058835799093968897",
+              "start": 0,
+              "url": "https://t.co/nbcLs80BUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058835820665344488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 316120,
+          "like_count": 3541,
+          "quote_count": 23,
+          "reply_count": 129,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nbcLs80BUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2057134938068222099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 279,
+          "like_count": 1413,
+          "listed_count": 4,
+          "media_count": 232,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120641,
+          "following_count": 1121,
+          "like_count": 52341,
+          "listed_count": 294,
+          "media_count": 21751,
+          "tweet_count": 32220
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

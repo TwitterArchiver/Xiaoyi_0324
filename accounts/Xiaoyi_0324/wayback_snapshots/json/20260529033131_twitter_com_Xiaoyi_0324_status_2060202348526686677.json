@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060187555262316803",
+    "created_at": "2026-05-29T03:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060202348526686677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628965541057642496",
+          "start": 0,
+          "username": "Warma_Plaza"
+        },
+        {
+          "end": 22,
+          "id": "1027764083565711360",
+          "start": 13,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060202348526686677",
+    "in_reply_to_user_id": "1628965541057642496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060189543589199966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Warma_Plaza @__Inty__ 你为啥一直发颜文字（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060187555262316803",
+        "created_at": "2026-05-29T03:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060202348526686677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628965541057642496",
+              "start": 0,
+              "username": "Warma_Plaza"
+            },
+            {
+              "end": 22,
+              "id": "1027764083565711360",
+              "start": 13,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060202348526686677",
+        "in_reply_to_user_id": "1628965541057642496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060189543589199966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Warma_Plaza @__Inty__ 你为啥一直发颜文字（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628965541057642496",
+        "conversation_id": "2060187555262316803",
+        "created_at": "2026-05-29T02:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060189543589199966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060189543589199966",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060187555262316803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ Ó⁠╭⁠╮⁠Ò"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 293,
+          "like_count": 1440,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T03:50:29.000Z",
+        "description": "你好，欢迎光临！岁月的车轮，抵挡不住热烈的回忆与现实的温情！祝各位永远幸福！ヾ(≧∪≦*)ノ〃不是沃玛本尊，本尊请左转：@_Warma_\nP.S.：本账号所有言论仅代表个人观点，且在任何情况下，均不代表Warma本尊看法！˃ʍ˂\n互Fo赛高，沃欢迎各位啦~(｡･∀･)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "_Warma_"
+              }
+            ]
+          }
+        },
+        "id": "1628965541057642496",
+        "location": "忆雨座-沃玛星",
+        "name": "Warma广场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929305879756800/z9OXaqTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 7498,
+          "like_count": 670,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 9847
+        },
+        "username": "Warma_Plaza",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "Anti Chinese Communist Government . Anti Dictatorship. 为你分享世界热点新闻 | 时政聊天群 👇https://t.co/mfY4RFz0h9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 98,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 75,
+                "url": "https://t.co/mfY4RFz0h9"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754863,
+          "following_count": 8,
+          "like_count": 1997,
+          "listed_count": 2311,
+          "media_count": 39720,
+          "tweet_count": 101893
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

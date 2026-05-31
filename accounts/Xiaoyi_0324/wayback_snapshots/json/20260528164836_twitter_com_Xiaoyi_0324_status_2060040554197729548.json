@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2059950444450038010",
+    "created_at": "2026-05-28T16:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060040554197729548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1824610614414807040",
+          "start": 0,
+          "username": "RSenn77"
+        },
+        {
+          "end": 18,
+          "id": "1682445540695609345",
+          "start": 9,
+          "username": "cmyf_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060040554197729548",
+    "in_reply_to_user_id": "1824610614414807040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059950444450038010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RSenn77 @cmyf_qwq 咱也想弄一个 求教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059950441329561601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZqAyZbkAE03a0.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2059950444450038010",
+        "created_at": "2026-05-28T16:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060040554197729548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824610614414807040",
+              "start": 0,
+              "username": "RSenn77"
+            },
+            {
+              "end": 18,
+              "id": "1682445540695609345",
+              "start": 9,
+              "username": "cmyf_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060040554197729548",
+        "in_reply_to_user_id": "1824610614414807040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059950444450038010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RSenn77 @cmyf_qwq 咱也想弄一个 求教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059950441329561601"
+          ]
+        },
+        "author_id": "1824610614414807040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2059950444450038010",
+        "created_at": "2026-05-28T10:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059950444450038010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1682445540695609345",
+              "start": 14,
+              "username": "cmyf_qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lRCog62Khg",
+              "end": 78,
+              "expanded_url": "https://x.com/RSenn77/status/2059950444450038010/photo/1",
+              "media_key": "3_2059950441329561601",
+              "start": 55,
+              "url": "https://t.co/lRCog62Khg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059950444450038010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 575,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了giffgaff卡，谢谢@cmyf_qwq 喵❤️❤️❤️\ntg要注册新号还是直接把现有的86号换绑呢🤔 https://t.co/lRCog62Khg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 289,
+          "like_count": 1433,
+          "listed_count": 4,
+          "media_count": 240,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-17T00:54:14.000Z",
+        "description": "08|双|0.5|男娘🍥|175 62| 不定时掉落照片 在上高三不会很快回复 喜欢P社\n学习搭子 @452yc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 50,
+                "username": "452yc"
+              }
+            ]
+          }
+        },
+        "id": "1824610614414807040",
+        "location": "CN",
+        "name": "染染",
+        "pinned_tweet_id": "2020026068544155691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029686001074073600/aGKnTx2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 225,
+          "like_count": 34221,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 981
+        },
+        "username": "RSenn77",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖/165cm45kg/天赋党？/HRT2024.10.2已炸柜/性取向泛性恋/梦想是成为可爱的小女孩/不要上来就私信要我联系方式请说明原因/不线下,不约！！！/我们活着就是对恶意的最大反抗！/老公~@Daiduodxs @Daiduodexiaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "Daiduodxs"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "Daiduodexiaos"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3916,
+          "following_count": 350,
+          "like_count": 191,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 1034
+        },
+        "username": "cmyf_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

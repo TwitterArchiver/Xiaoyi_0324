@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059891740325392384",
+        "3_2059891740363063296",
+        "3_2059891740325416960"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1188868859400343553",
+          "name": "Tencent"
+        }
+      }
+    ],
+    "conversation_id": "2059891753067659361",
+    "created_at": "2026-05-28T06:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059891753067659361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You can view and join @YunaSakagami right away.",
+          "display_url": "t.me/YunaSakagami",
+          "end": 104,
+          "expanded_url": "http://t.me/YunaSakagami",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2057134942698758149/1aqEChzY?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057134942698758149/1aqEChzY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "title": "Sakura's Discuss",
+          "unwound_url": "https://t.me/YunaSakagami",
+          "url": "https://t.co/TBiKTDAdBy"
+        },
+        {
+          "display_url": "pic.x.com/weQgCkLYL6",
+          "end": 168,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+          "media_key": "3_2059891740325392384",
+          "start": 145,
+          "url": "https://t.co/weQgCkLYL6"
+        },
+        {
+          "display_url": "pic.x.com/weQgCkLYL6",
+          "end": 168,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+          "media_key": "3_2059891740363063296",
+          "start": 145,
+          "url": "https://t.co/weQgCkLYL6"
+        },
+        {
+          "display_url": "pic.x.com/weQgCkLYL6",
+          "end": 168,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+          "media_key": "3_2059891740325416960",
+          "start": 145,
+          "url": "https://t.co/weQgCkLYL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059891753067659361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的群疑似被腾讯制裁 申诉要等两天 故此放一个新群的二维码 看看老群能不能复活 复活不了我就又要更新我的置顶了 虽然现在也得更新（ ）欢迎各位进群喵\nTG频道:https://t.co/TBiKTDAdBy\n图三是赞赏码 赞赏的钱不会用来买药的🥹\n谢谢大家 あなたたちを愛しています❤️ https://t.co/weQgCkLYL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059891740325392384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0n8HbMAABXVZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059891740363063296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0n8QaAAACuq4.jpg",
+        "width": 945
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2059891740325416960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJY0n8HbkAAVTsS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059891740325392384",
+            "3_2059891740363063296",
+            "3_2059891740325416960"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1188868859400343553",
+              "name": "Tencent"
+            }
+          }
+        ],
+        "conversation_id": "2059891753067659361",
+        "created_at": "2026-05-28T06:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059891753067659361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @YunaSakagami right away.",
+              "display_url": "t.me/YunaSakagami",
+              "end": 104,
+              "expanded_url": "http://t.me/YunaSakagami",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2057134942698758149/1aqEChzY?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057134942698758149/1aqEChzY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "title": "Sakura's Discuss",
+              "unwound_url": "https://t.me/YunaSakagami",
+              "url": "https://t.co/TBiKTDAdBy"
+            },
+            {
+              "display_url": "pic.x.com/weQgCkLYL6",
+              "end": 168,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+              "media_key": "3_2059891740325392384",
+              "start": 145,
+              "url": "https://t.co/weQgCkLYL6"
+            },
+            {
+              "display_url": "pic.x.com/weQgCkLYL6",
+              "end": 168,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+              "media_key": "3_2059891740363063296",
+              "start": 145,
+              "url": "https://t.co/weQgCkLYL6"
+            },
+            {
+              "display_url": "pic.x.com/weQgCkLYL6",
+              "end": 168,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2059891753067659361/photo/1",
+              "media_key": "3_2059891740325416960",
+              "start": 145,
+              "url": "https://t.co/weQgCkLYL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059891753067659361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的群疑似被腾讯制裁 申诉要等两天 故此放一个新群的二维码 看看老群能不能复活 复活不了我就又要更新我的置顶了 虽然现在也得更新（ ）欢迎各位进群喵\nTG频道:https://t.co/TBiKTDAdBy\n图三是赞赏码 赞赏的钱不会用来买药的🥹\n谢谢大家 あなたたちを愛しています❤️ https://t.co/weQgCkLYL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2057134938068222099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 282,
+          "like_count": 1422,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      }
+    ]
+  }
+}

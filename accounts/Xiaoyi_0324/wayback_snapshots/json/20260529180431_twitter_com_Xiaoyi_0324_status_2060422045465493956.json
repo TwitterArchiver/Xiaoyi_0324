@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060162236593885504",
+    "created_at": "2026-05-29T18:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060422045465493956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "932061213831266304",
+          "start": 0,
+          "username": "ShiinaYuriChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060422045465493956",
+    "in_reply_to_user_id": "932061213831266304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060385494446567814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ShiinaYuriChan 桜川由奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T18:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060422045465493956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "932061213831266304",
+              "start": 0,
+              "username": "ShiinaYuriChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060422045465493956",
+        "in_reply_to_user_id": "932061213831266304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385494446567814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ShiinaYuriChan 桜川由奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "932061213831266304",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T15:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385494446567814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385494446567814",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162236593885504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 你是...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 297,
+          "like_count": 1453,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-19T01:41:25.000Z",
+        "description": "「Nekomimi Otoko」/ 🐶 @ShiinaRanChan /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ShiinaRanChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuris.moe",
+                "end": 23,
+                "expanded_url": "http://yuris.moe",
+                "start": 0,
+                "url": "https://t.co/zGwBhKMlOL"
+              }
+            ]
+          }
+        },
+        "id": "932061213831266304",
+        "location": "Bellevue, WA",
+        "name": "椎名ゆり🌇",
+        "pinned_tweet_id": "1926916679725908239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520808387981709312/4zMtoUt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4638,
+          "following_count": 1461,
+          "like_count": 72736,
+          "listed_count": 17,
+          "media_count": 185,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/zGwBhKMlOL",
+        "username": "ShiinaYuriChan",
+        "verified": false
+      }
+    ]
+  }
+}

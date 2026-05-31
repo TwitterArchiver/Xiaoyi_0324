@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059144435829788672"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2059144442452578625",
+    "created_at": "2026-05-26T05:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059144442452578625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PUjNiL45uh",
+          "end": 47,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2059144442452578625/photo/1",
+          "media_key": "3_2059144435829788672",
+          "start": 24,
+          "url": "https://t.co/PUjNiL45uh"
+        },
+        {
+          "display_url": "x.com/unkxyn/status/…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/unkxyn/status/2059105238456680889",
+          "start": 48,
+          "url": "https://t.co/8OgLPA85KA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059144442452578625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059105238456680889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你能讓ChatGPT都扣問號和繃不住 你好神哦 https://t.co/PUjNiL45uh https://t.co/8OgLPA85KA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059144435829788672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOM9F7bUAA4Rsg.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059105231196303360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNpTFSasAARbTk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059105232140017666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNpTIzaoAI2FnM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059105232894980096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNpTLnacAAfJiF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059105235176751104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNpTUHbgAAa_Lp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059144435829788672"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059144442452578625",
+        "created_at": "2026-05-26T05:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059144442452578625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUjNiL45uh",
+              "end": 47,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2059144442452578625/photo/1",
+              "media_key": "3_2059144435829788672",
+              "start": 24,
+              "url": "https://t.co/PUjNiL45uh"
+            },
+            {
+              "display_url": "x.com/unkxyn/status/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/unkxyn/status/2059105238456680889",
+              "start": 48,
+              "url": "https://t.co/8OgLPA85KA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144442452578625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059105238456680889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你能讓ChatGPT都扣問號和繃不住 你好神哦 https://t.co/PUjNiL45uh https://t.co/8OgLPA85KA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059105231196303360",
+            "3_2059105232140017666",
+            "3_2059105232894980096",
+            "3_2059105235176751104"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059105238456680889",
+        "created_at": "2026-05-26T02:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059105238456680889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiGTjs2HKg",
+              "end": 142,
+              "expanded_url": "https://x.com/UnkXyn/status/2059105238456680889/photo/1",
+              "media_key": "3_2059105231196303360",
+              "start": 119,
+              "url": "https://t.co/hiGTjs2HKg"
+            },
+            {
+              "display_url": "pic.x.com/hiGTjs2HKg",
+              "end": 142,
+              "expanded_url": "https://x.com/UnkXyn/status/2059105238456680889/photo/1",
+              "media_key": "3_2059105232140017666",
+              "start": 119,
+              "url": "https://t.co/hiGTjs2HKg"
+            },
+            {
+              "display_url": "pic.x.com/hiGTjs2HKg",
+              "end": 142,
+              "expanded_url": "https://x.com/UnkXyn/status/2059105238456680889/photo/1",
+              "media_key": "3_2059105232894980096",
+              "start": 119,
+              "url": "https://t.co/hiGTjs2HKg"
+            },
+            {
+              "display_url": "pic.x.com/hiGTjs2HKg",
+              "end": 142,
+              "expanded_url": "https://x.com/UnkXyn/status/2059105238456680889/photo/1",
+              "media_key": "3_2059105235176751104",
+              "start": 119,
+              "url": "https://t.co/hiGTjs2HKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059105238456680889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Unk被社会不良少年欺负了😭\n\n我凌晨5点半散步时，我发现了一个超市冰柜的柜门可以稍微拉开🥹，（锁🔒是在柜门最下面的，所以放在上面的饮料就很容易大力出奇迹偷出来(p1,2,3）我一开始偷了2瓶茶π 1瓶 水溶西柚汁和1个柠檬曲奇味德芙🍫\n\n然后一个高中生走过来，我以为他只是好奇我在干什么，结果没想到他说要见者有份😭，他就把我的三瓶都拿走了😭，我就意识到他是社会不良少年😭，吃糖后我的力气很小🥺👉👈，也跑不过他，还被他踹了几脚😭只拿到了一个德芙😭还被他暴打了一顿😭，我膝盖也受伤了🤕，衣服也脏了😣\n\n我本以为这件事就结束了，结果过了十几分钟他带了另一个不良少年来😭，把我刚偷的2瓶茶π 和1瓶东方树叶偷走了😭，但我口袋里的2个柠檬曲奇味德芙还在🥺\n\n最后过来一会儿甚至把他们一伙不良少年都来了😭总共3男1女，他们都是休学的，他们又把我偷的2瓶茶π 1瓶可口可乐，他们抢走了2瓶😭，就好心给我留了个茶π🥺\n\n他们好坏😭，欺负我这个没力气的小女孩🥺👉👈，还打我🥺，还询问我都个人信息:学校 班级 岁数 （但我都没说真实的）那时我偷偷拍他们，可以发现后删了照片，他们还威胁要把我的手机恢复出厂设置和qq注销😭😭😭（但实际上没有）\n\n结果又一个人问我口袋里有什么？我拿出几颗泰补说这是感冒药🥺，但他们不信，然后他又说是不是右美沙芬🤔我说不是，我意识到这几个不良少年也是oder😰\n\n然后他们也放我走了………\n不过他们手里还有我偷饮料的录像😭，怕他们报警😭也怕超市老板发现异常后报警，我还不想被晶啊😭，我偷的东西就价值几十块钱而已，我也有那些不良少年的照片(p4可以看到他手里有饮料)，但是我被不良少年霸凌了😭，现在非常害怕😭被晶后怕我的普瑞和右美被晶哥收走了😭\n\n就这样，我最终拿到了2块柠檬曲奇味巧克力+1瓶茶π，那些不良少年拿到了6瓶茶π+1瓶东方树叶+1瓶可口可乐😭\n\n还有我偷东西是不对的🥺👉👈，以后不会再偷了😭，对不起🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5861,
+          "like_count": 60,
+          "quote_count": 11,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "Unk被社会不良少年欺负了😭\n\n我凌晨5点半散步时，我发现了一个超市冰柜的柜门可以稍微拉开🥹，（锁🔒是在柜门最下面的，所以放在上面的饮料就很容易大力出奇迹偷出来(p1,2,3）我一开始偷了2瓶茶π 1瓶 水溶西柚汁和1个柠檬曲奇味德芙🍫 https://t.co/hiGTjs2HKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTX(F?)|出柜:26/4/30|家长不管党?|🍥筹备中|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura",
+        "pinned_tweet_id": "2057134938068222099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 261,
+          "like_count": 1374,
+          "listed_count": 4,
+          "media_count": 225,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|she/her|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 121,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 152,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 129,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unksleep",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unksleep",
+                "start": 0,
+                "url": "https://t.co/ghYDrXHyAC"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "✟𝑈𝑛𝑘✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058941201072668672/Muikm5oB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 1484,
+          "like_count": 17887,
+          "listed_count": 4,
+          "media_count": 501,
+          "tweet_count": 2836
+        },
+        "url": "https://t.co/ghYDrXHyAC",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

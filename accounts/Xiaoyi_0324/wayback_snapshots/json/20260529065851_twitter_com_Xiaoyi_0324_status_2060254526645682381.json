@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060162236593885504",
+    "created_at": "2026-05-29T06:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060254526645682381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051880722172882944",
+          "start": 0,
+          "username": "HUS632788630220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060254526645682381",
+    "in_reply_to_user_id": "2051880722172882944",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060251418402140554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HUS632788630220 …？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T06:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060254526645682381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051880722172882944",
+              "start": 0,
+              "username": "HUS632788630220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060254526645682381",
+        "in_reply_to_user_id": "2051880722172882944",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060251418402140554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HUS632788630220 …？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051880722172882944",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T06:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060251418402140554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060251418402140554",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162236593885504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 回复不了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 294,
+          "like_count": 1441,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T04:24:32.000Z",
+        "description": "",
+        "id": "2051880722172882944",
+        "location": "离死亡最近的地方",
+        "name": "HUS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055666437122088960/YJgZn5vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 232
+        },
+        "username": "HUS632788630220",
+        "verified": false
+      }
+    ]
+  }
+}

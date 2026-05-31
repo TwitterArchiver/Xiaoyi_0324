@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060335335637479490",
+    "created_at": "2026-05-29T12:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060335335637479490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060335335637479490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这期神了 \n我昨天一晚上没睡觉 下午的时候想补个觉 结果补了一个小时莫名其妙自己醒了\n然后就坚持到了现在 困的我眼睛都充血了 都TM脑雾了😇还是睡不着\n已经快30个小时了\n失眠讨厌…讨厌躯体化…\n家里人刚才还在家里拌嘴\n\n我刚去看了泰补和色 价格太贵了 买不起…\n只能继续低成本HRT…\n时间好漫长 好麻烦 好痛苦…\n要是女生就不会有这么多麻烦事了吧…\n✝️昇天✝️"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "这期神了 \n我昨天一晚上没睡觉 下午的时候想补个觉 结果补了一个小时莫名其妙自己醒了\n然后就坚持到了现在 困的我眼睛都充血了 都TM脑雾了😇还是睡不着\n已经快30个小时了\n失眠讨厌…讨厌躯体化…\n家里人刚才还在家里拌嘴\n\n我刚去看了泰补和色 价格太贵了 买不起…\n只能继续低成本HRT…\n时间好漫长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060335335637479490",
+        "created_at": "2026-05-29T12:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060335335637479490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060335335637479490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这期神了 \n我昨天一晚上没睡觉 下午的时候想补个觉 结果补了一个小时莫名其妙自己醒了\n然后就坚持到了现在 困的我眼睛都充血了 都TM脑雾了😇还是睡不着\n已经快30个小时了\n失眠讨厌…讨厌躯体化…\n家里人刚才还在家里拌嘴\n\n我刚去看了泰补和色 价格太贵了 买不起…\n只能继续低成本HRT…\n时间好漫长 好麻烦 好痛苦…\n要是女生就不会有这么多麻烦事了吧…\n✝️昇天✝️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这期神了 \n我昨天一晚上没睡觉 下午的时候想补个觉 结果补了一个小时莫名其妙自己醒了\n然后就坚持到了现在 困的我眼睛都充血了 都TM脑雾了😇还是睡不着\n已经快30个小时了\n失眠讨厌…讨厌躯体化…\n家里人刚才还在家里拌嘴\n\n我刚去看了泰补和色 价格太贵了 买不起…\n只能继续低成本HRT…\n时间好漫长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 296,
+          "like_count": 1448,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

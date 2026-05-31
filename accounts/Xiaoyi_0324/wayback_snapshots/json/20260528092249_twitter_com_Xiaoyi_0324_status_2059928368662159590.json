@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2059799957818003502",
+    "created_at": "2026-05-28T09:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059928368662159590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2015213345847300096",
+          "start": 0,
+          "username": "XynUnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059928368662159590",
+    "in_reply_to_user_id": "2015213345847300096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059923178701647924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynUnk 貴死了我靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2059799957818003502",
+        "created_at": "2026-05-28T09:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059928368662159590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2015213345847300096",
+              "start": 0,
+              "username": "XynUnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059928368662159590",
+        "in_reply_to_user_id": "2015213345847300096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923178701647924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynUnk 貴死了我靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015213345847300096",
+        "conversation_id": "2059799957818003502",
+        "created_at": "2026-05-28T09:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059923178701647924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059923178701647924",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059922847892668516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 找糖商买啊 有些能到200以下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 282,
+          "like_count": 1424,
+          "listed_count": 4,
+          "media_count": 237,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T00:02:43.000Z",
+        "description": "永远怀念@Unkxyn，我的2699fo啊😭|MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|she/her|年龄党+家长不管党|对象@Lvmaosamaqwq\n|生产日期11.13.2011|159cm50kg|Oder💊|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "Unkxyn"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Lvmaosamaqwq"
+              }
+            ]
+          }
+        },
+        "id": "2015213345847300096",
+        "name": "2.✟Unk✟🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2054692978460078311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059324193427374080/g39fOwMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 620,
+          "like_count": 809,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 119
+        },
+        "username": "XynUnk",
+        "verified": false
+      }
+    ]
+  }
+}
