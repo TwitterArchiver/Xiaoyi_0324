@@ -1,0 +1,129 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060692021690740851",
+    "created_at": "2026-05-30T11:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060692021690740851"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060692021690740851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天我的PEu盘炸了…\n所以我想着自制一个pe系统\n原因其实是其他第三方的要么有广告 要么没有适合自己的功能 所以打算自己做\n最开始先是搜了B站 也没找到教程…\n于是就和ai开始讨论 自己学 忙了三个小时 终于构建打包了镜像\n想着先用虚拟机测试一下 结果打开就卡在了System configuration,Place Wait...\n后面抱着一点侥幸心理 又学习了怎么把ISO刻录到U盘 想着用实体机试试\n还是一样的结果……\n历经千辛万苦打包的镜像 最终竹篮打水一场空😭\n我再也不会尝试自己构建PE了 气死我了\n✝️"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天我的PEu盘炸了…\n所以我想着自制一个pe系统\n原因其实是其他第三方的要么有广告 要么没有适合自己的功能 所以打算自己做\n最开始先是搜了B站 也没找到教程…\n于是就和ai开始讨论 自己学 忙了三个小时 终于构建打包了镜像\n想着先用虚拟机测试一下 结果打开就卡在了System configuration,Place Wait..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060692021690740851",
+        "created_at": "2026-05-30T11:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060692021690740851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060692021690740851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天我的PEu盘炸了…\n所以我想着自制一个pe系统\n原因其实是其他第三方的要么有广告 要么没有适合自己的功能 所以打算自己做\n最开始先是搜了B站 也没找到教程…\n于是就和ai开始讨论 自己学 忙了三个小时 终于构建打包了镜像\n想着先用虚拟机测试一下 结果打开就卡在了System configuration,Place Wait...\n后面抱着一点侥幸心理 又学习了怎么把ISO刻录到U盘 想着用实体机试试\n还是一样的结果……\n历经千辛万苦打包的镜像 最终竹篮打水一场空😭\n我再也不会尝试自己构建PE了 气死我了\n✝️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我的PEu盘炸了…\n所以我想着自制一个pe系统\n原因其实是其他第三方的要么有广告 要么没有适合自己的功能 所以打算自己做\n最开始先是搜了B站 也没找到教程…\n于是就和ai开始讨论 自己学 忙了三个小时 终于构建打包了镜像\n想着先用虚拟机测试一下 结果打开就卡在了System configuration,Place Wait..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 300,
+          "like_count": 1459,
+          "listed_count": 6,
+          "media_count": 245,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

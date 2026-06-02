@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060661685862736139",
+    "created_at": "2026-05-30T13:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060709260074623192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060709260074623192",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060661685862736139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 辛苦了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2060661682331148288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjw4dmbYAADBXZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060661685862736139",
+        "created_at": "2026-05-30T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060709260074623192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060709260074623192",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060661685862736139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 辛苦了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060661682331148288"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2060661685862736139",
+        "created_at": "2026-05-30T09:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060661685862736139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "twitterarchiver.github.io/home/search.ht…",
+              "end": 69,
+              "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+              "start": 46,
+              "status": 200,
+              "title": "全站时间线 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+              "url": "https://t.co/DQ2cwaq6r0"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/home/guestbook…",
+              "end": 110,
+              "expanded_url": "http://twitterarchiver.github.io/home/guestbook.html",
+              "start": 87,
+              "status": 200,
+              "title": "留言板 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/guestbook.html",
+              "url": "https://t.co/5dvZBiZRv1"
+            },
+            {
+              "display_url": "twitterarchiver.github.io/home/search.ht…",
+              "end": 153,
+              "expanded_url": "http://twitterarchiver.github.io/home/search.html",
+              "start": 130,
+              "status": 200,
+              "title": "全站时间线 · TwitterArchiver",
+              "unwound_url": "https://twitterarchiver.github.io/home/search.html",
+              "url": "https://t.co/DQ2cwaq6r0"
+            },
+            {
+              "display_url": "pic.x.com/OasqKdAZbZ",
+              "end": 177,
+              "expanded_url": "https://x.com/sjshb57/status/2060661685862736139/photo/1",
+              "media_key": "3_2060661682331148288",
+              "start": 154,
+              "url": "https://t.co/OasqKdAZbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060661685862736139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 120,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "[TwitterArchiver]已完成数据中心化！！\n\n现在可以在此处查看所有人的推文！\nhttps://t.co/DQ2cwaq6r0\n开放了留言板功能！欢迎大家留言！\nhttps://t.co/5dvZBiZRv1\n左侧是现在的Home页面，非常美丽！\nhttps://t.co/DQ2cwaq6r0 https://t.co/OasqKdAZbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 300,
+          "like_count": 1461,
+          "listed_count": 6,
+          "media_count": 247,
+          "tweet_count": 1891
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2059963380421804541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 427,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      }
+    ]
+  }
+}

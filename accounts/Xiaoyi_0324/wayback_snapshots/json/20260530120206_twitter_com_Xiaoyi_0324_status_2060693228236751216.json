@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2060340461425049776",
+    "created_at": "2026-05-30T12:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060693228236751216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911234427126190080",
+          "start": 0,
+          "username": "ruriyoi_PB_art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060693228236751216",
+    "in_reply_to_user_id": "1911234427126190080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060677691347767737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruriyoi_PB_art あなたの新作がとても楽しみです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060340461425049776",
+        "created_at": "2026-05-30T12:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060693228236751216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911234427126190080",
+              "start": 0,
+              "username": "ruriyoi_PB_art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060693228236751216",
+        "in_reply_to_user_id": "1911234427126190080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060677691347767737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruriyoi_PB_art あなたの新作がとても楽しみです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911234427126190080",
+        "conversation_id": "2060340461425049776",
+        "created_at": "2026-05-30T11:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060677691347767737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060677691347767737",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060586326425256277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 わあ、ありがとうございます✨\n小さなケーキみたいなホシノちゃん……その表現すごく可愛いです。\nちょこんと甘い夏味になっていたら嬉しいです🫧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 301,
+          "like_count": 1460,
+          "listed_count": 6,
+          "media_count": 246,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T01:46:20.000Z",
+        "description": "夜に沈みきらず、奏でられる星の音　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n夕暮れの光を背に、駆け抜けていった青の記憶　　　　　　　　　　　　　　　　　　　\n\n数多の瑠璃めく煌めきが、一枚の絵となって花ひらき　　　　　　　　　　　　　　　\n親愛なるあなたへ、風に乗って届きますように🕊️💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=Sw1Flg…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=Sw1Flgub9s8",
+                "start": 0,
+                "url": "https://t.co/mndqAscTSX"
+              }
+            ]
+          }
+        },
+        "id": "1911234427126190080",
+        "location": "春泥棒 - ヨルシカさん",
+        "name": "るりよい 〜Pearl Blue〜 🎨Art",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027556857720803328/uZbTCujq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10375,
+          "following_count": 5209,
+          "like_count": 3335,
+          "listed_count": 63,
+          "media_count": 122,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/mndqAscTSX",
+        "username": "ruriyoi_PB_art",
+        "verified": false
+      }
+    ]
+  }
+}
