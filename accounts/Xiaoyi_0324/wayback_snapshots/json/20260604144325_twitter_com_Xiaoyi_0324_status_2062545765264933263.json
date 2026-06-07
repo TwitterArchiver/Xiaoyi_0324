@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062447351994994828",
+    "created_at": "2026-06-04T14:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062545765264933263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062545765264933263",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062487057612800348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kukmoon97 你的不比我多…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062447351994994828",
+        "created_at": "2026-06-04T14:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062545765264933263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545765264933263",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062487057612800348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kukmoon97 你的不比我多…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "conversation_id": "2062447351994994828",
+        "created_at": "2026-06-04T10:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062487057612800348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062487057612800348",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062447351994994828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 恭喜恭喜，这是一个里程碑。能不能透露一下你的涨粉秘诀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 319,
+          "like_count": 1552,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 生活在斩杀线之下｜前 #伪娘｜现 #跨性别 女 🌸 Live under kill line ｜ Fmr #crossdresser #CD｜Curr #MtF #transgender #TS 🌸 殺戮ラインの下で生きる｜元 #女装子｜今や #ニューハーフ 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "伪娘"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "跨性别"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "CD"
+              },
+              {
+                "end": 82,
+                "start": 78,
+                "tag": "MtF"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "tag": "transgender"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "TS"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "女装子"
+              },
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061961058286501975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5684,
+          "following_count": 5268,
+          "like_count": 98153,
+          "listed_count": 4,
+          "media_count": 1884,
+          "tweet_count": 15623
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": true
+      }
+    ]
+  }
+}

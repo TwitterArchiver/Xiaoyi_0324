@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2061246761839247708",
+    "created_at": "2026-06-01T23:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061598502485184668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699333846297456640",
+          "start": 0,
+          "username": "LizhiQtian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061598502485184668",
+    "in_reply_to_user_id": "1699333846297456640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061246761839247708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LizhiQtian 你敢质疑国窖的魅力？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 840,
+        "media_key": "3_2061246746987048960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsE_tSXsAAucv0.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2061246761839247708",
+        "created_at": "2026-06-01T23:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061598502485184668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699333846297456640",
+              "start": 0,
+              "username": "LizhiQtian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061598502485184668",
+        "in_reply_to_user_id": "1699333846297456640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061246761839247708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LizhiQtian 你敢质疑国窖的魅力？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061246746987048960"
+          ]
+        },
+        "author_id": "1699333846297456640",
+        "conversation_id": "2061246761839247708",
+        "created_at": "2026-06-01T00:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061246761839247708"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "饮品推荐"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bezjUPeVHm",
+              "end": 83,
+              "expanded_url": "https://x.com/LizhiQtian/status/2061246761839247708/photo/1",
+              "media_key": "3_2061246746987048960",
+              "start": 60,
+              "url": "https://t.co/bezjUPeVHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061246761839247708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4191,
+          "like_count": 49,
+          "quote_count": 3,
+          "reply_count": 76,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "饮料 #饮品推荐 #从小喝的饮料#适合夏天的饮料  都是 4块钱的饮料，哪瓶最好喝，你会最先喝哪一 瓶～评论#饮料分享 https://t.co/bezjUPeVHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 308,
+          "like_count": 1495,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T08:09:08.000Z",
+        "description": "跨过星河迈过月亮去迎接更好的自己。\n互fo\nCross the stars over the moon to meet your betterself.\n(部分图片来源网站，如侵联删)",
+        "id": "1699333846297456640",
+        "name": "荔枝Q甜(互fo)",
+        "pinned_tweet_id": "2001097867822555270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699679567143968768/Six19y-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18046,
+          "following_count": 14384,
+          "like_count": 55506,
+          "listed_count": 28,
+          "media_count": 8515,
+          "tweet_count": 10673
+        },
+        "username": "LizhiQtian",
+        "verified": false
+      }
+    ]
+  }
+}

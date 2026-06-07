@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062658283010441222",
+    "created_at": "2026-06-05T00:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062690599707574741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007397795532333056",
+          "start": 0,
+          "username": "shaoxiancao1314"
+        },
+        {
+          "end": 28,
+          "id": "2054877291633909760",
+          "start": 17,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062690599707574741",
+    "in_reply_to_user_id": "2007397795532333056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062690010021896274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao1314 @TransYuwen 我挑在哪里？这是我的个人看法 我认为没有经过他人允许 擅自注销他人的账号就是不对啊 有问题吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062658283010441222",
+        "created_at": "2026-06-05T00:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062690599707574741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007397795532333056",
+              "start": 0,
+              "username": "shaoxiancao1314"
+            },
+            {
+              "end": 28,
+              "id": "2054877291633909760",
+              "start": 17,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062690599707574741",
+        "in_reply_to_user_id": "2007397795532333056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062690010021896274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao1314 @TransYuwen 我挑在哪里？这是我的个人看法 我认为没有经过他人允许 擅自注销他人的账号就是不对啊 有问题吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007397795532333056",
+        "conversation_id": "2062658283010441222",
+        "created_at": "2026-06-05T00:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062690010021896274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062690010021896274",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062678599355056419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @TransYuwen 非要在鸡蛋里挑骨头吗🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 318,
+          "like_count": 1564,
+          "listed_count": 3,
+          "media_count": 269,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T10:25:12.000Z",
+        "description": "低价🍥客服\n https://t.co/PBMuiF9RT5\ntg公告通知频道https://t.co/JRh1GMpZFp\ntg售后聊天群https://t.co/bCgbn8KY2x\n蓝V互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qianxian1314520",
+                "end": 30,
+                "expanded_url": "http://t.me/qianxian1314520",
+                "start": 7,
+                "url": "https://t.co/PBMuiF9RT5"
+              },
+              {
+                "display_url": "t.me/tangyuwendetan…",
+                "end": 62,
+                "expanded_url": "http://t.me/tangyuwendetang520",
+                "start": 39,
+                "url": "https://t.co/JRh1GMpZFp"
+              },
+              {
+                "display_url": "t.me/+EVeqakNumwY5O…",
+                "end": 93,
+                "expanded_url": "https://t.me/+EVeqakNumwY5OTNh",
+                "start": 70,
+                "url": "https://t.co/bCgbn8KY2x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesmtf.com",
+                "end": 23,
+                "expanded_url": "http://yesmtf.com",
+                "start": 0,
+                "url": "https://t.co/Z6vEIn46JX"
+              }
+            ]
+          }
+        },
+        "id": "2007397795532333056",
+        "name": "烧仙草🍥🏳️‍⚧️（糖🍥商）",
+        "pinned_tweet_id": "2021027137004896416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029278451736485888/iKkTT_aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 460,
+          "like_count": 6173,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/Z6vEIn46JX",
+        "username": "shaoxiancao1314",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | Dom | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |不肉偿 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/tw4eduhItL"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2062658283010441222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 44,
+          "like_count": 350,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 1596
+        },
+        "url": "https://t.co/tw4eduhItL",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

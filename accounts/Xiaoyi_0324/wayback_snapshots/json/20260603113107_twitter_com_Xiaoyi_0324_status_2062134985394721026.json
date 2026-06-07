@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062134985394721026",
+    "created_at": "2026-06-03T11:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062134985394721026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/youling_qaq/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/youling_qaq/status/2061944474855670225",
+          "start": 32,
+          "url": "https://t.co/YHIx6npW9f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062134985394721026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061944474855670225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "借助我的热度 救救她！\n不想再看见有互fo离开了 一个都不要🥺 https://t.co/YHIx6npW9f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062134985394721026",
+        "created_at": "2026-06-03T11:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062134985394721026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youling_qaq/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/youling_qaq/status/2061944474855670225",
+              "start": 32,
+              "url": "https://t.co/YHIx6npW9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062134985394721026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061944474855670225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "借助我的热度 救救她！\n不想再看见有互fo离开了 一个都不要🥺 https://t.co/YHIx6npW9f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "conversation_id": "2061944474855670225",
+        "created_at": "2026-06-02T22:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061944474855670225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061944474855670225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 404,
+          "like_count": 17,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "吃钡失败，没死成功，今天再试一遍，要是还没死我真没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 310,
+          "like_count": 1536,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "……？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basibatuo.fun",
+                "end": 23,
+                "expanded_url": "http://basibatuo.fun/",
+                "start": 0,
+                "url": "https://t.co/po9ukaW6p6"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 979,
+          "like_count": 3626,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/po9ukaW6p6",
+        "username": "youling_qaq",
+        "verified": true
+      }
+    ]
+  }
+}

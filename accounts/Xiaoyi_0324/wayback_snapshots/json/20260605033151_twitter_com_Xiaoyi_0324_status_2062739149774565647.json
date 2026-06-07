@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062739149774565647",
+    "created_at": "2026-06-05T03:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062739149774565647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        },
+        {
+          "end": 32,
+          "id": "1996177553422520320",
+          "start": 20,
+          "username": "AydenW42638"
+        },
+        {
+          "end": 44,
+          "id": "2054877291633909760",
+          "start": 33,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062739149774565647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062607387367027085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: @AydenW42638 @TransYuwen 您有何高见？他在国外的时候每天凌晨四点起来哄她睡觉的又不是你，预支工资辞掉工作飞过来陪她的又不是你，给他干这干那又当心理咨询师又当生活助理的又不是你，偷偷换掉她亚硝酸钠的又不是你，o大了陪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062739149774565647",
+        "created_at": "2026-06-05T03:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062739149774565647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            },
+            {
+              "end": 32,
+              "id": "1996177553422520320",
+              "start": 20,
+              "username": "AydenW42638"
+            },
+            {
+              "end": 44,
+              "id": "2054877291633909760",
+              "start": 33,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062739149774565647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062607387367027085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: @AydenW42638 @TransYuwen 您有何高见？他在国外的时候每天凌晨四点起来哄她睡觉的又不是你，预支工资辞掉工作飞过来陪她的又不是你，给他干这干那又当心理咨询师又当生活助理的又不是你，偷偷换掉她亚硝酸钠的又不是你，o大了陪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2062453803253989773",
+        "created_at": "2026-06-04T18:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062607387367027085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996177553422520320",
+              "start": 0,
+              "username": "AydenW42638"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062607387367027085",
+        "in_reply_to_user_id": "1996177553422520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 496,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062605294505783696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AydenW42638 @TransYuwen 您有何高见？他在国外的时候每天凌晨四点起来哄她睡觉的又不是你，预支工资辞掉工作飞过来陪她的又不是你，给他干这干那又当心理咨询师又当生活助理的又不是你，偷偷换掉她亚硝酸钠的又不是你，o大了陪她洗胃陪她上厕所的又不是你，拦着他跳楼吃药被他咬胳膊的又不是你\n\n你要是真能救他妈的早出主意啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 320,
+          "like_count": 1568,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州无业游民，大龄肥猪mtx，懂点心理学，经济和美学，偶尔会画画，如果能帮到你很荣幸\n鱼鱼妹妹：@siuuuuneo\n\n如果你有自杀倾向请远离我谢谢，我不想承受",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "siuuuuneo"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2062549162135363924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 492,
+          "like_count": 3443,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 3643
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-03T11:20:00.000Z",
+        "description": "Eng/福州话/男娘~/🚪88/已成年所有发布内容均自愿/主号@nekostar114/老公@Bunnynekoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "nekostar114"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Bunnynekoyo"
+              }
+            ]
+          }
+        },
+        "id": "1996177553422520320",
+        "name": "nekostar（2.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048418455985242112/CfKMqUUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 58,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "AydenW42638",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | Dom | 70公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her | 鉴跨专家 |不肉偿 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nomtf.com",
+                "end": 23,
+                "expanded_url": "http://nomtf.com",
+                "start": 0,
+                "url": "https://t.co/tw4eduhItL"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2062658283010441222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 44,
+          "like_count": 350,
+          "listed_count": 4,
+          "media_count": 235,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/tw4eduhItL",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

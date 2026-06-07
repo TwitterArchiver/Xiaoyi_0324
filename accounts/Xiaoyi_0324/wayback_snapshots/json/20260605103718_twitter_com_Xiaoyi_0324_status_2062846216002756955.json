@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062840261617848534",
+    "created_at": "2026-06-05T10:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062846216002756955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946593949180993536",
+          "start": 0,
+          "username": "RogerDisboard"
+        },
+        {
+          "end": 22,
+          "id": "1959893383633358848",
+          "start": 15,
+          "username": "Cbscfe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20627…",
+          "end": 79,
+          "expanded_url": "https://x.com/i/status/2062704425001701833",
+          "start": 56,
+          "url": "https://t.co/nkVfDDv01o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062846216002756955",
+    "in_reply_to_user_id": "1946593949180993536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062704425001701833",
+        "type": "quoted"
+      },
+      {
+        "id": "2062840261617848534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RogerDisboard @Cbscfe 注销账号也是有原因的 虽然我不知道为什么不申请停用创作者收益……\nhttps://t.co/nkVfDDv01o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062846216002756955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946593949180993536",
+              "start": 0,
+              "username": "RogerDisboard"
+            },
+            {
+              "end": 22,
+              "id": "1959893383633358848",
+              "start": 15,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20627…",
+              "end": 79,
+              "expanded_url": "https://x.com/i/status/2062704425001701833",
+              "start": 56,
+              "url": "https://t.co/nkVfDDv01o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062846216002756955",
+        "in_reply_to_user_id": "1946593949180993536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062704425001701833",
+            "type": "quoted"
+          },
+          {
+            "id": "2062840261617848534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RogerDisboard @Cbscfe 注销账号也是有原因的 虽然我不知道为什么不申请停用创作者收益……\nhttps://t.co/nkVfDDv01o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2062658283010441222",
+        "created_at": "2026-06-05T01:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062704425001701833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062704425001701833",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1323,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062678599355056419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @TransYuwen 马斯克给他的钱你知道他会拿来干什么吗？现在还有一盒dpt在路上，他想用滞留针静脉注射，在医院输吊瓶的时候一直跟我说这个能不能不拔掉，想留着注射dpt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062840261617848534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transyuwen/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/transyuwen/status/2062658283010441222",
+              "start": 144,
+              "url": "https://t.co/naRUx7VX5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062840261617848534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062658283010441222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅为Roger的个人看法\n\n我本人在过去的一个月里和水母交流了很多，我也清楚没有实际上没有人能帮到她，因而我不在这里讨论人权和生命孰轻孰重\n\n然而注销账号…你们有想过水母的未来吗？考虑过出院之后会怎么样吗？你们到底是在拯救她还是粉碎她的生活呢？\n\n随便就将一个人全部的过往抹去…不可饶恕 https://t.co/naRUx7VX5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 321,
+          "like_count": 1570,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/得到@Aureliax17QwQ认证但是失败的心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1034,
+          "like_count": 7884,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1902
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 679,
+          "like_count": 24276,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 5923
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州无业游民，大龄肥猪mtx，懂点心理学，经济和美学，偶尔会画画，如果能帮到你很荣幸\n鱼鱼妹妹：@siuuuuneo\n\n如果你有自杀倾向请远离我谢谢，我不想承受",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "siuuuuneo"
+              }
+            ]
+          }
+        },
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2062549162135363924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 492,
+          "like_count": 3443,
+          "listed_count": 2,
+          "media_count": 460,
+          "tweet_count": 3661
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

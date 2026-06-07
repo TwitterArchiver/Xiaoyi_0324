@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062447351994994828",
+    "created_at": "2026-06-04T14:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062545469520363895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1888199914548822016",
+          "start": 0,
+          "username": "kurari_kurari00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062545469520363895",
+    "in_reply_to_user_id": "1888199914548822016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062477137488261163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kurari_kurari00 发点增加互动性的内容 点赞会高一点 其次 少发负面推🫪神秘机制不知道为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062447351994994828",
+        "created_at": "2026-06-04T14:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062545469520363895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1888199914548822016",
+              "start": 0,
+              "username": "kurari_kurari00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062545469520363895",
+        "in_reply_to_user_id": "1888199914548822016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062477137488261163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kurari_kurari00 发点增加互动性的内容 点赞会高一点 其次 少发负面推🫪神秘机制不知道为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888199914548822016",
+        "conversation_id": "2062447351994994828",
+        "created_at": "2026-06-04T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062477137488261163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062477137488261163",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062447351994994828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 恭喜呀……\n另外，我也想請教一下增加流量的秘訣呢🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 319,
+          "like_count": 1547,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-08T12:16:20.000Z",
+        "description": "這裏是文魚♥~   本人廣井菊裏激推！！\n\nINFP/不鍵政/末世浪漫主義/fo我必回~~",
+        "id": "1888199914548822016",
+        "name": "魚文魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042950341457776642/GcKDKQWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 118,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 96
+        },
+        "username": "kurari_kurari00",
+        "verified": true
+      }
+    ]
+  }
+}
