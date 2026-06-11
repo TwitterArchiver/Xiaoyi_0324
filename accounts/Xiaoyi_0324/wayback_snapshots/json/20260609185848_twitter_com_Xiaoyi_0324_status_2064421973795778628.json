@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2064180767056658871",
+    "created_at": "2026-06-09T18:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064421973795778628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        },
+        {
+          "end": 28,
+          "id": "1957003704617639936",
+          "start": 12,
+          "username": "wzh123456775879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064421973795778628",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064180767056658871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX @wzh123456775879 把懷疑去掉 所以我早就屏蔽了他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2064180764175183872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVxd_DbMAAFIA_.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2064180767056658871",
+        "created_at": "2026-06-09T18:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064421973795778628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            },
+            {
+              "end": 28,
+              "id": "1957003704617639936",
+              "start": 12,
+              "username": "wzh123456775879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064421973795778628",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064180767056658871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX @wzh123456775879 把懷疑去掉 所以我早就屏蔽了他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064180764175183872"
+          ]
+        },
+        "author_id": "2035758475209572352",
+        "conversation_id": "2064180767056658871",
+        "created_at": "2026-06-09T03:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064180767056658871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1957003704617639936",
+              "start": 3,
+              "username": "wzh123456775879"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EF16GErZYx",
+              "end": 52,
+              "expanded_url": "https://x.com/LoveMikuBX/status/2064180767056658871/photo/1",
+              "media_key": "3_2064180764175183872",
+              "start": 29,
+              "url": "https://t.co/EF16GErZYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064180767056658871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掛一下@wzh123456775879 \n我懷疑它是串的 https://t.co/EF16GErZYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|长度限制部分BIO在里推:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 331,
+          "like_count": 1629,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n|友跨🏳️‍⚧️🏳️‍🌈|順男|陽性精分|泛性戀|國族主義/社會民主主義/左翼民族主義/溫和左翼|陸統派，也支持華統派|理性思考，包容不同政見|閩臺係|\n歡迎加入「中華統一復興大會」@ChineseURC_BOT\n望友好交流。查成分互fo\n藍v暑假再續",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "🇨🇳中國大陸•福建寧德",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1512,
+          "like_count": 15016,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 4799
+        },
+        "username": "LoveMikuBX",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T08:57:21.000Z",
+        "description": "我是来看反贼笑话的；中国共产党万岁，中华人民共和国万岁🇨🇳，武统台湾派；坐标北京东城，接受私下单挑（先办好进京证再说🤣）；跨(死)性(人)别(妖)最严厉的祖宗；❌🏳️‍⚧️❌🏳️‍🌈❌",
+        "id": "1957003704617639936",
+        "location": "中國·北京（Beijing,China）",
+        "name": "吴振华和齐傲兰的小家",
+        "pinned_tweet_id": "2063027273540960670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059271610146934786/LkoKvqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 345
+        },
+        "username": "wzh123456775879",
+        "verified": false
+      }
+    ]
+  }
+}

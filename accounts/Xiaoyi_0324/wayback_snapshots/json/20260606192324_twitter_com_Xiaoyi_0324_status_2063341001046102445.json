@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2062936418801135921",
+    "created_at": "2026-06-06T19:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063341001046102445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1572069646316052481",
+          "start": 0,
+          "username": "nyanfox123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063341001046102445",
+    "in_reply_to_user_id": "1572069646316052481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063340488183456126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nyanfox123 我一天2mg国补不会吧😭补药哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062936418801135921",
+        "created_at": "2026-06-06T19:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063341001046102445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1572069646316052481",
+              "start": 0,
+              "username": "nyanfox123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063341001046102445",
+        "in_reply_to_user_id": "1572069646316052481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063340488183456126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nyanfox123 我一天2mg国补不会吧😭补药哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572069646316052481",
+        "conversation_id": "2062936418801135921",
+        "created_at": "2026-06-06T19:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063340488183456126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063340488183456126",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062936418801135921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 不会是雌爆了吧（）建议去查一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 328,
+          "like_count": 1588,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-20T03:46:38.000Z",
+        "description": "坐标北京｜03年8月MtF🏳️‍⚧️｜🍥HRT2023.10.15｜平时的爱好是收藏轻小说和漫画｜百合小甜文suki｜什么类型的游戏都玩一点（ps：最近在玩暗喻幻想）｜正在学习cfa",
+        "id": "1572069646316052481",
+        "name": "雪之狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733696878905323520/S9E5hyM7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 634,
+          "like_count": 16370,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 595
+        },
+        "username": "nyanfox123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063568572484558848",
+        "3_2063568569993224192"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2063568574866915340",
+    "created_at": "2026-06-07T10:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063568574866915340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o8BL34wGvG",
+          "end": 168,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2063568574866915340/photo/1",
+          "media_key": "3_2063568572484558848",
+          "start": 145,
+          "url": "https://t.co/o8BL34wGvG"
+        },
+        {
+          "display_url": "pic.x.com/o8BL34wGvG",
+          "end": 168,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2063568574866915340/photo/1",
+          "media_key": "3_2063568569993224192",
+          "start": 145,
+          "url": "https://t.co/o8BL34wGvG"
+        },
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2062698609108570271",
+          "start": 169,
+          "url": "https://t.co/B95uuMQ7Dy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063568574866915340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "tyw啊tyw 你说我说你点什么好。。。\n江山难改 本性难移 这句话的含金量还在上升\n先不说你给人家送进去之后炒作说给人家送到扭转 你现在又开始炒作给人家蒸馏成skill是想tm干什么？吃人血馒头这一块是真有你的 不过也是够厉害的😂隔天就被封号了 获得报应了\n但是 我要怀疑一个点 那就是 17的这个假账号万一是唐毓文本人在操作 没接入ai怎么办🤯毕竟他之前就伪装南盺且没被人发现……细思极恐"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062698609108570271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tyw啊tyw 你说我说你点什么好。。。\n江山难改 本性难移 这句话的含金量还在上升\n先不说你给人家送进去之后炒作说给人家送到扭转 你现在又开始炒作给人家蒸馏成skill是想tm干什么？吃人血馒头这一块是真有你的 不过也是够厉害的😂隔天就被封号了 获得报应了\n但是 我要怀疑一个点 那就是 https://t.co/o8BL34wGvG https://t.co/B95uuMQ7Dy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063568572484558848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNErvSaIAA-6Dc.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063568569993224192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNErmAbYAAt9jv.jpg",
+        "width": 930
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062698597670588416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAtcijaEAA-qR7.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063568572484558848",
+            "3_2063568569993224192"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2063568574866915340",
+        "created_at": "2026-06-07T10:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568574866915340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8BL34wGvG",
+              "end": 168,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2063568574866915340/photo/1",
+              "media_key": "3_2063568572484558848",
+              "start": 145,
+              "url": "https://t.co/o8BL34wGvG"
+            },
+            {
+              "display_url": "pic.x.com/o8BL34wGvG",
+              "end": 168,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2063568574866915340/photo/1",
+              "media_key": "3_2063568569993224192",
+              "start": 145,
+              "url": "https://t.co/o8BL34wGvG"
+            },
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2062698609108570271",
+              "start": 169,
+              "url": "https://t.co/B95uuMQ7Dy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568574866915340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "tyw啊tyw 你说我说你点什么好。。。\n江山难改 本性难移 这句话的含金量还在上升\n先不说你给人家送进去之后炒作说给人家送到扭转 你现在又开始炒作给人家蒸馏成skill是想tm干什么？吃人血馒头这一块是真有你的 不过也是够厉害的😂隔天就被封号了 获得报应了\n但是 我要怀疑一个点 那就是 17的这个假账号万一是唐毓文本人在操作 没接入ai怎么办🤯毕竟他之前就伪装南盺且没被人发现……细思极恐"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062698609108570271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tyw啊tyw 你说我说你点什么好。。。\n江山难改 本性难移 这句话的含金量还在上升\n先不说你给人家送进去之后炒作说给人家送到扭转 你现在又开始炒作给人家蒸馏成skill是想tm干什么？吃人血馒头这一块是真有你的 不过也是够厉害的😂隔天就被封号了 获得报应了\n但是 我要怀疑一个点 那就是 https://t.co/o8BL34wGvG https://t.co/B95uuMQ7Dy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062698597670588416"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2062698609108570271",
+        "created_at": "2026-06-05T00:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062698609108570271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osrprpYCj9",
+              "end": 162,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2062698609108570271/photo/1",
+              "media_key": "3_2062698597670588416",
+              "start": 139,
+              "url": "https://t.co/osrprpYCj9"
+            },
+            {
+              "display_url": "x.com/transyuwen/sta…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/transyuwen/status/2062658283010441222",
+              "start": 163,
+              "url": "https://t.co/ZQWYknNsxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062698609108570271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先叠个甲 我和17本人在推上有互关 在淡水离开的那段时间里我没少安慰她 也确实和很多人开导过 确实没用\n\n首先 她的做法前五点我会认可 褒贬不一也不好评价 还有很多神人因此block了我 难道你们觉得她死了你会很高兴？\n\n其次 我并没有完全支持tyw的做法 以下是我的个人看法 像烧点草那样无底线维护tyw的自己滚远点 我并没有想骂任何人 但是这真是太恶心了\n\n难道0个人觉得第六点很牵强吗\n\n首先 账号是号主的个人财产 我想在座的很多人都为此付出了不少的时间和心血 我个人觉得 注销理应受到本人的同意 而在本人毫不知情的情况下擅自注销她的社交账号——她连接世界最后的窗口 被你们亲手剪断了 美其名曰 不想影响他人…我不认为这是正确的选择\n\n以上为我的个人观点 如有不同意见 请以你的观点为准 谢谢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2354,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062658283010441222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "先叠个甲 我和17本人在推上有互关 在淡水离开的那段时间里我没少安慰她 也确实和很多人开导过 确实没用\n\n首先 她的做法前五点我会认可 褒贬不一也不好评价 还有很多神人因此block了我 难道你们觉得她死了你会很高兴？\n\n其次 我并没有完全支持tyw的做法 以下是我的个人看法 https://t.co/osrprpYCj9 https://t.co/ZQWYknNsxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|碎碎念移步@NiaoYou83766|部分简介在:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 329,
+          "like_count": 1592,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

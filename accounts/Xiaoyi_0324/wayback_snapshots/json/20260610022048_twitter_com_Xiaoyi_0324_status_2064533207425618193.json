@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2064266497909010658",
+    "created_at": "2026-06-10T02:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064533207425618193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520686487540740097",
+          "start": 0,
+          "username": "KokonaKokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064533207425618193",
+    "in_reply_to_user_id": "1520686487540740097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064266497909010658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokonaKokoro 干 我这个15马上低人三等了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 558,
+        "media_key": "3_2064266493320450048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW_cFAbUAAEJyi.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2064266497909010658",
+        "created_at": "2026-06-10T02:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064533207425618193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520686487540740097",
+              "start": 0,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064533207425618193",
+        "in_reply_to_user_id": "1520686487540740097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064266497909010658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokonaKokoro 干 我这个15马上低人三等了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064266493320450048"
+          ]
+        },
+        "author_id": "1520686487540740097",
+        "conversation_id": "2064266497909010658",
+        "created_at": "2026-06-09T08:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064266497909010658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfvWUF60Pd",
+              "end": 66,
+              "expanded_url": "https://x.com/KokonaKokoro/status/2064266497909010658/photo/1",
+              "media_key": "3_2064266493320450048",
+              "start": 43,
+              "url": "https://t.co/XfvWUF60Pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064266497909010658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1290,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果最强的本地AI模型居然要 17 pro才支持。手里全新的 17 瞬间就不香了😹😹 https://t.co/XfvWUF60Pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 331,
+          "like_count": 1634,
+          "listed_count": 3,
+          "media_count": 286,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T08:48:29.000Z",
+        "description": "小天使，哲学新手，温和自由主义/存在主义。日常更新，欢迎来互动。好朋友@hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1520686487540740097",
+        "location": "Japan 🇯🇵",
+        "name": "心心心奈 🇯🇵⛩️",
+        "pinned_tweet_id": "2036708877337817267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037575983071723520/31QgPMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 929,
+          "like_count": 14898,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3148
+        },
+        "username": "KokonaKokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2064173532410675236",
+    "created_at": "2026-06-09T02:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T03:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064180115974803782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052302798159740928",
+          "start": 0,
+          "username": "FT_juecong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064180115974803782",
+    "in_reply_to_user_id": "2052302798159740928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064176293500031145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FT_juecong 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2064173532410675236",
+        "created_at": "2026-06-09T02:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064180115974803782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052302798159740928",
+              "start": 0,
+              "username": "FT_juecong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064180115974803782",
+        "in_reply_to_user_id": "2052302798159740928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064176293500031145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FT_juecong 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052302798159740928",
+        "conversation_id": "2064173532410675236",
+        "created_at": "2026-06-09T02:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064176293500031145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064176293500031145",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064173532410675236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|长度限制部分BIO在里推:@Ruai_0324",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "↓求求你了来玩提問箱吧↓",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 330,
+          "like_count": 1621,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T08:24:53.000Z",
+        "description": "本人的指派性别为女性（afab）/讨厌逼和月经/有过4年多的抑郁症，现已积极生活/曾经的多意识体（真怀念）/不抽烟喝酒/无任何不良嗜好/对性交不感兴趣/想摆脱女性身份\n若只考虑生命形态，宁做雄犬，不为女人。\n真想去一个所有人都把我当成男性的世界。\n（全系统最后的独苗）",
+        "id": "2052302798159740928",
+        "name": "估读的游标卡尺🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2063617201798816106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063597572644880384/2CGVpXPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "FT_juecong",
+        "verified": false
+      }
+    ]
+  }
+}
