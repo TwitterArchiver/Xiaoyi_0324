@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2067180087099666472",
+    "created_at": "2026-06-17T12:12:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067218836873683390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067218836873683390",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067180087099666472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 自挂东南枝…？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15535,
+        "height": 1280,
+        "media_key": "7_2066979594457296896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066979594457296896/pu/img/J-kKgaDYcFbaspYs.jpg",
+        "public_metrics": {
+          "view_count": 438345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/320x568/s0r_ZoSPicYCuZgu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/480x852/ndT8ZydZc7_wy34t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/vid/avc1/720x1280/qpZxzA6UXAnW_EaV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066979594457296896/pu/pl/5NRhuLikXBpbBZO2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2067180087099666472",
+        "created_at": "2026-06-17T12:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067218836873683390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067218836873683390",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067180087099666472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 自挂东南枝…？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066979594457296896"
+          ],
+          "media_source_tweet_id": [
+            "2066979620487069972"
+          ]
+        },
+        "author_id": "1751240173650935808",
+        "conversation_id": "2067180087099666472",
+        "created_at": "2026-06-17T09:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067180087099666472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKaGW9RSUS",
+              "end": 25,
+              "expanded_url": "https://x.com/shennaichuan_/status/2066979620487069972/video/1",
+              "media_key": "7_2066979594457296896",
+              "start": 2,
+              "url": "https://t.co/OKaGW9RSUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067180087099666472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 19869,
+          "like_count": 535,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/OKaGW9RSUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 349,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2067093633543569797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 892,
+          "like_count": 1,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 1569
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2066630866462527714",
+    "created_at": "2026-06-15T21:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066630866462527714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066630866462527714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "12天只涨了126fo 这是什么水平🤔\n另外 我貌似确定这个账号以后要发些什么了 我先按照我规划的方式运营一段时间看看反响 不行还是继续当朋友圈发吧\n我貌似不会成为梗图bot的 这条赛道已经饱和了 我目前是这样想的\n不过 各位看我的账号PCF标签 应该想到我会干什么了 哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2066630866462527714",
+        "created_at": "2026-06-15T21:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066630866462527714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066630866462527714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12天只涨了126fo 这是什么水平🤔\n另外 我貌似确定这个账号以后要发些什么了 我先按照我规划的方式运营一段时间看看反响 不行还是继续当朋友圈发吧\n我貌似不会成为梗图bot的 这条赛道已经饱和了 我目前是这样想的\n不过 各位看我的账号PCF标签 应该想到我会干什么了 哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 344,
+          "like_count": 1663,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

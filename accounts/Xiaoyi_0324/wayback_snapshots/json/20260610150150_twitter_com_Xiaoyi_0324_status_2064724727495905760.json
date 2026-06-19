@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2064458689768239561",
+    "created_at": "2026-06-10T15:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064724727495905760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696767281580408832",
+          "start": 0,
+          "username": "lngr640219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064724727495905760",
+    "in_reply_to_user_id": "1696767281580408832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064676093844709822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngr640219 就是来这里打广告的可能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064676081882554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcz9RTa4AArEix.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2064458689768239561",
+        "created_at": "2026-06-10T15:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064724727495905760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696767281580408832",
+              "start": 0,
+              "username": "lngr640219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064724727495905760",
+        "in_reply_to_user_id": "1696767281580408832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064676093844709822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngr640219 就是来这里打广告的可能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064676081882554368"
+          ]
+        },
+        "author_id": "1696767281580408832",
+        "conversation_id": "2064458689768239561",
+        "created_at": "2026-06-10T11:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064676093844709822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6hbFk4Vmt6",
+              "end": 57,
+              "expanded_url": "https://x.com/lngr640219/status/2064676093844709822/photo/1",
+              "media_key": "3_2064676081882554368",
+              "start": 34,
+              "url": "https://t.co/6hbFk4Vmt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064676093844709822",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064458689768239561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 我都不知道他进我群，我们管理踢了几个了🤔 https://t.co/6hbFk4Vmt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 332,
+          "like_count": 1638,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-30T06:10:29.000Z",
+        "description": "嘿嘿，小男娘一个，身高175，体重60kg谢谢大家喜欢",
+        "id": "1696767281580408832",
+        "name": "真寻🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1885743222019801571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051009496869384193/p2UwixZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 569,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 174
+        },
+        "username": "lngr640219",
+        "verified": false
+      }
+    ]
+  }
+}

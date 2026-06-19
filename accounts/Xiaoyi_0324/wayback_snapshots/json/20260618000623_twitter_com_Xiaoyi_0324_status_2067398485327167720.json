@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2067236789346255356",
+    "created_at": "2026-06-18T00:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067398485327167720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        },
+        {
+          "end": 17,
+          "id": "2057729979677548544",
+          "start": 8,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067398485327167720",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067397328680689855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 @Numiouoo 有些oder也封号啊 那就只能是晶格举报的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2067236789346255356",
+        "created_at": "2026-06-18T00:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067398485327167720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            },
+            {
+              "end": 17,
+              "id": "2057729979677548544",
+              "start": 8,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067398485327167720",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067397328680689855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 @Numiouoo 有些oder也封号啊 那就只能是晶格举报的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2067236789346255356",
+        "created_at": "2026-06-18T00:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067397328680689855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 22,
+              "id": "2057729979677548544",
+              "start": 13,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067397328680689855",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067396109748871604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @Numiouoo 平台算法，只要举报的人多了就会封号，枫糖小猫和唐毓文就是这样被封号好几次的，我想应该是如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 349,
+          "like_count": 1674,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2390
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "location": "广东省茂名市",
+        "name": "蔡清晏",
+        "pinned_tweet_id": "2044830395179667923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046910166008999937/JMrFE9pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 1174,
+          "like_count": 21374,
+          "listed_count": 5,
+          "media_count": 73,
+          "tweet_count": 4179
+        },
+        "username": "cai436",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 896,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1898
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

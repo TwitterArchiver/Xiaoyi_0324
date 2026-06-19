@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2065510065789194251",
+    "created_at": "2026-06-12T19:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T20:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065510065789194251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2065476069952803133",
+          "start": 29,
+          "url": "https://t.co/cXgCWxsUSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065510065789194251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065476069952803133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我呼吸抑制了 600就会吗 我现在喘不上气了我靠😰😰 https://t.co/cXgCWxsUSf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2065476060544995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoLiKDbkAA95MW.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2065510065789194251",
+        "created_at": "2026-06-12T19:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065510065789194251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2065476069952803133",
+              "start": 29,
+              "url": "https://t.co/cXgCWxsUSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065510065789194251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065476069952803133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我呼吸抑制了 600就会吗 我现在喘不上气了我靠😰😰 https://t.co/cXgCWxsUSf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065476060544995328"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2065476069952803133",
+        "created_at": "2026-06-12T16:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065476069952803133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gc1NqfYAYb",
+              "end": 57,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2065476069952803133/photo/1",
+              "media_key": "3_2065476060544995328",
+              "start": 34,
+              "url": "https://t.co/gc1NqfYAYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065476069952803133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "600mg普瑞 这次不能没等药效发作就睡着了 因为我刚起床一个小时 https://t.co/gc1NqfYAYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 343,
+          "like_count": 1650,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

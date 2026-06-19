@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2065084599924097347",
+    "created_at": "2026-06-11T21:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065183846191206574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        },
+        {
+          "end": 22,
+          "id": "1211567759991005185",
+          "start": 10,
+          "username": "ak_prc_dprk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065183846191206574",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065103827486048712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 @ak_prc_dprk 如果你喜歡看風景的話 長春是我的家鄉 淨月潭和動植物公園是一個不錯的選擇 我在此處生活了十幾年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2065084599924097347",
+        "created_at": "2026-06-11T21:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065183846191206574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            },
+            {
+              "end": 22,
+              "id": "1211567759991005185",
+              "start": 10,
+              "username": "ak_prc_dprk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065183846191206574",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065103827486048712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 @ak_prc_dprk 如果你喜歡看風景的話 長春是我的家鄉 淨月潭和動植物公園是一個不錯的選擇 我在此處生活了十幾年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2065084599924097347",
+        "created_at": "2026-06-11T16:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065103827486048712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1211567759991005185",
+              "start": 0,
+              "username": "ak_prc_dprk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065103827486048712",
+        "in_reply_to_user_id": "1211567759991005185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 447,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065084599924097347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak_prc_dprk 瀋陽と長春でなにかおすすめありますか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 339,
+          "like_count": 1645,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11904,
+          "following_count": 1426,
+          "like_count": 74125,
+          "listed_count": 135,
+          "media_count": 4465,
+          "tweet_count": 54906
+        },
+        "username": "ripo0079",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-30T08:40:48.000Z",
+        "description": "北朝鮮(中朝国境地帯)研究者・輸入商\"向陽文華商行\"総経理、エデン蒲田亡命政府首班。現代中国学会・現代韓国朝鮮学会所属。中朝国境・北レスマニア。中日新聞・東京新聞掲載歴、TBS・テレビ朝日・フジテレビなど出演歴、宮塚コリア研究所・先軍祭など講演歴。旅行本作ったり写真撮ったり、色々と。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kumakiha40.wixsite.com/waiwenoffi",
+                "end": 23,
+                "expanded_url": "https://kumakiha40.wixsite.com/waiwenoffi",
+                "start": 0,
+                "url": "https://t.co/NsACPMujIQ"
+              }
+            ]
+          }
+        },
+        "id": "1211567759991005185",
+        "location": "連絡…kumakiha40@gmail.com・DM",
+        "name": "大熊杜夫/𝑫𝑨𝑽𝑰𝑫𝑶𝑭𝑭━辺境レポーター",
+        "pinned_tweet_id": "2013165143413440876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997638005407014912/WHFetu3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4724,
+          "following_count": 934,
+          "like_count": 37518,
+          "listed_count": 43,
+          "media_count": 4572,
+          "tweet_count": 30594
+        },
+        "url": "https://t.co/NsACPMujIQ",
+        "username": "ak_prc_dprk",
+        "verified": true
+      }
+    ]
+  }
+}

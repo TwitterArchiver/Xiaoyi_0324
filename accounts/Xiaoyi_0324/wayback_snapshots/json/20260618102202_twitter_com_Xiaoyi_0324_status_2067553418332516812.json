@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2067390903325708735",
+    "created_at": "2026-06-18T10:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067553418332516812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067553418332516812",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067390903325708735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa 🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1324,
+        "media_key": "3_2067390900674981888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDZEhabcAA07Kz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2067390903325708735",
+        "created_at": "2026-06-18T10:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067553418332516812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067553418332516812",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067390903325708735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067390900674981888"
+          ]
+        },
+        "author_id": "2016246570312990720",
+        "conversation_id": "2067390903325708735",
+        "created_at": "2026-06-17T23:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T00:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067390903325708735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WWnUNlYkR8",
+              "end": 95,
+              "expanded_url": "https://x.com/YuChenawa/status/2067390903325708735/photo/1",
+              "media_key": "3_2067390900674981888",
+              "start": 72,
+              "url": "https://t.co/WWnUNlYkR8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067390903325708735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好啊各位,今天也要开开心心的哦🥰\n半夜睡不着和一位朋友相聚一起玩荧光实验,意外得到了一张在时间上几乎完美的照片(话说我发这种真的有人看吗) https://t.co/WWnUNlYkR8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 351,
+          "like_count": 1678,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 2404
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "這裡是雨辰!跨圈小透明pwq.\n爱人:@xiaoyi_0324 .無政治傾向,LGBTQIA+全友好!(疑似即将翻车?话说我也要翻车吗)請和我社交,我會儘可能認真回復你們的內容的,也歡迎私信騷擾我,\n低俗恶俗人请远离我谢谢!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "😇天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 357,
+          "like_count": 1898,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": false
+      }
+    ]
+  }
+}

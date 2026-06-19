@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2066240770991104436",
+    "created_at": "2026-06-15T19:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066599650606641469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1796471454839816192",
+          "start": 0,
+          "username": "yuanyilingyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066599650606641469",
+    "in_reply_to_user_id": "1796471454839816192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066523298620444898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yuanyilingyi 绷不住了 我小号连着火了两个帖子 大号彻底废了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2066240770991104436",
+        "created_at": "2026-06-15T19:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066599650606641469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1796471454839816192",
+              "start": 0,
+              "username": "yuanyilingyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066599650606641469",
+        "in_reply_to_user_id": "1796471454839816192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066523298620444898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yuanyilingyi 绷不住了 我小号连着火了两个帖子 大号彻底废了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796471454839816192",
+        "conversation_id": "2066240770991104436",
+        "created_at": "2026-06-15T14:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066523298620444898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066523298620444898",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066240770991104436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 推特奇怪的推流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 344,
+          "like_count": 1661,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-31T09:19:29.000Z",
+        "description": "本人已成年，无不良引导｜xyn｜清水日常推｜同类可互fo丨喜欢可爱的事物｜想要fo想要想要",
+        "id": "1796471454839816192",
+        "name": "纟夌🍥",
+        "pinned_tweet_id": "2063535069008925017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265125528231936/GdFIqysV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 160,
+          "like_count": 1262,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 452
+        },
+        "username": "yuanyilingyi",
+        "verified": false
+      }
+    ]
+  }
+}

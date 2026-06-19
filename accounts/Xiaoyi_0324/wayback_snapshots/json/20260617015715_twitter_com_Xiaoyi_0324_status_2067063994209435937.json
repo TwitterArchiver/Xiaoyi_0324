@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2066909742010958027",
+    "created_at": "2026-06-17T01:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067063994209435937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1215118015647244288",
+          "start": 0,
+          "username": "6eUFqMlc7DmQeUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067063994209435937",
+    "in_reply_to_user_id": "1215118015647244288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067026734558626074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6eUFqMlc7DmQeUQ 快手上还真有同类 不过我快手的所有账号都是顺直）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2066909742010958027",
+        "created_at": "2026-06-17T01:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067063994209435937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1215118015647244288",
+              "start": 0,
+              "username": "6eUFqMlc7DmQeUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067063994209435937",
+        "in_reply_to_user_id": "1215118015647244288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067026734558626074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6eUFqMlc7DmQeUQ 快手上还真有同类 不过我快手的所有账号都是顺直）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1215118015647244288",
+        "conversation_id": "2066909742010958027",
+        "created_at": "2026-06-16T23:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067026734558626074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067026734558626074",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909742010958027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 你看看快手，  甚至跨旗都无法正常显示因为快手没有这个旗子的代表只能用鱼板🍥， 但是抖音可以，只不过最近抖音开始抽风了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 344,
+          "like_count": 1668,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-09T03:48:22.000Z",
+        "description": "奇跡と魔法が存在する     https://t.co/FCytojlBo7     日本の友達は私のLINEを加えることができます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/_NiAmdJnDj",
+                "end": 38,
+                "expanded_url": "http://line.me/ti/p/_NiAmdJnDj",
+                "start": 15,
+                "url": "https://t.co/FCytojlBo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/TianyinYuesaki",
+                "end": 23,
+                "expanded_url": "https://t.me/TianyinYuesaki",
+                "start": 0,
+                "url": "https://t.co/uXiAcEab0r"
+              }
+            ]
+          }
+        },
+        "id": "1215118015647244288",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "環 いろは ",
+        "pinned_tweet_id": "1659560680872378369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592793063738331136/ki4eVfOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 690,
+          "like_count": 70311,
+          "listed_count": 9,
+          "media_count": 1164,
+          "tweet_count": 26663
+        },
+        "url": "https://t.co/uXiAcEab0r",
+        "username": "6eUFqMlc7DmQeUQ",
+        "verified": false
+      }
+    ]
+  }
+}

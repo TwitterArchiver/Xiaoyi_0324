@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067398353097531392"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2067375248736125378",
+    "created_at": "2026-06-18T00:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067398355488211088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2913674264",
+          "start": 0,
+          "username": "kousakamikotoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1d5zu5wMLb",
+          "end": 51,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2067398355488211088/photo/1",
+          "media_key": "3_2067398353097531392",
+          "start": 28,
+          "url": "https://t.co/1d5zu5wMLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067398355488211088",
+    "in_reply_to_user_id": "2913674264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067397060794687765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kousakamikotoo 还给我推荐过这个 神了 https://t.co/1d5zu5wMLb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067398353097531392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDf2T2bIAAbJI5.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067398353097531392"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2067375248736125378",
+        "created_at": "2026-06-18T00:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067398355488211088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2913674264",
+              "start": 0,
+              "username": "kousakamikotoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1d5zu5wMLb",
+              "end": 51,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2067398355488211088/photo/1",
+              "media_key": "3_2067398353097531392",
+              "start": 28,
+              "url": "https://t.co/1d5zu5wMLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067398355488211088",
+        "in_reply_to_user_id": "2913674264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067397060794687765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kousakamikotoo 还给我推荐过这个 神了 https://t.co/1d5zu5wMLb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2913674264",
+        "conversation_id": "2067375248736125378",
+        "created_at": "2026-06-18T00:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067397060794687765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067397060794687765",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067375248736125378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 给我发的是克龄蒙78.3一盒🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 349,
+          "like_count": 1674,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2389
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-29T11:50:37.000Z",
+        "description": "大龄Mtf🏳️‍⚧️🍥 | She/Her | Big sister | ffer | 不混圈 | 家长党",
+        "id": "2913674264",
+        "location": "Gridania, Eorzea",
+        "name": "白面猫头Elle",
+        "pinned_tweet_id": "991033033007382528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230655890564382721/1-1FNDp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 243,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "kousakamikotoo",
+        "verified": false
+      }
+    ]
+  }
+}

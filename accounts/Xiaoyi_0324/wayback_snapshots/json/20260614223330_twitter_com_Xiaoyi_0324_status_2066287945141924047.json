@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2066240770991104436",
+    "created_at": "2026-06-14T22:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066287945141924047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066287945141924047",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066284477995941928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ak1raQ_love 学到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2066240770991104436",
+        "created_at": "2026-06-14T22:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066287945141924047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066287945141924047",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066284477995941928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 学到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2066240770991104436",
+        "created_at": "2026-06-14T22:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066284477995941928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066284477995941928",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066240770991104436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 推特的fo量好像是不会影响推文的初始流量的，先推给fo，然后fo给你点赞之类的，数据多了再进一步推广开来\n所以无论fo多少，如果推文刚发的那段时间没有fo给你点赞也没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 344,
+          "like_count": 1659,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "永不言弃💫 / 爱、温情、勇气、美好 / 没有吃糖 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "💫🌸𝗔𝗸𝗶𝗿𝗮𝗺𝗲𝗻𝗮𝗶🍥🍰",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050925033426669568/m2nDg9MR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 993,
+          "like_count": 189321,
+          "listed_count": 3,
+          "media_count": 829,
+          "tweet_count": 7006
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2066909742010958027",
+    "created_at": "2026-06-17T04:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067109635715453273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067109635715453273",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067107411585090041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 咱俩抖音有互关吧 我还纳闷你为什么被禁止发布作品了 这下看懂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067107408917483520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_XPIUa0AAvGzQ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2066909742010958027",
+        "created_at": "2026-06-17T04:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067109635715453273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067109635715453273",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107411585090041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 咱俩抖音有互关吧 我还纳闷你为什么被禁止发布作品了 这下看懂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067107408917483520"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2066909742010958027",
+        "created_at": "2026-06-17T04:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067107411585090041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWXlUbVdKS",
+              "end": 40,
+              "expanded_url": "https://x.com/TixItem4527/status/2067107411585090041/photo/1",
+              "media_key": "3_2067107408917483520",
+              "start": 17,
+              "url": "https://t.co/dWXlUbVdKS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067107411585090041",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066909742010958027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 还真是 https://t.co/dWXlUbVdKS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 348,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 300,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt日期2026.01.12|2011.03.25出现!|无心理疾病|不改不o|174cm|57kg|INFP|微社恐\nCNTK(抖音号):tixitem4527\n跨跨帮跨跨，如有问题可发邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a\n另一位姐姐:@dorothy1614926",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "dorothy1614926"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "China-JiangXi-Ganzhou",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2045698360557142280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 712,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}
