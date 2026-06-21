@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2067778561151578580",
+    "created_at": "2026-06-19T08:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067883182784172275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565725061046161409",
+          "start": 0,
+          "username": "JoGeBye9989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067883182784172275",
+    "in_reply_to_user_id": "1565725061046161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067882610408464675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoGeBye9989 ?这么快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067882602493853696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKYRVbbQAAXX_X.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2067778561151578580",
+        "created_at": "2026-06-19T08:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067883182784172275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565725061046161409",
+              "start": 0,
+              "username": "JoGeBye9989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067883182784172275",
+        "in_reply_to_user_id": "1565725061046161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067882610408464675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoGeBye9989 ?这么快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067882602493853696"
+          ]
+        },
+        "author_id": "1565725061046161409",
+        "conversation_id": "2067778561151578580",
+        "created_at": "2026-06-19T08:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067882610408464675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Ivt8xoAoX",
+              "end": 53,
+              "expanded_url": "https://x.com/JoGeBye9989/status/2067882610408464675/photo/1",
+              "media_key": "3_2067882602493853696",
+              "start": 30,
+              "url": "https://t.co/3Ivt8xoAoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882610408464675",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067778561151578580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 我大概3天就有感了👀 快兩個月了 https://t.co/3Ivt8xoAoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 357,
+          "like_count": 1685,
+          "listed_count": 3,
+          "media_count": 307,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T15:35:32.000Z",
+        "description": "",
+        "id": "1565725061046161409",
+        "name": "我是錒又🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056853544599506944/I86wkb-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 158,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "JoGeBye9989",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2068117778884948189",
+    "created_at": "2026-06-20T01:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068139789585662368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068139789585662368",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068137857353740585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2068117778884948189",
+        "created_at": "2026-06-20T01:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068139789585662368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068139789585662368",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068137857353740585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778850117933838337",
+        "conversation_id": "2068117778884948189",
+        "created_at": "2026-06-20T01:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068137857353740585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068137857353740585",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068117778884948189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 希望万事顺遂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 357,
+          "like_count": 1687,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 2452
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高二小孩，苦逼文科生，顺直友跨\n ケモノ大好き❤ \n  目标：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机  \n开个蓝v，加点曝光，想过5M浏览量",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1065,
+          "like_count": 18075,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}
