@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2069598287519506590",
+    "created_at": "2026-06-24T01:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069598287519506590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoyi_0324/st…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/xiaoyi_0324/status/2068117778884948189",
+          "start": 111,
+          "url": "https://t.co/ZkGJeFhVyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069598287519506590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068117778884948189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "emmm 我觉得我有必要写一个后续了\n目前的状况就是 我妈发现了之后也没给我的药收走 也没管我 \n至于我的那些女装…我都把它们挂在衣柜里了都不管我 貌似已经彻底成为家长不管党了 这样也不错 总比成为反对党强 我也知足了🫠 https://t.co/ZkGJeFhVyb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2069598287519506590",
+        "created_at": "2026-06-24T01:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069598287519506590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyi_0324/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/xiaoyi_0324/status/2068117778884948189",
+              "start": 111,
+              "url": "https://t.co/ZkGJeFhVyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069598287519506590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068117778884948189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "emmm 我觉得我有必要写一个后续了\n目前的状况就是 我妈发现了之后也没给我的药收走 也没管我 \n至于我的那些女装…我都把它们挂在衣柜里了都不管我 貌似已经彻底成为家长不管党了 这样也不错 总比成为反对党强 我也知足了🫠 https://t.co/ZkGJeFhVyb"
+      },
+      {
+        "article": {
+          "title": "就在刚刚 我炸柜了"
+        },
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2068117778884948189",
+        "created_at": "2026-06-19T23:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068117778884948189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2068112239652155392",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068112239652155392",
+              "url": "https://t.co/Fn0OraUUuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068117778884948189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16812,
+          "like_count": 196,
+          "quote_count": 1,
+          "reply_count": 54,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Fn0OraUUuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 362,
+          "like_count": 1752,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 2585
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

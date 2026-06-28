@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2070741301138805206",
+    "created_at": "2026-06-27T11:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070836622497870037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890717486343233536",
+          "start": 0,
+          "username": "hikarou233086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070836622497870037",
+    "in_reply_to_user_id": "1890717486343233536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070741301138805206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikarou233086 给他一个TL上全是🍥的账号就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2070741298748026880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzAPW2bcAA-qDv.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2070741301138805206",
+        "created_at": "2026-06-27T11:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070836622497870037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890717486343233536",
+              "start": 0,
+              "username": "hikarou233086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070836622497870037",
+        "in_reply_to_user_id": "1890717486343233536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070741301138805206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikarou233086 给他一个TL上全是🍥的账号就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070741298748026880"
+          ]
+        },
+        "author_id": "1890717486343233536",
+        "conversation_id": "2070741301138805206",
+        "created_at": "2026-06-27T05:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070741301138805206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKgvmKPTRy",
+              "end": 48,
+              "expanded_url": "https://x.com/hikarou233086/status/2070741301138805206/photo/1",
+              "media_key": "3_2070741298748026880",
+              "start": 25,
+              "url": "https://t.co/xKgvmKPTRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741301138805206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 472,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要经历什么才会让一个直男变成说话句句有喵的小南娘 https://t.co/xKgvmKPTRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 377,
+          "like_count": 1796,
+          "listed_count": 4,
+          "media_count": 327,
+          "tweet_count": 2703
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T10:59:21.000Z",
+        "description": "2009.8.1|高三intp|低精力…|🏳️‍⚧️|会互fo同类|VR|希望积极生活…|Github见下方链接\n/淡推ing…（可能高考之前会一直淡…？只会发碎碎念了）",
+        "id": "1890717486343233536",
+        "name": "Hikaruna💫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043683198501322752/R5PNYRBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 248,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "hikarou233086",
+        "verified": false
+      }
+    ]
+  }
+}

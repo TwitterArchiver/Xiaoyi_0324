@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2070428853030539552",
+    "created_at": "2026-06-27T03:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070718376587202604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008789439527743488",
+          "start": 0,
+          "username": "yuzhile_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070718376587202604",
+    "in_reply_to_user_id": "2008789439527743488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070428853030539552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhile_dev 恭喜啊 祝你们能有个幸福生话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070428844172165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLukEG2awAAI-NQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2070428853030539552",
+        "created_at": "2026-06-27T03:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070718376587202604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008789439527743488",
+              "start": 0,
+              "username": "yuzhile_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070718376587202604",
+        "in_reply_to_user_id": "2008789439527743488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070428853030539552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhile_dev 恭喜啊 祝你们能有个幸福生话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070428844172165120"
+          ]
+        },
+        "author_id": "2008789439527743488",
+        "conversation_id": "2070428853030539552",
+        "created_at": "2026-06-26T08:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070428853030539552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcQiKfpxYC",
+              "end": 30,
+              "expanded_url": "https://x.com/yuzhile_dev/status/2070428853030539552/photo/1",
+              "media_key": "3_2070428844172165120",
+              "start": 7,
+              "url": "https://t.co/JcQiKfpxYC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070428853030539552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17403,
+          "like_count": 301,
+          "quote_count": 0,
+          "reply_count": 238,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当爸爸啦！ https://t.co/JcQiKfpxYC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 378,
+          "like_count": 1784,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T06:35:16.000Z",
+        "description": "十多年编程老炮 | CTO | 独立开发出海 | vibe coding  🚀\nJava、Python | 网络爬虫 | 软件架构 | OCR   🚀\n有空点个关注 | 我小手一动就会给你来个互关加评论🚀",
+        "id": "2008789439527743488",
+        "name": "于知乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008789959650791425/Ww4Ddzss_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 1256,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1938
+        },
+        "url": "",
+        "username": "yuzhile_dev",
+        "verified": true
+      }
+    ]
+  }
+}

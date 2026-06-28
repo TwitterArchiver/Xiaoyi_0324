@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2070285139930976450",
+    "created_at": "2026-06-26T15:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070537176321056985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070537176321056985",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070405504178761864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2070285139930976450",
+        "created_at": "2026-06-26T15:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070537176321056985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070537176321056985",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070405504178761864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "2070285139930976450",
+        "created_at": "2026-06-26T07:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070405504178761864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070405504178761864",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070348883503575407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 369,
+          "like_count": 1779,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 2676
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/16岁🥺/高中生/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo）\nHRT：2026.06.26\n我的猫猫🐱@vicoOci_Olvidar @mengqing5208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "mengqing5208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/freequan20252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/freequan20252",
+                "start": 0,
+                "url": "https://t.co/aBNInYwL9K"
+              }
+            ]
+          }
+        },
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇🏳️‍⚧️",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923572385174765570/zUr7IrOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 1315,
+          "like_count": 8976,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 7329
+        },
+        "url": "https://t.co/aBNInYwL9K",
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

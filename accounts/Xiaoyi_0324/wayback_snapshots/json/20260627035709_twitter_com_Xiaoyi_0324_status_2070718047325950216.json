@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "1955301269465117058",
+    "created_at": "2026-06-27T03:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070718047325950216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803288616539668480",
+          "start": 0,
+          "username": "ARVNVT870"
+        },
+        {
+          "end": 25,
+          "id": "2483009606",
+          "start": 11,
+          "username": "konoKatushada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070718047325950216",
+    "in_reply_to_user_id": "1803288616539668480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955314556139606474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARVNVT870 @konoKatushada 卧槽还有预言家 给老资历跪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2026-06-27T03:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070718047325950216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803288616539668480",
+              "start": 0,
+              "username": "ARVNVT870"
+            },
+            {
+              "end": 25,
+              "id": "2483009606",
+              "start": 11,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070718047325950216",
+        "in_reply_to_user_id": "1803288616539668480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955314556139606474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARVNVT870 @konoKatushada 卧槽还有预言家 给老资历跪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803288616539668480",
+        "conversation_id": "1955301269465117058",
+        "created_at": "2025-08-12T17:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955314556139606474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2483009606",
+              "start": 0,
+              "username": "konoKatushada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955314556139606474",
+        "in_reply_to_user_id": "2483009606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8298,
+          "like_count": 39,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955313752514994677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konoKatushada 然后把北京中信大厦撞了😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 378,
+          "like_count": 1784,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2689
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T04:48:14.000Z",
+        "description": "军批与狗不得入内\n哪天无了就启用此帐号:@vmmacv971",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "vmmacv971"
+              }
+            ]
+          }
+        },
+        "id": "1803288616539668480",
+        "location": "Panama",
+        "name": "VictorTran870",
+        "pinned_tweet_id": "1949834461836607537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069704498075803648/8SaIS-pQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 1131,
+          "like_count": 12731,
+          "listed_count": 5,
+          "media_count": 614,
+          "tweet_count": 5311
+        },
+        "url": "",
+        "username": "ARVNVT870",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-08T01:35:27.000Z",
+        "description": "Yabba Dabba Doo Ringdigidingdingding🎵 | 斬り介とジョニー四百九十九人斬り",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/9455499",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/9455499",
+                "start": 0,
+                "url": "https://t.co/yjvO5WQOfT"
+              }
+            ]
+          }
+        },
+        "id": "2483009606",
+        "location": "Indiana",
+        "name": "KatushaMK2🛶",
+        "pinned_tweet_id": "2067768096513724613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038804072589881345/zQklpocQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 4260,
+          "like_count": 634745,
+          "listed_count": 17,
+          "media_count": 17209,
+          "tweet_count": 188484
+        },
+        "url": "https://t.co/yjvO5WQOfT",
+        "username": "konoKatushada",
+        "verified": false
+      }
+    ]
+  }
+}

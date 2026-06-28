@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070713265043484672"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2070713272983306628",
+    "created_at": "2026-06-27T03:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070713272983306628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bjTnWO2RXg",
+          "end": 32,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2070713272983306628/photo/1",
+          "media_key": "3_2070713265043484672",
+          "start": 9,
+          "url": "https://t.co/bjTnWO2RXg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070713272983306628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "男娘圈迎来大便😂 https://t.co/bjTnWO2RXg"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "串子现实中一脚踩死 字都打错了 还有为什么要配我们可爱的真寻酱的音乐🥲 某个人一直催我更新ALT 生气了😡意满离了吧",
+        "height": 2048,
+        "media_key": "3_2070713265043484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLymvlKbMAAS2nj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070713265043484672"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2070713272983306628",
+        "created_at": "2026-06-27T03:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070713272983306628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bjTnWO2RXg",
+              "end": 32,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2070713272983306628/photo/1",
+              "media_key": "3_2070713265043484672",
+              "start": 9,
+              "url": "https://t.co/bjTnWO2RXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070713272983306628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "男娘圈迎来大便😂 https://t.co/bjTnWO2RXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 378,
+          "like_count": 1783,
+          "listed_count": 3,
+          "media_count": 326,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

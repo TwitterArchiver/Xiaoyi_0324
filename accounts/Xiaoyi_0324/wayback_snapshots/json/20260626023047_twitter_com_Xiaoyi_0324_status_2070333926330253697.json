@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070333824064688128",
+        "3_2070333824060530688"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2070333926330253697",
+    "created_at": "2026-06-26T02:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070333926330253697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dKtHdj8A4O",
+          "end": 87,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2070333926330253697/photo/1",
+          "media_key": "3_2070333824064688128",
+          "start": 64,
+          "url": "https://t.co/dKtHdj8A4O"
+        },
+        {
+          "display_url": "pic.x.com/dKtHdj8A4O",
+          "end": 87,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2070333926330253697/photo/1",
+          "media_key": "3_2070333824060530688",
+          "start": 64,
+          "url": "https://t.co/dKtHdj8A4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070333926330253697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "在你由奈酱上推的这7个月中 总共炒了160万的流量 其中141万是最近三个月产生的 我应该算是为数不多不靠神秘方式起号的（？） https://t.co/dKtHdj8A4O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070333824064688128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtNpNXaEAAQZP5.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070333824060530688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtNpNWaoAAlEFx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070333824064688128",
+            "3_2070333824060530688"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2070333926330253697",
+        "created_at": "2026-06-26T02:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070333926330253697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKtHdj8A4O",
+              "end": 87,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2070333926330253697/photo/1",
+              "media_key": "3_2070333824064688128",
+              "start": 64,
+              "url": "https://t.co/dKtHdj8A4O"
+            },
+            {
+              "display_url": "pic.x.com/dKtHdj8A4O",
+              "end": 87,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2070333926330253697/photo/1",
+              "media_key": "3_2070333824060530688",
+              "start": 64,
+              "url": "https://t.co/dKtHdj8A4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070333926330253697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "在你由奈酱上推的这7个月中 总共炒了160万的流量 其中141万是最近三个月产生的 我应该算是为数不多不靠神秘方式起号的（？） https://t.co/dKtHdj8A4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 366,
+          "like_count": 1772,
+          "listed_count": 3,
+          "media_count": 322,
+          "tweet_count": 2637
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2069797705837384191",
+    "created_at": "2026-06-25T02:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069965039197700592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911234427126190080",
+          "start": 0,
+          "username": "ruriyoi_PB_art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069965039197700592",
+    "in_reply_to_user_id": "1911234427126190080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069797705837384191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruriyoi_PB_art 一枚一枚の写真には、可愛いキャラクターがいっぱいです🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1325,
+        "media_key": "3_2069721679589179393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkg5tfWgAE56ml.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2069797705837384191",
+        "created_at": "2026-06-25T02:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069965039197700592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911234427126190080",
+              "start": 0,
+              "username": "ruriyoi_PB_art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069965039197700592",
+        "in_reply_to_user_id": "1911234427126190080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069797705837384191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruriyoi_PB_art 一枚一枚の写真には、可愛いキャラクターがいっぱいです🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069721679589179393"
+          ]
+        },
+        "author_id": "1911234427126190080",
+        "conversation_id": "2069797705837384191",
+        "created_at": "2026-06-24T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069797705837384191"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 61,
+              "tag": "黒見セリカ生誕祭2026"
+            },
+            {
+              "end": 89,
+              "start": 76,
+              "tag": "黒見セリカ誕生祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TkmqOpKAV",
+              "end": 113,
+              "expanded_url": "https://x.com/ruriyoi_PB_art/status/2069797705837384191/photo/1",
+              "media_key": "3_2069721679589179393",
+              "start": 90,
+              "url": "https://t.co/0TkmqOpKAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069797705837384191",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 7577,
+          "like_count": 723,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "黒見セリカちゃん、お誕生日おめでとう～！🎉\n\n黒猫さんみたいな気まぐれな可愛さが出ていたら\nとっても嬉しいです🐈‍⬛💕\n\n#黒見セリカ生誕祭2026 \n#黒見セリカ誕生祭2026 https://t.co/0TkmqOpKAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 364,
+          "like_count": 1757,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 2606
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T01:46:20.000Z",
+        "description": "夜に沈みきらず、奏でられる星の音　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\n夕暮れの光を背に、駆け抜けていった青の記憶　　　　　　　　　　　　　　　　　　　\n\n数多の瑠璃めく煌めきが、一枚の絵となって花ひらき　　　　　　　　　　　　　　　\n親愛なるあなたへ、風に乗って届きますように🕊️💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=Sw1Flg…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=Sw1Flgub9s8",
+                "start": 0,
+                "url": "https://t.co/mndqAscTSX"
+              }
+            ]
+          }
+        },
+        "id": "1911234427126190080",
+        "location": "春泥棒 - ヨルシカさん",
+        "name": "るりよい 〜Pearl Blue〜 🎨Art",
+        "pinned_tweet_id": "2065758584495858151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064540888190357504/CjK2B76c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10947,
+          "following_count": 5376,
+          "like_count": 3459,
+          "listed_count": 66,
+          "media_count": 88,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/mndqAscTSX",
+        "username": "ruriyoi_PB_art",
+        "verified": true
+      }
+    ]
+  }
+}

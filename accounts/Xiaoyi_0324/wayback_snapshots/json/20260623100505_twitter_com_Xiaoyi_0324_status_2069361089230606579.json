@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069361078182768640",
+        "3_2069361078216409089"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2069282230787305631",
+    "created_at": "2026-06-23T10:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069361089230606579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLrqfIGial",
+          "end": 36,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2069361089230606579/photo/1",
+          "media_key": "3_2069361078182768640",
+          "start": 13,
+          "url": "https://t.co/hLrqfIGial"
+        },
+        {
+          "display_url": "pic.x.com/hLrqfIGial",
+          "end": 36,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2069361089230606579/photo/1",
+          "media_key": "3_2069361078216409089",
+          "start": 13,
+          "url": "https://t.co/hLrqfIGial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069361089230606579",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069282230787305631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 杀死比赛 https://t.co/hLrqfIGial"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2069361078182768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfY78kacAAYURp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069361078216409089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfY78sbwAEzJMu.jpg",
+        "width": 1248
+      },
+      {
+        "height": 512,
+        "media_key": "16_2069281755912433664",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLeQyyFbcAAKaDo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLeQyyFbcAAKaDo.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069361078182768640",
+            "3_2069361078216409089"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2069282230787305631",
+        "created_at": "2026-06-23T10:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069361089230606579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLrqfIGial",
+              "end": 36,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2069361089230606579/photo/1",
+              "media_key": "3_2069361078182768640",
+              "start": 13,
+              "url": "https://t.co/hLrqfIGial"
+            },
+            {
+              "display_url": "pic.x.com/hLrqfIGial",
+              "end": 36,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2069361089230606579/photo/1",
+              "media_key": "3_2069361078216409089",
+              "start": 13,
+              "url": "https://t.co/hLrqfIGial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069361089230606579",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069282230787305631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 杀死比赛 https://t.co/hLrqfIGial"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069281755912433664"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2069282230787305631",
+        "created_at": "2026-06-23T04:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:49:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069281788783108110",
+          "2069282230787305631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuCgn5CI6R",
+              "end": 165,
+              "expanded_url": "https://x.com/NL8526/status/2069282230787305631/photo/1",
+              "media_key": "16_2069281755912433664",
+              "start": 142,
+              "url": "https://t.co/yuCgn5CI6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069282230787305631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "久违的打开我那台集显轻薄本，现在连最简单的打开cmd（命令提示符）都能让系统卡死两分钟，更别说什么生产力。\n本来想玩一玩开源项目的，看到电脑这个状况真的是哭笑不得，只悔恨当年为什么选择了轻薄本。这也是为什么一直以来post from X for android。\n好想换电脑……😭😭 为什么中高考完家长什么都不给我买？也许他们是对的，什么事情都要自己去争取才对。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的打开我那台集显轻薄本，现在连最简单的打开cmd（命令提示符）都能让系统卡死两分钟，更别说什么生产力。\n本来想玩一玩开源项目的，看到电脑这个状况真的是哭笑不得，只悔恨当年为什么选择了轻薄本。这也是为什么一直以来post from X for android。\n好想换电脑……😭😭 https://t.co/yuCgn5CI6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|友跨/同类直接回(没看到要私信🥹|我们的项目:@TransCircleOrg|长度限制部分BIO在里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 361,
+          "like_count": 1741,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3273,
+          "following_count": 860,
+          "like_count": 18023,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}
