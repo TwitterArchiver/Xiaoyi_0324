@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2071900376434200995",
+    "created_at": "2026-07-01T03:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072161313879695796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        },
+        {
+          "end": 29,
+          "id": "1958106621940482049",
+          "start": 17,
+          "username": "XieYao22528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072161313879695796",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072134421764039092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RainEngine2024m @XieYao22528 来😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2071900376434200995",
+        "created_at": "2026-07-01T03:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072161313879695796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            },
+            {
+              "end": 29,
+              "id": "1958106621940482049",
+              "start": 17,
+              "username": "XieYao22528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072161313879695796",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072134421764039092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RainEngine2024m @XieYao22528 来😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2071900376434200995",
+        "created_at": "2026-07-01T01:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072134421764039092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 25,
+              "id": "1958106621940482049",
+              "start": 13,
+              "username": "XieYao22528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072134421764039092",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071900376434200995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 @XieYao22528 我也想面😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 380,
+          "like_count": 1818,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 生活号：@RainEngine2024s| 爱人 ：@RainEngine2024 | 米粉、数码爱好者🍥🏳‍⚧ | 梗图、手机、政治 | 华人 | 华语/EN/JP | 如有错误 欢迎指出 | 商务：gaoban@focuscy.cn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "RainEngine2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2068673700912926963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 1708,
+          "like_count": 5463,
+          "listed_count": 14,
+          "media_count": 935,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T09:59:49.000Z",
+        "description": "INFJ/173cm/66kg",
+        "id": "1958106621940482049",
+        "name": "屑涵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071902297823625216/KKesoKok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 150,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "XieYao22528",
+        "verified": false
+      }
+    ]
+  }
+}

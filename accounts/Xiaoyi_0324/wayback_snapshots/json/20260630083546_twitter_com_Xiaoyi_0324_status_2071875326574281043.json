@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2071875261973266432",
+        "3_2071875267081936896",
+        "7_2071875275365761025"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2071875326574281043",
+    "created_at": "2026-06-30T08:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071875326574281043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/usFjgnPiWP",
+          "end": 39,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+          "media_key": "7_2071875261973266432",
+          "start": 16,
+          "url": "https://t.co/usFjgnPiWP"
+        },
+        {
+          "display_url": "pic.x.com/usFjgnPiWP",
+          "end": 39,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+          "media_key": "3_2071875267081936896",
+          "start": 16,
+          "url": "https://t.co/usFjgnPiWP"
+        },
+        {
+          "display_url": "pic.x.com/usFjgnPiWP",
+          "end": 39,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+          "media_key": "7_2071875275365761025",
+          "start": 16,
+          "url": "https://t.co/usFjgnPiWP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071875326574281043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只有支持od的跨 才配当跨哦喵 https://t.co/usFjgnPiWP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30046,
+        "height": 1090,
+        "media_key": "7_2071875261973266432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071875261973266432/pu/img/51YPv0zQDrOoYnex.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875261973266432/pu/vid/avc1/320x598/KgF4gQ7paeDzPnie.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875261973266432/pu/vid/avc1/480x898/ppQNaLHpeUQCa4Yx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875261973266432/pu/vid/avc1/582x1090/gjeKbSiBLs1SWxhU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071875261973266432/pu/pl/RgaW7L5bFoAGNPgd.m3u8"
+          }
+        ],
+        "width": 582
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071875267081936896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDHlAFWIAAbho7.jpg",
+        "width": 930
+      },
+      {
+        "duration_ms": 29558,
+        "height": 788,
+        "media_key": "7_2071875275365761025",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071875275365761025/pu/img/2LaIsX2tk1dKWvv-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875275365761025/pu/vid/avc1/320x466/x7uDBYh_GcIYqYmd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875275365761025/pu/vid/avc1/480x700/uUFkxE6MqZ0eivqk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071875275365761025/pu/vid/avc1/540x788/oxkDXv0SN_aX4Lpy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071875275365761025/pu/pl/2emHEkDv596bFAGC.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071875261973266432",
+            "3_2071875267081936896",
+            "7_2071875275365761025"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2071875326574281043",
+        "created_at": "2026-06-30T08:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071875326574281043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usFjgnPiWP",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+              "media_key": "7_2071875261973266432",
+              "start": 16,
+              "url": "https://t.co/usFjgnPiWP"
+            },
+            {
+              "display_url": "pic.x.com/usFjgnPiWP",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+              "media_key": "3_2071875267081936896",
+              "start": 16,
+              "url": "https://t.co/usFjgnPiWP"
+            },
+            {
+              "display_url": "pic.x.com/usFjgnPiWP",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2071875326574281043/video/1",
+              "media_key": "7_2071875275365761025",
+              "start": 16,
+              "url": "https://t.co/usFjgnPiWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071875326574281043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只有支持od的跨 才配当跨哦喵 https://t.co/usFjgnPiWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 378,
+          "like_count": 1817,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2772
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

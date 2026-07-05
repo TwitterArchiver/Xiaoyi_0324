@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2071474660450128347",
+    "created_at": "2026-06-29T06:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071479664879792472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071479664879792472",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实在冬季(12月)的时候 很多人的自杀意念会达到顶峰 但冬季的“情绪冬眠”会导致行动力不足 从而无法完成计划 而到了春天 随着精力/行动力的恢复 他们才有能力来结束痛苦 。\n此外 春季气温回暖会加速新陈代谢 有可能间接影响情绪调节 且日照变长会扰乱部分人群的昼夜节律 导致失眠和情绪不稳定 再加上春季社会活动增多 会给社恐或抑郁症患者带来压力 在以上种种因素的叠加下 就是春天自杀率高的原因"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071474660450128347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish 其实在冬季(12月)的时候 很多人的自杀意念会达到顶峰 但冬季的“情绪冬眠”会导致行动力不足 从而无法完成计划 而到了春天 随着精力/行动力的恢复 他们才有能力来结束痛苦 。\n此外 春季气温回暖会加速新陈代谢 有可能间接影响情绪调节 且日照变长会扰乱部分人群的昼夜节律 导致失眠和情绪不稳定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 948,
+        "media_key": "3_2071474655119171584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9bOUOaYAAL4L0.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2071474660450128347",
+        "created_at": "2026-06-29T06:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071479664879792472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071479664879792472",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实在冬季(12月)的时候 很多人的自杀意念会达到顶峰 但冬季的“情绪冬眠”会导致行动力不足 从而无法完成计划 而到了春天 随着精力/行动力的恢复 他们才有能力来结束痛苦 。\n此外 春季气温回暖会加速新陈代谢 有可能间接影响情绪调节 且日照变长会扰乱部分人群的昼夜节律 导致失眠和情绪不稳定 再加上春季社会活动增多 会给社恐或抑郁症患者带来压力 在以上种种因素的叠加下 就是春天自杀率高的原因"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071474660450128347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish 其实在冬季(12月)的时候 很多人的自杀意念会达到顶峰 但冬季的“情绪冬眠”会导致行动力不足 从而无法完成计划 而到了春天 随着精力/行动力的恢复 他们才有能力来结束痛苦 。\n此外 春季气温回暖会加速新陈代谢 有可能间接影响情绪调节 且日照变长会扰乱部分人群的昼夜节律 导致失眠和情绪不稳定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071474655119171584"
+          ]
+        },
+        "author_id": "2055911737208315904",
+        "conversation_id": "2071474660450128347",
+        "created_at": "2026-06-29T06:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071474660450128347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kFG5pYhi7",
+              "end": 68,
+              "expanded_url": "https://x.com/omgnowihasfish/status/2071474660450128347/photo/1",
+              "media_key": "3_2071474655119171584",
+              "start": 45,
+              "url": "https://t.co/6kFG5pYhi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071474660450128347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近的藥娘圈子還是太和平了 少了很多炒作的（）紫砂率也下降了 不像前半年那樣一週死好幾個 https://t.co/6kFG5pYhi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|坐标吉林🥺|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 378,
+          "like_count": 1806,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24 抑鬱 精分 雙向 多重人格 自閉 adhd 雷霆亞硝蒜末美食家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "pinned_tweet_id": "2069487129462501434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 634,
+          "like_count": 3466,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

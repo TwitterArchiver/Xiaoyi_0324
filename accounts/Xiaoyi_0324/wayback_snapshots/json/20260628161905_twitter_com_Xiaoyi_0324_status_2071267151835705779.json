@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2071060654837105116",
+    "created_at": "2026-06-28T16:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071267151835705779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1816796445284139008",
+          "start": 0,
+          "username": "guimuxi1214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071267151835705779",
+    "in_reply_to_user_id": "1816796445284139008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071216280615678015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@guimuxi1214 就喜欢跟这帮人对线 爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2071060654837105116",
+        "created_at": "2026-06-28T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071267151835705779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1816796445284139008",
+              "start": 0,
+              "username": "guimuxi1214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071267151835705779",
+        "in_reply_to_user_id": "1816796445284139008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071216280615678015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@guimuxi1214 就喜欢跟这帮人对线 爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816796445284139008",
+        "conversation_id": "2071060654837105116",
+        "created_at": "2026-06-28T12:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071216280615678015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071216280615678015",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071060654837105116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 墙内傻逼多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党?|无证含糖:26/5/26|直fo成分回|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "⬇️求求你了来玩提問箱吧➡️",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 378,
+          "like_count": 1801,
+          "listed_count": 4,
+          "media_count": 330,
+          "tweet_count": 2725
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-26T11:23:42.000Z",
+        "description": "仅个人观点，无客观性，个人心理状态稳定，无自杀倾向，坚持一个原则。纯观点。仅供娱乐，发病中。\n不割手/不od/无证无糖/不HRT不是MTF/喝酒不抽烟/无抑郁/无双向/不休学\n不涉政的话题尽量保持中立",
+        "id": "1816796445284139008",
+        "location": "Rhodes Island",
+        "name": "槻木汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063279665545179136/Zz52TCjo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 67,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "guimuxi1214",
+        "verified": false
+      }
+    ]
+  }
+}

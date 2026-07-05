@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2071900376434200995",
+    "created_at": "2026-06-30T14:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071962355941154940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        },
+        {
+          "end": 25,
+          "id": "1958106621940482049",
+          "start": 13,
+          "username": "XieYao22528"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071962355941154940",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071959826595545407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@TixItem4527 @XieYao22528 很开心喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2071900376434200995",
+        "created_at": "2026-06-30T14:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071962355941154940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            },
+            {
+              "end": 25,
+              "id": "1958106621940482049",
+              "start": 13,
+              "username": "XieYao22528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071962355941154940",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071959826595545407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@TixItem4527 @XieYao22528 很开心喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708446662514110464",
+        "conversation_id": "2071900376434200995",
+        "created_at": "2026-06-30T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071959826595545407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 25,
+              "id": "1958106621940482049",
+              "start": 13,
+              "username": "XieYao22528"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071959826595545407",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071900376434200995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 @XieYao22528 玩的開心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 380,
+          "like_count": 1818,
+          "listed_count": 4,
+          "media_count": 333,
+          "tweet_count": 2778
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|174cm|57kg|INFP\nCN抖音:tixitem4527\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，未竟的复活赛)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 143,
+                "start": 129,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "Kamona,北方陣線控制區(特維拉)",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 922,
+          "like_count": 2214,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T09:59:49.000Z",
+        "description": "INFJ/173cm/66kg",
+        "id": "1958106621940482049",
+        "name": "屑涵喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071902297823625216/KKesoKok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 146,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "XieYao22528",
+        "verified": false
+      }
+    ]
+  }
+}
