@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2073650074996162686",
+    "created_at": "2026-07-05T10:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073709783157448972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063304150084157440",
+          "start": 0,
+          "username": "StarvePanda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073709783157448972",
+    "in_reply_to_user_id": "2063304150084157440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073705300742504513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@StarvePanda 我也这样觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2073650074996162686",
+        "created_at": "2026-07-05T10:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073709783157448972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063304150084157440",
+              "start": 0,
+              "username": "StarvePanda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073709783157448972",
+        "in_reply_to_user_id": "2063304150084157440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073705300742504513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@StarvePanda 我也这样觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063304150084157440",
+        "conversation_id": "2073650074996162686",
+        "created_at": "2026-07-05T09:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073705300742504513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073705300742504513",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073650074996162686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 確實是對LGBT的污名化啊😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun(定居长春)",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 394,
+          "like_count": 1836,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T16:58:47.000Z",
+        "description": "熊貓絕食 Starve Panda｜\nHK人在TW｜人本主義・康德奧威爾・改良民主主義「人是目的，而非手段」｜\n友跨🏳️‍⚧️🍥｜🇹🇼🇭🇰🇸🇬🇯🇵🇰🇷🇦🇺🏳️‍🌈｜\n我係香港人，喺台灣住緊。｜台灣長大，目前只會國語｜性取向可能是fin🤔",
+        "id": "2063304150084157440",
+        "location": "彰化縣, 台灣",
+        "name": "熊貓絕食",
+        "pinned_tweet_id": "2071992750103507158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349658530410496/90KFCIVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 143,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "StarvePanda",
+        "verified": false
+      }
+    ]
+  }
+}

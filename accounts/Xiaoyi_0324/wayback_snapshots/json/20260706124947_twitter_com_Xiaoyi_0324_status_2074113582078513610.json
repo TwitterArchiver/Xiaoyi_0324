@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2073944034012508555",
+    "created_at": "2026-07-06T12:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074113582078513610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931902040705503232",
+          "start": 0,
+          "username": "CorollaKen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074113582078513610",
+    "in_reply_to_user_id": "1931902040705503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074084555175383330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CorollaKen 对啊 我怎么忘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2073944034012508555",
+        "created_at": "2026-07-06T12:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074113582078513610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931902040705503232",
+              "start": 0,
+              "username": "CorollaKen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074113582078513610",
+        "in_reply_to_user_id": "1931902040705503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074084555175383330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CorollaKen 对啊 我怎么忘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931902040705503232",
+        "conversation_id": "2073944034012508555",
+        "created_at": "2026-07-06T10:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074084555175383330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074084555175383330",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073944034012508555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 你可以回复：可是我是女性啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun(定居长春)",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 397,
+          "like_count": 1838,
+          "listed_count": 4,
+          "media_count": 346,
+          "tweet_count": 2884
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T02:32:06.000Z",
+        "description": "已有恋人 ｜ 积极生活中 ｜ 欢迎姐妹贴贴～",
+        "id": "1931902040705503232",
+        "name": "小饼干Alice🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049812711178174464/Bu4GwgGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 48,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "CorollaKen",
+        "verified": false
+      }
+    ]
+  }
+}

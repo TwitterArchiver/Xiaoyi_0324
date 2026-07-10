@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2073288762331939186",
+    "created_at": "2026-07-05T06:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073659503623762295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073659503623762295",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073288762331939186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 恭喜 让我蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_2073288751959420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXNIplasAAzNNJ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2073288762331939186",
+        "created_at": "2026-07-05T06:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073659503623762295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073659503623762295",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073288762331939186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 恭喜 让我蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073288751959420928"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2073288762331939186",
+        "created_at": "2026-07-04T06:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073288762331939186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iKkJHK3ttL",
+              "end": 132,
+              "expanded_url": "https://x.com/xz8796/status/2073288762331939186/photo/1",
+              "media_key": "3_2073288751959420928",
+              "start": 109,
+              "url": "https://t.co/iKkJHK3ttL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073288762331939186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1225,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "OK李帆终于100fo了\n抽奖0.0\n让grok抽\n转发+关注抽\n一等奖 52rmb一位\n二等奖 30r一位\n三等奖10r3位 资金有限请见谅 到时候发口令红包给你们555\n\n以后等我成功搞出来自制药了我要疯狂抽抽抽 https://t.co/iKkJHK3ttL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun(定居长春)",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 393,
+          "like_count": 1835,
+          "listed_count": 4,
+          "media_count": 343,
+          "tweet_count": 2852
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "鉴赏李帆中……从今天开始我要做一个健全人\n生活號 | 一天會發10+條推請見諒\nINTJ | FtX | ed | od（劃掉） | BMI15\n有點陰暗 囤積癖",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "李帆",
+        "pinned_tweet_id": "2073386250669850974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072228021139066880/Y41_HhUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 186,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

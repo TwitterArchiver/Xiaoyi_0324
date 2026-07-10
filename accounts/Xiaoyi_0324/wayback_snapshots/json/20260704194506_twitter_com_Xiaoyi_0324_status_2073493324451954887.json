@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073493321486598144"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2073334788740518083",
+    "created_at": "2026-07-04T19:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T20:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073493324451954887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6TQktIz2X",
+          "end": 39,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2073493324451954887/photo/1",
+          "media_key": "3_2073493321486598144",
+          "start": 16,
+          "url": "https://t.co/G6TQktIz2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073493324451954887",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073334788740518083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 嘖 https://t.co/G6TQktIz2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073493321486598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMaHMKdagAAzEfi.jpg",
+        "width": 930
+      },
+      {
+        "height": 1256,
+        "media_key": "3_2073334779911786496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX2_1Ea0AANwYR.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073493321486598144"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2073334788740518083",
+        "created_at": "2026-07-04T19:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073493324451954887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6TQktIz2X",
+              "end": 39,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2073493324451954887/photo/1",
+              "media_key": "3_2073493321486598144",
+              "start": 16,
+              "url": "https://t.co/G6TQktIz2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073493324451954887",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073334788740518083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 嘖 https://t.co/G6TQktIz2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073334779911786496"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2073334788740518083",
+        "created_at": "2026-07-04T09:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073334788740518083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/om87wwA92E",
+              "end": 48,
+              "expanded_url": "https://x.com/Mark67358226/status/2073334788740518083/photo/1",
+              "media_key": "3_2073334779911786496",
+              "start": 25,
+              "url": "https://t.co/om87wwA92E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073334788740518083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看不懂洋文，求翻譯喵。總之流量這兩天越來越差了😡 https://t.co/om87wwA92E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun(定居长春)",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 392,
+          "like_count": 1833,
+          "listed_count": 4,
+          "media_count": 341,
+          "tweet_count": 2845
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 1493,
+          "like_count": 25286,
+          "listed_count": 3,
+          "media_count": 293,
+          "tweet_count": 5650
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2073733681118847311",
+    "created_at": "2026-07-07T13:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074485060624089484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074485060624089484",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073733681118847311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki 恭喜喵 xml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_2073730105411821568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdeizUa4AAjKkm.jpg",
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073733669853020160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdhyR5bQAAGE2A.jpg",
+        "width": 1200
+      },
+      {
+        "height": 959,
+        "media_key": "3_2073733672688295937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdhycdaIAED6u3.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2073733681118847311",
+        "created_at": "2026-07-07T13:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074485060624089484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074485060624089484",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073733681118847311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 恭喜喵 xml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073730105411821568",
+            "3_2073733669853020160",
+            "3_2073733672688295937"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073733681118847311",
+        "created_at": "2026-07-05T11:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073733681118847311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073730105411821568",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            },
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073733669853020160",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            },
+            {
+              "display_url": "pic.x.com/ocf6ZzT81M",
+              "end": 190,
+              "expanded_url": "https://x.com/CCA8798suki/status/2073733681118847311/photo/1",
+              "media_key": "3_2073733672688295937",
+              "start": 167,
+              "url": "https://t.co/ocf6ZzT81M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733681118847311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3633,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 46,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo纪念！\n感谢大家的支持\n于是打算久违地抽奖...\n第一名 15.20r*1\n第二名 月薪喵50cm玩偶*1(可折8r)\n第三名 黑/白小猫玩偶*2(可折2r)\n\n关注+点赞+评论+转帖参与\n\n1100fo时开奖！\n\n抽奖是用自研的抽奖工具噢\n(之前有发过帖子来着)\n具体的引擎是\nC++标准库mt19937_64+时间戳 https://t.co/ocf6ZzT81M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTF|出柜:26/4/30|家长不管党|无证含糖:26/5/26|来玩提问箱吧求求你了😭|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "China,Jilin,Changchun(定居长春)",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 402,
+          "like_count": 1852,
+          "listed_count": 4,
+          "media_count": 347,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1251,
+          "like_count": 3794,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}
