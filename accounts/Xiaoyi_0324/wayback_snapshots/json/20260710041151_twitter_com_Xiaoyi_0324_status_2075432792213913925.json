@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2075207526837260519",
+    "created_at": "2026-07-10T04:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075432792213913925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055498933535924224",
+          "start": 0,
+          "username": "rewolF0307"
+        },
+        {
+          "end": 25,
+          "id": "1927842694979801090",
+          "start": 12,
+          "username": "Lim_Rain_Bow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075432792213913925",
+    "in_reply_to_user_id": "2055498933535924224",
+    "lang": "vi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075428964252913768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@rewolF0307 @Lim_Rain_Bow bxmbxm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2075207526837260519",
+        "created_at": "2026-07-10T04:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075432792213913925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055498933535924224",
+              "start": 0,
+              "username": "rewolF0307"
+            },
+            {
+              "end": 25,
+              "id": "1927842694979801090",
+              "start": 12,
+              "username": "Lim_Rain_Bow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075432792213913925",
+        "in_reply_to_user_id": "2055498933535924224",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075428964252913768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@rewolF0307 @Lim_Rain_Bow bxmbxm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498933535924224",
+        "conversation_id": "2075207526837260519",
+        "created_at": "2026-07-10T03:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075428964252913768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 26,
+              "id": "1927842694979801090",
+              "start": 13,
+              "username": "Lim_Rain_Bow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075428964252913768",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075207526837260519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 @Lim_Rain_Bow XM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Jilin,Changchun(长春)来玩提问箱！",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 405,
+          "like_count": 1862,
+          "listed_count": 4,
+          "media_count": 353,
+          "tweet_count": 2957
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T04:01:59.000Z",
+        "description": "10年|高二|偶尔玩些音游，有点杂食|正在学习化妆|正在学习c语言和JavaScript|经常内耗，我也不知道为什么|喜欢听ACG歌曲，术力口以及草东|异装癖|无不良嗜好|喜欢发呆|想要有人陪",
+        "id": "2055498933535924224",
+        "location": "在你的怀里哦，我爱你喵",
+        "name": "朝花rewolF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073712160799424512/TxpIClce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "rewolF0307",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T21:41:44.000Z",
+        "description": "MtF🏳️‍⚧️/生产日期08.02.23/HRT26.5.11 无证含糖🍥/170cm？kg（体重焦虑中）/重焦双相/od中止/躺平摆烂ing/立直麻将 音游狗",
+        "id": "1927842694979801090",
+        "name": "レインボー☆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033501252156588032/_SfpoI1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 230,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Lim_Rain_Bow",
+        "verified": false
+      }
+    ]
+  }
+}

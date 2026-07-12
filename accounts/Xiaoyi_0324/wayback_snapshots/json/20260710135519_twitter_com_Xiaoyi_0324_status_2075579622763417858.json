@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075579610650361856"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075579622763417858",
+    "created_at": "2026-07-10T13:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075579622763417858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2619034686",
+          "start": 1,
+          "username": "lyggalaxy"
+        },
+        {
+          "end": 25,
+          "id": "1927842694979801090",
+          "start": 12,
+          "username": "Lim_Rain_Bow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pG6vICFuC",
+          "end": 76,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2075579622763417858/photo/1",
+          "media_key": "3_2075579610650361856",
+          "start": 53,
+          "url": "https://t.co/7pG6vICFuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075579622763417858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "和@lyggalaxy @Lim_Rain_Bow 贴贴喵！\n最近今明两天行程排满了啊🥲 我要好好歇两天 https://t.co/7pG6vICFuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075579610650361856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3wqLPbwAAms4s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075579610650361856"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075579622763417858",
+        "created_at": "2026-07-10T13:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075579622763417858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2619034686",
+              "start": 1,
+              "username": "lyggalaxy"
+            },
+            {
+              "end": 25,
+              "id": "1927842694979801090",
+              "start": 12,
+              "username": "Lim_Rain_Bow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pG6vICFuC",
+              "end": 76,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2075579622763417858/photo/1",
+              "media_key": "3_2075579610650361856",
+              "start": 53,
+              "url": "https://t.co/7pG6vICFuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075579622763417858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "和@lyggalaxy @Lim_Rain_Bow 贴贴喵！\n最近今明两天行程排满了啊🥲 我要好好歇两天 https://t.co/7pG6vICFuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Jilin,Changchun(长春)来玩提问箱！",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 405,
+          "like_count": 1864,
+          "listed_count": 4,
+          "media_count": 354,
+          "tweet_count": 2969
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-11T22:30:34.000Z",
+        "description": "arirang",
+        "id": "2619034686",
+        "location": "❥",
+        "name": "gia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034881666070847490/aR4zeXa-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 158,
+          "like_count": 94988,
+          "listed_count": 16,
+          "media_count": 3045,
+          "tweet_count": 79646
+        },
+        "url": "",
+        "username": "lyggalaxy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T21:41:44.000Z",
+        "description": "MtF🏳️‍⚧️/生产日期08.02.23/HRT26.5.11 无证含糖🍥/170cm？kg（体重焦虑中）/重焦双相/od中止/躺平摆烂ing/立直麻将 音游狗",
+        "id": "1927842694979801090",
+        "name": "レインボー☆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033501252156588032/_SfpoI1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 238,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Lim_Rain_Bow",
+        "verified": false
+      }
+    ]
+  }
+}
