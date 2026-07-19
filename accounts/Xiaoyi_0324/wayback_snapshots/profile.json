@@ -1,18 +1,29 @@
 {
-  "name": "櫻川由奈🏳️‍⚧️Sakura",
+  "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
   "username": "@Xiaoyi_0324",
-  "bio": "几乎全天在线的互联网飞舞|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|⬇️匿名提問",
-  "location": "工作郵箱:Ruai@transcircle.org",
-  "link": "ngl.link/xiaoyi0324",
+  "bio": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|亮点里是我个人精选帖😋|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+  "location": "Jilin,Changchun(长春)来玩提问箱！",
+  "link": "https://ngl.link/xiaoyi_0324",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "bio_entities": {
     "mentions": [
       {
-        "end": 31,
-        "start": 18,
-        "username": "NiaoYou83766"
+        "end": 26,
+        "start": 16,
+        "username": "YuChenawa"
+      },
+      {
+        "end": 51,
+        "start": 41,
+        "username": "Ruai_0324"
+      },
+      {
+        "end": 138,
+        "start": 123,
+        "username": "TransCircleOrg"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg"
 }
