@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2079394493808181331",
+    "created_at": "2026-07-21T16:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079598389763924186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689687243617705987",
+          "start": 0,
+          "username": "ccgzc11111822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079598389763924186",
+    "in_reply_to_user_id": "1689687243617705987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079394493808181331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccgzc11111822 干什么干什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30302,
+        "height": 1152,
+        "media_key": "13_2079393001604853760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079393001604853760/img/2otIF3l-Uq0EnliE.jpg",
+        "public_metrics": {
+          "view_count": 220872
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079393001604853760/vid/avc1/320x512/EHRIrBiOSeNTVAP-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079393001604853760/vid/avc1/480x768/Qv24MSBCQfy2oGSg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079393001604853760/vid/avc1/720x1152/8re2aNrK--XT5Ynd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079393001604853760/pl/zAZZStSFQtGZvUF6.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2079394493808181331",
+        "created_at": "2026-07-21T16:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079598389763924186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689687243617705987",
+              "start": 0,
+              "username": "ccgzc11111822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079598389763924186",
+        "in_reply_to_user_id": "1689687243617705987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079394493808181331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccgzc11111822 干什么干什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079393001604853760"
+          ]
+        },
+        "author_id": "1689687243617705987",
+        "conversation_id": "2079394493808181331",
+        "created_at": "2026-07-21T02:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079394493808181331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwVvKoyWdj",
+              "end": 23,
+              "expanded_url": "https://x.com/ccgzc11111822/status/2079394493808181331/video/1",
+              "media_key": "13_2079393001604853760",
+              "start": 0,
+              "url": "https://t.co/YwVvKoyWdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079394493808181331",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 748,
+          "impression_count": 412484,
+          "like_count": 2406,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YwVvKoyWdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|想了解我请查看亮点😃|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Jilin,Changchun(长春)来玩提问箱！",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 407,
+          "like_count": 1873,
+          "listed_count": 5,
+          "media_count": 362,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T17:17:00.000Z",
+        "description": "",
+        "id": "1689687243617705987",
+        "name": "Alice Bradley",
+        "pinned_tweet_id": "2079431844508946793",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "ccgzc11111822",
+        "verified": false
+      }
+    ]
+  }
+}

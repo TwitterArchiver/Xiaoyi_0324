@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080780294765137921"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080780300557385751",
+    "created_at": "2026-07-24T22:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T23:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080780300557385751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZyUGGzoHU",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2080780300557385751/photo/1",
+          "media_key": "3_2080780294765137921",
+          "start": 22,
+          "url": "https://t.co/5ZyUGGzoHU"
+        },
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2080439063933252005",
+          "start": 46,
+          "url": "https://t.co/vwo9Fp50Nt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080780300557385751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080439063933252005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "請注意 這是李保興的賬號 最近仍在實施詐騙 https://t.co/5ZyUGGzoHU https://t.co/vwo9Fp50Nt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2080780294765137921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBqp1Ub0AEfOte.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080780294765137921"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080780300557385751",
+        "created_at": "2026-07-24T22:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080780300557385751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZyUGGzoHU",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2080780300557385751/photo/1",
+              "media_key": "3_2080780294765137921",
+              "start": 22,
+              "url": "https://t.co/5ZyUGGzoHU"
+            },
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2080439063933252005",
+              "start": 46,
+              "url": "https://t.co/vwo9Fp50Nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080780300557385751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080439063933252005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請注意 這是李保興的賬號 最近仍在實施詐騙 https://t.co/5ZyUGGzoHU https://t.co/vwo9Fp50Nt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2080439063933252005",
+        "created_at": "2026-07-23T23:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080439063933252005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2037566364085543393",
+              "start": 150,
+              "url": "https://t.co/FMUIXchQP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080439063933252005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些無恥的藥商會消費同類的同情心 並且使用極低的藥物價格來誘惑購買 我前段時間遇到李保興 跟我說自己找工作被騙了 手上只有這兩盒hrt的藥物說要換錢 不賣他就要“紫砂” 其藥物價格極其便宜 色譜龍 泰補等只需要200-150左右一盒 我希望各位能擁有辨別真假的能力 並提高防範意識 例如要求實拍視頻 並在視頻中要求展示可信任時間戳來規避相冊存圖 時間戳可固定為國家授時中心所提供的標准北京時間 來規避別有用心之人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037566364085543393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些無恥的藥商會消費同類的同情心 並且使用極低的藥物價格來誘惑購買 我前段時間遇到李保興 跟我說自己找工作被騙了 手上只有這兩盒hrt的藥物說要換錢 不賣他就要“紫砂” 其藥物價格極其便宜 色譜龍 泰補等只需要200-150左右一盒 我希望各位能擁有辨別真假的能力 並提高防範意識 例如要求實拍視頻 https://t.co/FMUIXchQP1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞\n|性取向男|想了解我请查看亮点😃\n|生活號@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2080008140763132350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 415,
+          "like_count": 1885,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 3093
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

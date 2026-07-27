@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080174553268187136"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2080174666266935777",
+    "created_at": "2026-07-23T06:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080174666266935777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "1927842694979801090",
+          "start": 14,
+          "username": "Lim_Rain_Bow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Fq0WwZ4LB",
+          "end": 53,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2080174666266935777/video/1",
+          "media_key": "13_2080174553268187136",
+          "start": 30,
+          "url": "https://t.co/9Fq0WwZ4LB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080174666266935777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我还是发点好笑的内容吧 这是@Lim_Rain_Bow 哦 https://t.co/9Fq0WwZ4LB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32541,
+        "height": 1920,
+        "media_key": "13_2080174553268187136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080174553268187136/img/8VdylS_t7IVthm5H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080174553268187136/pl/2l0aPEjF8sYUMk3q.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080174553268187136/vid/avc1/720x1560/xz1tq-PIRVEbsGtq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080174553268187136/vid/avc1/480x1040/_ihCM4mlLbFkxRox.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080174553268187136/vid/avc1/886x1920/275lZr6xyyVr9GL-.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080174553268187136/vid/avc1/320x692/7sPJBuUsmuqtSj62.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080174553268187136"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2080174666266935777",
+        "created_at": "2026-07-23T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080174666266935777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1927842694979801090",
+              "start": 14,
+              "username": "Lim_Rain_Bow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Fq0WwZ4LB",
+              "end": 53,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2080174666266935777/video/1",
+              "media_key": "13_2080174553268187136",
+              "start": 30,
+              "url": "https://t.co/9Fq0WwZ4LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080174666266935777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我还是发点好笑的内容吧 这是@Lim_Rain_Bow 哦 https://t.co/9Fq0WwZ4LB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|\n性取向男|想了解我请查看亮点😃|\n里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2080008140763132350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 411,
+          "like_count": 1876,
+          "listed_count": 5,
+          "media_count": 367,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-28T21:41:44.000Z",
+        "description": "MtF🏳️‍⚧️/生产日期08.02.23/HRT26.5.11 无证含糖🍥/168cm 67kg/重焦双相/overdose/紫残/躺平摆烂ing/立直麻将 音游狗/最爱的姐姐@xunxiaoxiao81 一辈子在一起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 89,
+                "username": "xunxiaoxiao81"
+              }
+            ]
+          }
+        },
+        "id": "1927842694979801090",
+        "name": "レインボー☆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077579235393437696/nLJm4ACu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 248,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "Lim_Rain_Bow",
+        "verified": false
+      }
+    ]
+  }
+}

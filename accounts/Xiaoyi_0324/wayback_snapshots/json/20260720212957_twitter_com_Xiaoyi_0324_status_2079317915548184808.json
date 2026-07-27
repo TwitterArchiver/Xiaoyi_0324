@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2079308937141338314",
+    "created_at": "2026-07-20T21:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T22:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079317915548184808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079317915548184808",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079308937141338314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我自己都看的眼泪在眼眶里打转了 实不相瞒 我的语文中考的时候甚至没及格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2079308937141338314",
+        "created_at": "2026-07-20T21:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079317915548184808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079317915548184808",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079308937141338314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我自己都看的眼泪在眼眶里打转了 实不相瞒 我的语文中考的时候甚至没及格"
+      },
+      {
+        "article": {
+          "title": "我的个人经历（1）"
+        },
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2079308937141338314",
+        "created_at": "2026-07-20T20:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079308937141338314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2079…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2079297012042977280",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2079297012042977280",
+              "url": "https://t.co/AgOy02anHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079308937141338314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AgOy02anHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|想了解我请查看亮点😃|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Jilin,Changchun(长春)来玩提问箱！",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 405,
+          "like_count": 1862,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

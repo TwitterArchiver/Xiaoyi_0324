@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2079882526911557728",
+    "created_at": "2026-07-22T19:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080009738839093638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2064023095191756801",
+          "start": 0,
+          "username": "mmi9xd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080009738839093638",
+    "in_reply_to_user_id": "2064023095191756801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079882526911557728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmi9xd 你都来外网了就给兄弟们看这？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68336,
+        "height": 1280,
+        "media_key": "7_2079882455306457088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2079882455306457088/pu/img/eEE3TfsVbJEfyv9L.jpg",
+        "public_metrics": {
+          "view_count": 11297
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079882455306457088/pu/vid/avc1/320x568/e2XfH8MgDjoD7pcv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079882455306457088/pu/vid/avc1/480x852/nb4iNP9WhpMByVH4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2079882455306457088/pu/vid/avc1/720x1280/JXL8TTtOfGHGDvtZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2079882455306457088/pu/pl/ovc9uxB7hGN1nMl9.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2079882526911557728",
+        "created_at": "2026-07-22T19:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080009738839093638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2064023095191756801",
+              "start": 0,
+              "username": "mmi9xd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080009738839093638",
+        "in_reply_to_user_id": "2064023095191756801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079882526911557728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmi9xd 你都来外网了就给兄弟们看这？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2079882455306457088"
+          ]
+        },
+        "author_id": "2064023095191756801",
+        "conversation_id": "2079882526911557728",
+        "created_at": "2026-07-22T10:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079882526911557728"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "我的世界中国版"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "游戏破壁计划"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNJU9CqZyf",
+              "end": 40,
+              "expanded_url": "https://x.com/mmi9xd/status/2079882526911557728/video/1",
+              "media_key": "7_2079882455306457088",
+              "start": 17,
+              "url": "https://t.co/aNJU9CqZyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079882526911557728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 36152,
+          "like_count": 193,
+          "quote_count": 0,
+          "reply_count": 220,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#我的世界中国版 #游戏破壁计划 https://t.co/aNJU9CqZyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|想了解我请查看亮点😃|里推@Ruai_0324|MTFTX|出柜:26/4/30|家长半反对党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|我们的项目:@TransCircleOrg|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Jilin,Changchun(长春)来玩提问箱！",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 411,
+          "like_count": 1875,
+          "listed_count": 5,
+          "media_count": 366,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T16:35:35.000Z",
+        "description": "MC手机玩神奇宝贝⬇推荐加群🔥\n一群：189932837（Q群）⬅\n\n添加上方的QQ群⬆⬆⬆",
+        "id": "2064023095191756801",
+        "name": "我的世界皓辰",
+        "pinned_tweet_id": "2078483721880297921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078482632405667840/eb9fajFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 14,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "mmi9xd",
+        "verified": false
+      }
+    ]
+  }
+}
