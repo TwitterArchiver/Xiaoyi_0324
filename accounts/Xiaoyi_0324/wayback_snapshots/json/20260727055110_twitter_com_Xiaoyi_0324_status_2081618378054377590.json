@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2081618378054377590",
+    "created_at": "2026-07-27T05:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T06:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081618378054377590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081618378054377590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我喜欢你 请和我生小由奈\nε(○´∀｀)зε(´∀｀●)з"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2081618378054377590",
+        "created_at": "2026-07-27T05:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T06:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081618378054377590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081618378054377590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我喜欢你 请和我生小由奈\nε(○´∀｀)зε(´∀｀●)з"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 415,
+          "like_count": 1888,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 3119
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

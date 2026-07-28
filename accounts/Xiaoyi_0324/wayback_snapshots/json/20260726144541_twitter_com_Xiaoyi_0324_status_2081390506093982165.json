@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2081360657216311673",
+    "created_at": "2026-07-26T14:45:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:45:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081390506093982165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081390506093982165",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081360657216311673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 说白了 直系亲属最好盒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1970,
+        "media_key": "3_2081360650186727424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJ6e9vbIAAowfJ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2081360657216311673",
+        "created_at": "2026-07-26T14:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081390506093982165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081390506093982165",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081360657216311673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 说白了 直系亲属最好盒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081360650186727424"
+          ]
+        },
+        "author_id": "2065198058443620353",
+        "conversation_id": "2081360657216311673",
+        "created_at": "2026-07-26T12:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:45:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081360207834423355",
+          "2081360657216311673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YmiO02wwIf",
+              "end": 64,
+              "expanded_url": "https://x.com/Autonomous667/status/2081360657216311673/photo/1",
+              "media_key": "3_2081360650186727424",
+              "start": 41,
+              "url": "https://t.co/YmiO02wwIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081360657216311673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1043,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "细节开错了🤣🤣🤣，说是你哥实名是吧，马上文字全户就出来了，到时候恁九族不保，，， https://t.co/YmiO02wwIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 415,
+          "like_count": 1888,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "qqqxx，，，清正协会频道：https://t.co/qHS5pY5zmK  欢迎大家踊跃参与  下面那个lol网站是我的论坛，大家可以放开玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingzhengxh",
+                "end": 38,
+                "expanded_url": "http://t.me/qingzhengxh",
+                "start": 15,
+                "url": "https://t.co/qHS5pY5zmK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2079907481405587714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080489113963413505/xg4ajxIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 134,
+          "like_count": 1421,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 1634
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

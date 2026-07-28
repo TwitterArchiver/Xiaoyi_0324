@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081697270198861824"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2081697288075067624",
+    "created_at": "2026-07-27T11:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081697288075067624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ahQHgVyanl",
+          "end": 185,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2081697288075067624/photo/1",
+          "media_key": "3_2081697270198861824",
+          "start": 162,
+          "url": "https://t.co/ahQHgVyanl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081697288075067624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我发现 我推特的fo最近一直在1834-1837之间浮动 不知道是有人取关我还是一群人在被封 总之很难让人绷住\n另外我的抖音在1200fo的时候被字节Block了 什么都干不了 我做错了什么？我不就是分享我的hrt日常吗 字节至于这么严重的封禁我？\n不让挂🏳️‍⚧️就算了 怎么还搞区别对待\n至于我怎么知道的 我有一个小号 账号状态和这个号差不多 只不过注册稍早一些 也没有实名 那个账号现在依然活得好好的 就把我这个跨性别的号封掉了\n目的是什么 好难猜啊 对吧"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我发现 我推特的fo最近一直在1834-1837之间浮动 不知道是有人取关我还是一群人在被封 总之很难让人绷住\n另外我的抖音在1200fo的时候被字节Block了 什么都干不了 我做错了什么？我不就是分享我的hrt日常吗 字节至于这么严重的封禁我？\n不让挂🏳️‍⚧️就算了 怎么还搞区别对待\n至于我怎么知道的 我有一个小号 https://t.co/ahQHgVyanl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081697270198861824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOso1AagAAL6e5.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081697270198861824"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2081697288075067624",
+        "created_at": "2026-07-27T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081697288075067624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ahQHgVyanl",
+              "end": 185,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2081697288075067624/photo/1",
+              "media_key": "3_2081697270198861824",
+              "start": 162,
+              "url": "https://t.co/ahQHgVyanl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081697288075067624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我发现 我推特的fo最近一直在1834-1837之间浮动 不知道是有人取关我还是一群人在被封 总之很难让人绷住\n另外我的抖音在1200fo的时候被字节Block了 什么都干不了 我做错了什么？我不就是分享我的hrt日常吗 字节至于这么严重的封禁我？\n不让挂🏳️‍⚧️就算了 怎么还搞区别对待\n至于我怎么知道的 我有一个小号 账号状态和这个号差不多 只不过注册稍早一些 也没有实名 那个账号现在依然活得好好的 就把我这个跨性别的号封掉了\n目的是什么 好难猜啊 对吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我发现 我推特的fo最近一直在1834-1837之间浮动 不知道是有人取关我还是一群人在被封 总之很难让人绷住\n另外我的抖音在1200fo的时候被字节Block了 什么都干不了 我做错了什么？我不就是分享我的hrt日常吗 字节至于这么严重的封禁我？\n不让挂🏳️‍⚧️就算了 怎么还搞区别对待\n至于我怎么知道的 我有一个小号 https://t.co/ahQHgVyanl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 417,
+          "like_count": 1890,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}
