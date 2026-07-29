@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2081897072383635857",
+    "created_at": "2026-07-28T04:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081962769310785868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580456162050584577",
+          "start": 0,
+          "username": "chushouplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081962769310785868",
+    "in_reply_to_user_id": "1580456162050584577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081962235811774607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@chushouplay 其实是我懒得剪发（顺男时候也这样）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2081897072383635857",
+        "created_at": "2026-07-28T04:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081962769310785868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580456162050584577",
+              "start": 0,
+              "username": "chushouplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081962769310785868",
+        "in_reply_to_user_id": "1580456162050584577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081962235811774607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@chushouplay 其实是我懒得剪发（顺男时候也这样）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580456162050584577",
+        "conversation_id": "2081897072383635857",
+        "created_at": "2026-07-28T04:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081962235811774607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081962235811774607",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081957656999444601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 为什么这也不讲（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 416,
+          "like_count": 1891,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T07:11:58.000Z",
+        "description": "175/50kg，xyn。mtf🏳️‍⚧️｜无证含🍥中｜HRT🍥：26.3.21 ｜不od（没药），感觉死亡无所谓了，死了得了，sb工作，sb原生家庭\n价格合适的话pg卖就卖吧，比这sb班要强",
+        "id": "1580456162050584577",
+        "name": "精灵_Elf🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 66,
+          "like_count": 404,
+          "listed_count": 7,
+          "media_count": 83,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "chushouplay",
+        "verified": true
+      }
+    ]
+  }
+}
