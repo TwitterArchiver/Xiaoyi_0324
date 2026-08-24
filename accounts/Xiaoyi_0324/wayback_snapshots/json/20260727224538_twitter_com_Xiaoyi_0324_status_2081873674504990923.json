@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2081556317303718189",
+    "created_at": "2026-07-27T22:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T23:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081873674504990923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081873674504990923",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081556317303718189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RainEngine2024m 不仅掉了蓝标粉 连我的粉丝也掉了好多 难不成🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2081556317303718189",
+        "created_at": "2026-07-27T22:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081873674504990923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081873674504990923",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081556317303718189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RainEngine2024m 不仅掉了蓝标粉 连我的粉丝也掉了好多 难不成🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2081556317303718189",
+        "created_at": "2026-07-27T01:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:44:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081556283040362840",
+          "2081556317303718189"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2081556317303718189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3107,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我说我怎么蓝标粉掉这么多，你们还真是被秋后算账了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 416,
+          "like_count": 1890,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 3139
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "不知名数码爱好者、米粉/欧粉/花粉、社民/民社、INFP、摄影、ACG、Galgame\n爱人：@wxb_nb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "wxb_nb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/gbsnx2009",
+                "end": 23,
+                "expanded_url": "http://telegram.me/gbsnx2009",
+                "start": 0,
+                "url": "https://t.co/zF8pJloxVl"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin Republic of China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2077399541406630389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 1596,
+          "like_count": 6296,
+          "listed_count": 10,
+          "media_count": 1128,
+          "tweet_count": 3496
+        },
+        "url": "https://t.co/zF8pJloxVl",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

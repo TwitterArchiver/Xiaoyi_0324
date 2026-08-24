@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2084640792472424939",
+    "created_at": "2026-08-04T14:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084640792472424939"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084640792472424939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "你现在这般憔悴 颓废 消极的样子 实在对不起当年意气风发的自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2084640792472424939",
+        "created_at": "2026-08-04T14:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084640792472424939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084640792472424939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "你现在这般憔悴 颓废 消极的样子 实在对不起当年意气风发的自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n退学生|只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 433,
+          "like_count": 1931,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

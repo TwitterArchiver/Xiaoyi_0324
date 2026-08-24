@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2086441534094991501",
+    "created_at": "2026-08-10T03:37:57.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086658283247714433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817912358355849216",
+          "start": 0,
+          "username": "ChinatsuMar33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086658283247714433",
+    "in_reply_to_user_id": "1817912358355849216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086614826005205469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ChinatsuMar33 我不知道我爸能不能接受捏）他现在没在管我就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2086441534094991501",
+        "created_at": "2026-08-10T03:37:57.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086658283247714433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817912358355849216",
+              "start": 0,
+              "username": "ChinatsuMar33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086658283247714433",
+        "in_reply_to_user_id": "1817912358355849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086614826005205469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ChinatsuMar33 我不知道我爸能不能接受捏）他现在没在管我就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817912358355849216",
+        "conversation_id": "2086441534094991501",
+        "created_at": "2026-08-10T00:45:16.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086614826005205469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086614826005205469",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086441534094991501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 我去 我妈妈还是不能接受 一直想让我当男的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2086658283247714433",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 441,
+          "like_count": 1999,
+          "listed_count": 6,
+          "media_count": 415,
+          "tweet_count": 3417
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-29T13:17:43.000Z",
+        "description": "",
+        "id": "1817912358355849216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086614826005205469",
+        "name": "Chinatsu Chan",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061984336631721984/kcmYIpkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 601,
+          "like_count": 26114,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "ChinatsuMar33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

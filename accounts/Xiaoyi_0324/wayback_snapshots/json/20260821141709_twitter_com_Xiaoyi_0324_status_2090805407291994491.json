@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2090698908297265284",
+    "created_at": "2026-08-21T14:17:09.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090805407291994491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073346949001175040",
+          "start": 0,
+          "username": "yu115637912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090805407291994491",
+    "in_reply_to_user_id": "2073346949001175040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090764569379770586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yu115637912 一个辅助工具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2090698908297265284",
+        "created_at": "2026-08-21T14:17:09.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090805407291994491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073346949001175040",
+              "start": 0,
+              "username": "yu115637912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090805407291994491",
+        "in_reply_to_user_id": "2073346949001175040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090764569379770586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yu115637912 一个辅助工具"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073346949001175040",
+        "conversation_id": "2090698908297265284",
+        "created_at": "2026-08-21T11:34:52.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090764569379770586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090764569379770586",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090698908297265284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 左下角是啥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n单身|随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2090805407291994491",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 434,
+          "like_count": 2086,
+          "listed_count": 6,
+          "media_count": 439,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-04T10:06:48.000Z",
+        "description": "青梅竹马：@xiaohansol3xh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "xiaohansol3xh"
+              }
+            ]
+          }
+        },
+        "id": "2073346949001175040",
+        "is_identity_verified": false,
+        "location": "翁法罗斯",
+        "most_recent_tweet_id": "2090764569379770586",
+        "name": "こ彧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073346949001175040/1783160113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073348803625984000/1JUnsKv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "yu115637912",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

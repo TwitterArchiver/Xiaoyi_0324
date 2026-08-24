@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082827902555734017",
+        "3_2082827907714744320"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2082827912089350235",
+    "created_at": "2026-07-30T13:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082827912089350235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/c2mewxHlT1",
+          "end": 37,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2082827912089350235/photo/1",
+          "media_key": "3_2082827902555734017",
+          "start": 14,
+          "url": "https://t.co/c2mewxHlT1"
+        },
+        {
+          "display_url": "pic.x.com/c2mewxHlT1",
+          "end": 37,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2082827912089350235/photo/1",
+          "media_key": "3_2082827907714744320",
+          "start": 14,
+          "url": "https://t.co/c2mewxHlT1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082827912089350235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很爽 就是耳朵貌似不能要了 https://t.co/c2mewxHlT1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2082827902555734017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOew8SwbQAEMCd5.jpg",
+        "width": 1271
+      },
+      {
+        "height": 1516,
+        "media_key": "3_2082827907714744320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOew8l-bgAAyr4y.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082827902555734017",
+            "3_2082827907714744320"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2082827912089350235",
+        "created_at": "2026-07-30T13:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082827912089350235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2mewxHlT1",
+              "end": 37,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2082827912089350235/photo/1",
+              "media_key": "3_2082827902555734017",
+              "start": 14,
+              "url": "https://t.co/c2mewxHlT1"
+            },
+            {
+              "display_url": "pic.x.com/c2mewxHlT1",
+              "end": 37,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2082827912089350235/photo/1",
+              "media_key": "3_2082827907714744320",
+              "start": 14,
+              "url": "https://t.co/c2mewxHlT1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082827912089350235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很爽 就是耳朵貌似不能要了 https://t.co/c2mewxHlT1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|家长不管党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 422,
+          "like_count": 1908,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3223
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

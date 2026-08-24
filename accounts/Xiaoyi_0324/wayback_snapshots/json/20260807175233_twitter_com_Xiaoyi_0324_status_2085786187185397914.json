@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2085557300526530830",
+    "created_at": "2026-08-07T17:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085786187185397914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028799979452772352",
+          "start": 0,
+          "username": "sngxi3837901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085786187185397914",
+    "in_reply_to_user_id": "2028799979452772352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085775701597425839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sngxi3837901 🤔🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2085557300526530830",
+        "created_at": "2026-08-07T17:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085786187185397914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028799979452772352",
+              "start": 0,
+              "username": "sngxi3837901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085786187185397914",
+        "in_reply_to_user_id": "2028799979452772352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085775701597425839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sngxi3837901 🤔🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028799979452772352",
+        "conversation_id": "2085557300526530830",
+        "created_at": "2026-08-07T17:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085775701597425839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085775701597425839",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085557300526530830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 可以的可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 435,
+          "like_count": 1955,
+          "listed_count": 6,
+          "media_count": 408,
+          "tweet_count": 3366
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T11:49:58.000Z",
+        "description": "09生人    2026/06/30开始的- MtF GAHT    168-170cm\nte:XieSong09. 同类互关   几乎每天都在，想聊天也可以\n小号：@xieran197",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "xieran197"
+              }
+            ]
+          }
+        },
+        "id": "2028799979452772352",
+        "location": "中华人民共和国🇨🇳",
+        "name": "谢宋🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2080306350379418018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079863046949003264/JA3doZyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 64,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "sngxi3837901",
+        "verified": false
+      }
+    ]
+  }
+}

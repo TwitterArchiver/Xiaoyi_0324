@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-07-31T07:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083085955280634145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028799979452772352",
+          "start": 0,
+          "username": "sngxi3837901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083085955280634145",
+    "in_reply_to_user_id": "2028799979452772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083083514866761800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@sngxi3837901 🫪咱纯是被雌扭转了 神力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T07:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083085955280634145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028799979452772352",
+              "start": 0,
+              "username": "sngxi3837901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085955280634145",
+        "in_reply_to_user_id": "2028799979452772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083083514866761800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@sngxi3837901 🫪咱纯是被雌扭转了 神力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028799979452772352",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T06:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083083514866761800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083083514866761800",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 我性取向本来就是男的，吃了只能说是锦上添花，我力气本身就比较大，所以说现在就算吃了，好像也没有降多少，就大概降了一半吧最多，再说了，我才一个月。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 423,
+          "like_count": 1913,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3241
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T11:49:58.000Z",
+        "description": "09生人    2026/06/30开始的- MtF GAHT    168-170cm\n小号：@xieran197",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xieran197"
+              }
+            ]
+          }
+        },
+        "id": "2028799979452772352",
+        "location": "中华人民共和国🇨🇳",
+        "name": "谢宋🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079863046949003264/JA3doZyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 34,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "sngxi3837901",
+        "verified": false
+      }
+    ]
+  }
+}

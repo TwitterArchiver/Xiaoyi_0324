@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-07-31T08:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083103395683139997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1408751443360710662",
+          "start": 0,
+          "username": "Jellyfi77885103"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083103395683139997",
+    "in_reply_to_user_id": "1408751443360710662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083102082509443160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Jellyfi77885103 我觉得我应该是真的 反正我现在是真喜欢男生））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T08:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083103395683139997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1408751443360710662",
+              "start": 0,
+              "username": "Jellyfi77885103"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083103395683139997",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083102082509443160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Jellyfi77885103 我觉得我应该是真的 反正我现在是真喜欢男生））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T08:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083102082509443160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083102082509443160",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 你们激素改性取向都真的假的啊。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 424,
+          "like_count": 1913,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3246
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "为什么世界上有那么多水母\n\n小红书https://t.co/zw3IwFNWyN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/2m8xweaDpgX",
+                "end": 40,
+                "expanded_url": "https://xhslink.com/m/2m8xweaDpgX",
+                "start": 17,
+                "url": "https://t.co/zw3IwFNWyN"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "name": "果冻鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053288389194268672/lIst1La4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 175,
+          "like_count": 4135,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "Jellyfi77885103",
+        "verified": true
+      }
+    ]
+  }
+}

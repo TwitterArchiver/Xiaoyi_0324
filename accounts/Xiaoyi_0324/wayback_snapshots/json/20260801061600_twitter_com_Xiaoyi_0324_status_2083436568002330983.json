@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083436551560982529"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083436568002330983",
+    "created_at": "2026-08-01T06:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083436568002330983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3p0gZNyASP",
+          "end": 169,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2083436568002330983/photo/1",
+          "media_key": "3_2083436551560982529",
+          "start": 146,
+          "url": "https://t.co/3p0gZNyASP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083436568002330983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我开Premium的初衷一直都是想要那个长贴 虽然有很多人说可以开基础版 但是这时候就要说到其二了 \n孩子有时候写比较严肃的文章时 会选择这个文章的编写功能 随笔才会用长贴 也算是一个分类的习惯\n此外 还可以更换主题色 我觉得这个紫色也是非常好看啊qw 加上这个流量分析功能也是挺好用的\n其实我一直觉得 推特是一个很好的日记本 我个人觉得我比较会写记叙文的 以前写的随笔啊记叙文这些 只能发到QQ空间 能看到的人有限 在这里发我的日常和随笔 可以让更多人看到 也促成了我如今这样的粉丝（不觉得多qwq）\n我看圈子里很多人都变成搬梗图的 我觉得我不能随波逐流 所以我就想着我可以发一些原创一点的内容 我个人觉得如果时间线上都是梗图有点无趣qaq\n能看到自己的随笔日常这些 被这么多人看到 即使点赞只有两三百或者几万的浏览 所带来的成就感是搬运梗图比不上的 因为这是我自己创作的内容 也是我的日常\n小号曾经搬过一些梗图 确实是有很多的流量 有一个帖子十万多浏览七百多点赞 但是他给我的成就感确实是没有我现在的多\n我在有的时候无聊的话 就会写一些内容 或者和群友聊天 就像现在这样\n虽然不知道我这个随笔在表达什么 但是总比无聊刷抖音b站强不是\n喜欢大家和我互动捏🥰😋"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "其实我开Premium的初衷一直都是想要那个长贴 虽然有很多人说可以开基础版 但是这时候就要说到其二了 \n孩子有时候写比较严肃的文章时 会选择这个文章的编写功能 随笔才会用长贴 也算是一个分类的习惯\n此外 还可以更换主题色 我觉得这个紫色也是非常好看啊qw 加上这个流量分析功能也是挺好用的 https://t.co/3p0gZNyASP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083436551560982529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnagU_bcAE46rI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083436551560982529"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083436568002330983",
+        "created_at": "2026-08-01T06:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083436568002330983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p0gZNyASP",
+              "end": 169,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2083436568002330983/photo/1",
+              "media_key": "3_2083436551560982529",
+              "start": 146,
+              "url": "https://t.co/3p0gZNyASP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083436568002330983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我开Premium的初衷一直都是想要那个长贴 虽然有很多人说可以开基础版 但是这时候就要说到其二了 \n孩子有时候写比较严肃的文章时 会选择这个文章的编写功能 随笔才会用长贴 也算是一个分类的习惯\n此外 还可以更换主题色 我觉得这个紫色也是非常好看啊qw 加上这个流量分析功能也是挺好用的\n其实我一直觉得 推特是一个很好的日记本 我个人觉得我比较会写记叙文的 以前写的随笔啊记叙文这些 只能发到QQ空间 能看到的人有限 在这里发我的日常和随笔 可以让更多人看到 也促成了我如今这样的粉丝（不觉得多qwq）\n我看圈子里很多人都变成搬梗图的 我觉得我不能随波逐流 所以我就想着我可以发一些原创一点的内容 我个人觉得如果时间线上都是梗图有点无趣qaq\n能看到自己的随笔日常这些 被这么多人看到 即使点赞只有两三百或者几万的浏览 所带来的成就感是搬运梗图比不上的 因为这是我自己创作的内容 也是我的日常\n小号曾经搬过一些梗图 确实是有很多的流量 有一个帖子十万多浏览七百多点赞 但是他给我的成就感确实是没有我现在的多\n我在有的时候无聊的话 就会写一些内容 或者和群友聊天 就像现在这样\n虽然不知道我这个随笔在表达什么 但是总比无聊刷抖音b站强不是\n喜欢大家和我互动捏🥰😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "其实我开Premium的初衷一直都是想要那个长贴 虽然有很多人说可以开基础版 但是这时候就要说到其二了 \n孩子有时候写比较严肃的文章时 会选择这个文章的编写功能 随笔才会用长贴 也算是一个分类的习惯\n此外 还可以更换主题色 我觉得这个紫色也是非常好看啊qw 加上这个流量分析功能也是挺好用的 https://t.co/3p0gZNyASP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 427,
+          "like_count": 1920,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 3272
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

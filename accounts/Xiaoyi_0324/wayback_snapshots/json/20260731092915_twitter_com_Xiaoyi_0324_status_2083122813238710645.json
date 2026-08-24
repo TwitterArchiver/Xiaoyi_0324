@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-07-31T09:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083122813238710645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1647298376537612290",
+          "start": 0,
+          "username": "netxfer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083122813238710645",
+    "in_reply_to_user_id": "1647298376537612290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083102987678019925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@netxfer 心理女暴露了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T09:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083122813238710645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1647298376537612290",
+              "start": 0,
+              "username": "netxfer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083122813238710645",
+        "in_reply_to_user_id": "1647298376537612290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083102987678019925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@netxfer 心理女暴露了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647298376537612290",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T08:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083102987678019925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083102987678019925",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 从没HRT的我天生看到女生都只想着身材真好、衣服真好，怎么打扮的？满脑子只有羡慕，想的是我哪天能变成这样，怎么认识她变成闺蜜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 425,
+          "like_count": 1913,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3254
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T17:58:53.000Z",
+        "description": "上海张江，八零后，C++程序员，生理男，心理女，不婚。极少发文，关注和浏览为主，回关随意。私信限关注，以防垃圾信息。目前关注/回关MTF群体，无法判定的暂不回关。172cm/71kg，2026计划HRT，努力减重。",
+        "id": "1647298376537612290",
+        "location": "GitHub",
+        "name": "天涯過客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030047959073837056/qrZJJ_In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 115,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 846
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false
+      }
+    ]
+  }
+}

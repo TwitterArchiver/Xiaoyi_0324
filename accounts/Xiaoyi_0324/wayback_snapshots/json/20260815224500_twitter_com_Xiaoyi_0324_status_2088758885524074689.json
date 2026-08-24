@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088623144341061632",
+        "3_2088623144324235264"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2088758885524074689",
+    "created_at": "2026-08-15T22:45:00.000Z",
+    "display_text_range": [
+      0,
+      204
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088758885524074689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "t.me/xiaoyi_0324",
+          "end": 64,
+          "expanded_url": "https://t.me/xiaoyi_0324",
+          "start": 41,
+          "url": "https://t.co/Km3JsG4hOp"
+        },
+        {
+          "description": "樱川由奈的个人频道 欢迎订阅并加入讨论组 https://t.me/sakura_xiaoyi",
+          "display_url": "t.me/YunaSakagami",
+          "end": 112,
+          "expanded_url": "https://t.me/YunaSakagami",
+          "start": 89,
+          "status": 200,
+          "title": "Sakura's Studio",
+          "unwound_url": "https://t.me/YunaSakagami",
+          "url": "https://t.co/uB0kRT15gO"
+        },
+        {
+          "display_url": "pic.x.com/2qVvze1Cc1",
+          "end": 228,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+          "media_key": "3_2088623144341061632",
+          "start": 205,
+          "url": "https://t.co/2qVvze1Cc1"
+        },
+        {
+          "display_url": "pic.x.com/2qVvze1Cc1",
+          "end": 228,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+          "media_key": "3_2088623144324235264",
+          "start": 205,
+          "url": "https://t.co/2qVvze1Cc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088758885524074689",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088623144341061632"
+      },
+      {
+        "media_key": "3_2088623144324235264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "t.me/xiaoyi_0324",
+            "end": 64,
+            "expanded_url": "http://t.me/xiaoyi_0324",
+            "start": 41,
+            "url": "https://t.co/qxwHiPDvd0"
+          },
+          {
+            "display_url": "t.me/YunaSakagami",
+            "end": 112,
+            "expanded_url": "https://t.me/YunaSakagami",
+            "start": 89,
+            "url": "https://t.co/vj0SuedUEi"
+          },
+          {
+            "display_url": "bsky.app/profile/xiaoyi…",
+            "end": 340,
+            "expanded_url": "https://bsky.app/profile/xiaoyi10.bsky.social",
+            "start": 317,
+            "url": "https://t.co/qKB0wuYNQg"
+          },
+          {
+            "display_url": "signal.me/#eu/mk0dSi2uAc…",
+            "end": 364,
+            "expanded_url": "https://signal.me/#eu/mk0dSi2uAcb-dd8OSkFSsDdoZqD23NbIwB3Svm9dAk-lwAShwt9Hf5jcPhyiM15N",
+            "start": 341,
+            "url": "https://t.co/gmLN01LWUp"
+          }
+        ]
+      },
+      "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/qxwHiPDvd0 Signal（看下方）或本推特号\n个人TG频道：https://t.co/vj0SuedUEi\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 13元/瓶（不包邮）\n0.36%（6倍）\n40g 31元 | 50g 34元 | 80g 42元\n定制浓度（0.1%-0.5%）私信按比例计价\n3瓶及以上85折，全国包邮\n保质期6个月 但仅限研究用途\n这是我的其他社交链接\nhttps://t.co/qKB0wuYNQg\nhttps://t.co/gmLN01LWUp"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/Km3JsG4hOp Signal（看下方）或本推特号\n个人TG频道：https://t.co/uB0kRT15gO\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 https://t.co/2qVvze1Cc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2088623144341061632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxHrwwbwAAaeGh.jpg",
+        "width": 382
+      },
+      {
+        "height": 680,
+        "media_key": "3_2088623144324235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxHrwsbAAAKbKB.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088623144341061632",
+            "3_2088623144324235264"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2088758885524074689",
+        "created_at": "2026-08-15T22:45:00.000Z",
+        "display_text_range": [
+          0,
+          204
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088758885524074689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "t.me/xiaoyi_0324",
+              "end": 64,
+              "expanded_url": "https://t.me/xiaoyi_0324",
+              "start": 41,
+              "url": "https://t.co/Km3JsG4hOp"
+            },
+            {
+              "description": "樱川由奈的个人频道 欢迎订阅并加入讨论组 https://t.me/sakura_xiaoyi",
+              "display_url": "t.me/YunaSakagami",
+              "end": 112,
+              "expanded_url": "https://t.me/YunaSakagami",
+              "start": 89,
+              "status": 200,
+              "title": "Sakura's Studio",
+              "unwound_url": "https://t.me/YunaSakagami",
+              "url": "https://t.co/uB0kRT15gO"
+            },
+            {
+              "display_url": "pic.x.com/2qVvze1Cc1",
+              "end": 228,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+              "media_key": "3_2088623144341061632",
+              "start": 205,
+              "url": "https://t.co/2qVvze1Cc1"
+            },
+            {
+              "display_url": "pic.x.com/2qVvze1Cc1",
+              "end": 228,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+              "media_key": "3_2088623144324235264",
+              "start": 205,
+              "url": "https://t.co/2qVvze1Cc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088758885524074689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088623144341061632"
+          },
+          {
+            "media_key": "3_2088623144324235264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyi_0324",
+                "end": 64,
+                "expanded_url": "http://t.me/xiaoyi_0324",
+                "start": 41,
+                "url": "https://t.co/qxwHiPDvd0"
+              },
+              {
+                "display_url": "t.me/YunaSakagami",
+                "end": 112,
+                "expanded_url": "https://t.me/YunaSakagami",
+                "start": 89,
+                "url": "https://t.co/vj0SuedUEi"
+              },
+              {
+                "display_url": "bsky.app/profile/xiaoyi…",
+                "end": 340,
+                "expanded_url": "https://bsky.app/profile/xiaoyi10.bsky.social",
+                "start": 317,
+                "url": "https://t.co/qKB0wuYNQg"
+              },
+              {
+                "display_url": "signal.me/#eu/mk0dSi2uAc…",
+                "end": 364,
+                "expanded_url": "https://signal.me/#eu/mk0dSi2uAcb-dd8OSkFSsDdoZqD23NbIwB3Svm9dAk-lwAShwt9Hf5jcPhyiM15N",
+                "start": 341,
+                "url": "https://t.co/gmLN01LWUp"
+              }
+            ]
+          },
+          "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/qxwHiPDvd0 Signal（看下方）或本推特号\n个人TG频道：https://t.co/vj0SuedUEi\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 13元/瓶（不包邮）\n0.36%（6倍）\n40g 31元 | 50g 34元 | 80g 42元\n定制浓度（0.1%-0.5%）私信按比例计价\n3瓶及以上85折，全国包邮\n保质期6个月 但仅限研究用途\n这是我的其他社交链接\nhttps://t.co/qKB0wuYNQg\nhttps://t.co/gmLN01LWUp"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/Km3JsG4hOp Signal（看下方）或本推特号\n个人TG频道：https://t.co/uB0kRT15gO\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 https://t.co/2qVvze1Cc1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n单身|随笔 照片看亮点|逃生舱:@Ruai_0324\n|并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2088758885524074689",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2087415785534747085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247,
+          "following_count": 448,
+          "like_count": 2062,
+          "listed_count": 6,
+          "media_count": 430,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

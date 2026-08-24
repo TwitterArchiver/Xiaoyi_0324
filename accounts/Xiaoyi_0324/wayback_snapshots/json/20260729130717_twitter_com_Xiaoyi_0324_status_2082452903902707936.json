@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2082074610246533184",
+    "created_at": "2026-07-29T13:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082452903902707936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796192059495219200",
+          "start": 0,
+          "username": "celadon000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082452903902707936",
+    "in_reply_to_user_id": "1796192059495219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082074610246533184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@celadon000 羡慕家长党……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2082074610246533184",
+        "created_at": "2026-07-29T13:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452903902707936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452903902707936",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082074610246533184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celadon000 羡慕家长党……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796192059495219200",
+        "conversation_id": "2082074610246533184",
+        "created_at": "2026-07-28T12:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082074610246533184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/celadon000/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/celadon000/status/2082072465493442836",
+              "start": 13,
+              "url": "https://t.co/pyrW4eFljV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082074610246533184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11130,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082072465493442836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜报，我好像变成家长党了 https://t.co/pyrW4eFljV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 419,
+          "like_count": 1902,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 3184
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | 跨直女🏳️‍⚧️ | ArchLinux | 生产日期2008 | 前oier | INFP-T",
+        "id": "1796192059495219200",
+        "location": "Internet",
+        "name": "Celadon🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 291,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "celadon000",
+        "verified": true
+      }
+    ]
+  }
+}

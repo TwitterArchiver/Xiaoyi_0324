@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083428876747952137",
+    "created_at": "2026-08-01T05:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083428876747952137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1320354023451496450",
+          "start": 3,
+          "username": "PinkCatLoveSky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2083…",
+          "end": 63,
+          "expanded_url": "http://x.com/i/article/2083287313464049664",
+          "start": 40,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2083287313464049664",
+          "url": "https://t.co/n6fxAptELw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083428876747952137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083298589447709131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PinkCatLoveSky: 掛約炮畜生 請跨性別們注意分辨非人畜生 https://t.co/n6fxAptELw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083428876747952137",
+        "created_at": "2026-08-01T05:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083428876747952137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1320354023451496450",
+              "start": 3,
+              "username": "PinkCatLoveSky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 63,
+              "expanded_url": "http://x.com/i/article/2083287313464049664",
+              "start": 40,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2083287313464049664",
+              "url": "https://t.co/n6fxAptELw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083428876747952137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083298589447709131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PinkCatLoveSky: 掛約炮畜生 請跨性別們注意分辨非人畜生 https://t.co/n6fxAptELw"
+      },
+      {
+        "article": {
+          "title": "掛約炮畜生 請跨性別們注意分辨非人畜生"
+        },
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2083298589447709131",
+        "created_at": "2026-07-31T21:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083298589447709131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2083…",
+              "end": 43,
+              "expanded_url": "http://x.com/i/article/2083287313464049664",
+              "start": 20,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2083287313464049664",
+              "url": "https://t.co/n6fxAptELw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083298589447709131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5451,
+          "like_count": 61,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "掛約炮畜生 請跨性別們注意分辨非人畜生 https://t.co/n6fxAptELw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 427,
+          "like_count": 1920,
+          "listed_count": 6,
+          "media_count": 396,
+          "tweet_count": 3273
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "04起/迷戀天空/mtx (貓) /友善/矛盾/健忘/水仙 (?) /兩個人格共存（她失蹤了） \n垃圾桶: @TrashcanCats",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "TrashcanCats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "0.1km        在台       問喵問題！➡",
+        "name": "粉天藍貓☀️☁️🌙",
+        "pinned_tweet_id": "2083298589447709131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 2113,
+          "like_count": 64517,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 3926
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "PinkCatLoveSky",
+        "verified": true
+      }
+    ]
+  }
+}

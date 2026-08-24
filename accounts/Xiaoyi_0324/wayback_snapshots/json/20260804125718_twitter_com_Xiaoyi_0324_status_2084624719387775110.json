@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2084436067688800599",
+    "created_at": "2026-08-04T12:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084624719387775110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552137826913120256",
+          "start": 0,
+          "username": "BZaychlk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084624719387775110",
+    "in_reply_to_user_id": "1552137826913120256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084535091381117047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BZaychlk 只是单纯吐槽抖音的推流机制 不感兴趣也给我推"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2084436067688800599",
+        "created_at": "2026-08-04T12:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084624719387775110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552137826913120256",
+              "start": 0,
+              "username": "BZaychlk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084624719387775110",
+        "in_reply_to_user_id": "1552137826913120256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084535091381117047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BZaychlk 只是单纯吐槽抖音的推流机制 不感兴趣也给我推"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552137826913120256",
+        "conversation_id": "2084436067688800599",
+        "created_at": "2026-08-04T07:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084535091381117047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084535091381117047",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084436067688800599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 这么能串就让他串呗\n你也没有办法让他停下来，而且这个还能带来热度，他更不可能停了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n退学生|只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 432,
+          "like_count": 1931,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T03:44:42.000Z",
+        "description": "会中，英，双语，但是日语苦手😭 一点烂塑料怎么倒狗还能炒起来？ / hrt from Oct.19.2025 /",
+        "id": "1552137826913120256",
+        "location": "Side 6 殖民卫星",
+        "name": "王牌N代目",
+        "pinned_tweet_id": "1977297611930669419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053137246237450240/xWL_ZhYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 634,
+          "like_count": 17286,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 4827
+        },
+        "url": "",
+        "username": "BZaychlk",
+        "verified": true
+      }
+    ]
+  }
+}

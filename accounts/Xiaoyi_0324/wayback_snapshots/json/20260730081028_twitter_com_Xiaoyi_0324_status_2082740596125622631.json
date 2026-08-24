@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2082169757038686334",
+    "created_at": "2026-07-30T08:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082740596125622631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "438953796",
+          "start": 0,
+          "username": "whatasillyworld"
+        },
+        {
+          "end": 25,
+          "id": "1433678976564662273",
+          "start": 17,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082740596125622631",
+    "in_reply_to_user_id": "438953796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082264026369896955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatasillyworld @hsn8086 伤敌一千 自损八百的来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2082169757038686334",
+        "created_at": "2026-07-30T08:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082740596125622631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "438953796",
+              "start": 0,
+              "username": "whatasillyworld"
+            },
+            {
+              "end": 25,
+              "id": "1433678976564662273",
+              "start": 17,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082740596125622631",
+        "in_reply_to_user_id": "438953796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082264026369896955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatasillyworld @hsn8086 伤敌一千 自损八百的来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "438953796",
+        "conversation_id": "2082169757038686334",
+        "created_at": "2026-07-29T00:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082264026369896955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082264026369896955",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 221307,
+          "like_count": 3265,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082169757038686334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 随便发点敏感内容把群炸了不就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|家长不管党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 422,
+          "like_count": 1908,
+          "listed_count": 6,
+          "media_count": 391,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-17T06:15:37.000Z",
+        "description": "",
+        "id": "438953796",
+        "location": "North Carolina, USA",
+        "name": "人类💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637874196645814272/HBZHPFvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 299,
+          "like_count": 24964,
+          "listed_count": 9,
+          "media_count": 1104,
+          "tweet_count": 12281
+        },
+        "url": "",
+        "username": "whatasillyworld",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121808,
+          "following_count": 1118,
+          "like_count": 52128,
+          "listed_count": 298,
+          "media_count": 23793,
+          "tweet_count": 34347
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2090698908297265284",
+    "created_at": "2026-08-21T21:52:19.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T22:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090919954694697117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078430419587153920",
+          "start": 0,
+          "username": "StrawMono_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090919954694697117",
+    "in_reply_to_user_id": "2078430419587153920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090836912068337898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@StrawMono_ 还有同道中人）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2090698908297265284",
+        "created_at": "2026-08-21T21:52:19.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090919954694697117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078430419587153920",
+              "start": 0,
+              "username": "StrawMono_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090919954694697117",
+        "in_reply_to_user_id": "2078430419587153920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090836912068337898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@StrawMono_ 还有同道中人）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078430419587153920",
+        "conversation_id": "2090698908297265284",
+        "created_at": "2026-08-21T16:22:20.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090836912068337898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090836912068337898",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090698908297265284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 BetterGI果然给力\n（不过我还是不太爱用喵）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n单身|随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2090919954694697117",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 437,
+          "like_count": 2089,
+          "listed_count": 6,
+          "media_count": 440,
+          "tweet_count": 3571
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "欢迎来Mono酱的群组聊天 http://t.co/ovF43K4Rp\n碎碎念 @StrawMono_OwO\n生产日期 2010.05.07 / hrt 2026.08.04 / 无证含糖 / 未出柜 / 不od不割手 / 是笨蛋心理委员，在寻找自我的救赎 / 玩原神、三角洲\n最爱的老公&主人：@h1kar1_chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "StrawMono_OwO"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090848897069613082",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2090101885579800873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1786877878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943333473456128/oBK498nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 316,
+          "like_count": 1485,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 239
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

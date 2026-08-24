@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2084993470767538271",
+    "created_at": "2026-08-05T15:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085029447221350888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085029447221350888",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085006376275951854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2084993470767538271",
+        "created_at": "2026-08-05T15:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085029447221350888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085029447221350888",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085006376275951854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2084993470767538271",
+        "created_at": "2026-08-05T14:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085006376275951854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085006376275951854",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084993470767538271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 摸摸喵……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n退学生|只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 432,
+          "like_count": 1933,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 3323
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+ 肩宽47😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 124,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 101,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 148,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 125,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 388,
+          "like_count": 1304,
+          "listed_count": 6,
+          "media_count": 59,
+          "tweet_count": 1343
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

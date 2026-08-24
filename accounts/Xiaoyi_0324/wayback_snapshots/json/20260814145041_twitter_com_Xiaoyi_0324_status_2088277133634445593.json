@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2088264381746544761",
+    "created_at": "2026-08-14T14:50:41.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:50:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088277133634445593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088277133634445593",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088264381746544761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2088264381746544761",
+        "created_at": "2026-08-14T14:50:41.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088277133634445593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088277133634445593",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088264381746544761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028802782019596288",
+        "conversation_id": "2088264381746544761",
+        "created_at": "2026-08-14T14:00:01.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088264381746544761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 161,
+              "id": "2028802782019596288",
+              "start": 152,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088264381746544761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "300fo啦喵，謝謝你們喵❤️\n再辦一次抽獎喵（錢不多qwq\n一等獎：5r\n二等獎：3r\n三等獎：2r\n只支持微信讚賞碼和支付寶口令轉喵\n（如果不要r可以給咱提一個 **合理** 的要求，不合理咱會拒絕喵\n\n參與方式：關注 點讚 轉發 評論\n8月18日晚上8點左右讓gork用命令行開獎喵\n最終解釋權歸 @ciallowo 所有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|随笔 照片看亮点|逃生舱:@Ruai_0324\n|并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2088277133634445593",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2087415785534747085",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 449,
+          "like_count": 2045,
+          "listed_count": 6,
+          "media_count": 427,
+          "tweet_count": 3479
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 10後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.ciallovo.top/github",
+                "end": 23,
+                "expanded_url": "https://s.ciallovo.top/github",
+                "start": 0,
+                "url": "https://t.co/dCszp85rjF"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "is_identity_verified": true,
+        "location": "距離地球99兆米",
+        "most_recent_tweet_id": "2088276512952799422",
+        "name": "小霧喵🍡",
+        "pinned_tweet_id": "2069789597970903282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028802782019596288/1783530486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 505,
+          "like_count": 1657,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/dCszp85rjF",
+        "username": "ciallowo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

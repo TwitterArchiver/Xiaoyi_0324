@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090460572886487040",
+        "3_2090460582575304704"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2088758885524074689",
+    "created_at": "2026-08-20T15:26:57.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090460588828995973"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "欢迎订阅我的频道⬆️⬆️⬆️加入群组一起聊 我的机器人 @Sakura03_Bot（爆炸了😭）",
+          "display_url": "t.me/xiaoyi_0324",
+          "end": 44,
+          "expanded_url": "https://t.me/xiaoyi_0324",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 21,
+          "status": 200,
+          "title": "樱川由奈🏳️‍⚧️sakura🍥",
+          "unwound_url": "https://t.me/xiaoyi_0324",
+          "url": "https://t.co/Km3JsG4hOp"
+        },
+        {
+          "description": "樱川由奈的个人频道 欢迎订阅并加入讨论组 https://t.me/sakura_xiaoyi",
+          "display_url": "t.me/YunaSakagami",
+          "end": 80,
+          "expanded_url": "https://t.me/YunaSakagami",
+          "start": 57,
+          "status": 200,
+          "title": "Sakura's Studio",
+          "unwound_url": "https://t.me/YunaSakagami",
+          "url": "https://t.co/uB0kRT15gO"
+        },
+        {
+          "display_url": "pic.x.com/s8wsbRbXuY",
+          "end": 148,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2090460588828995973/photo/1",
+          "media_key": "3_2090460572886487040",
+          "start": 125,
+          "url": "https://t.co/s8wsbRbXuY"
+        },
+        {
+          "display_url": "pic.x.com/s8wsbRbXuY",
+          "end": 148,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2090460588828995973/photo/1",
+          "media_key": "3_2090460582575304704",
+          "start": 125,
+          "url": "https://t.co/s8wsbRbXuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090460588828995973",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090460572886487040"
+      },
+      {
+        "media_key": "3_2090460582575304704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088758885524074689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "换一个Q群二维码捏 要买凝胶的依旧tg联系https://t.co/Km3JsG4hOp或本推特号\n个人TG频道：https://t.co/uB0kRT15gO\n凝胶规格点进帖子之后上滑看详情\n最近消息比较杂已经尽可能不打扰大家了orz……实在抱歉 https://t.co/s8wsbRbXuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2420,
+        "media_key": "3_2090460572886487040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLO0Lfb0AA0mrf.jpg",
+        "width": 1361
+      },
+      {
+        "height": 680,
+        "media_key": "3_2090460582575304704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLO0vlbcAAEwUH.jpg",
+        "width": 680
+      },
+      {
+        "height": 679,
+        "media_key": "3_2088623144341061632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxHrwwbwAAaeGh.jpg",
+        "width": 382
+      },
+      {
+        "height": 680,
+        "media_key": "3_2088623144324235264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxHrwsbAAAKbKB.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090460572886487040",
+            "3_2090460582575304704"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2088758885524074689",
+        "created_at": "2026-08-20T15:26:57.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090460588828995973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "欢迎订阅我的频道⬆️⬆️⬆️加入群组一起聊 我的机器人 @Sakura03_Bot（爆炸了😭）",
+              "display_url": "t.me/xiaoyi_0324",
+              "end": 44,
+              "expanded_url": "https://t.me/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "樱川由奈🏳️‍⚧️sakura🍥",
+              "unwound_url": "https://t.me/xiaoyi_0324",
+              "url": "https://t.co/Km3JsG4hOp"
+            },
+            {
+              "description": "樱川由奈的个人频道 欢迎订阅并加入讨论组 https://t.me/sakura_xiaoyi",
+              "display_url": "t.me/YunaSakagami",
+              "end": 80,
+              "expanded_url": "https://t.me/YunaSakagami",
+              "start": 57,
+              "status": 200,
+              "title": "Sakura's Studio",
+              "unwound_url": "https://t.me/YunaSakagami",
+              "url": "https://t.co/uB0kRT15gO"
+            },
+            {
+              "display_url": "pic.x.com/s8wsbRbXuY",
+              "end": 148,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2090460588828995973/photo/1",
+              "media_key": "3_2090460572886487040",
+              "start": 125,
+              "url": "https://t.co/s8wsbRbXuY"
+            },
+            {
+              "display_url": "pic.x.com/s8wsbRbXuY",
+              "end": 148,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2090460588828995973/photo/1",
+              "media_key": "3_2090460582575304704",
+              "start": 125,
+              "url": "https://t.co/s8wsbRbXuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090460588828995973",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090460572886487040"
+          },
+          {
+            "media_key": "3_2090460582575304704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088758885524074689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "换一个Q群二维码捏 要买凝胶的依旧tg联系https://t.co/Km3JsG4hOp或本推特号\n个人TG频道：https://t.co/uB0kRT15gO\n凝胶规格点进帖子之后上滑看详情\n最近消息比较杂已经尽可能不打扰大家了orz……实在抱歉 https://t.co/s8wsbRbXuY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088623144341061632",
+            "3_2088623144324235264"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2088758885524074689",
+        "created_at": "2026-08-15T22:45:00.000Z",
+        "display_text_range": [
+          0,
+          204
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088758885524074689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "欢迎订阅我的频道⬆️⬆️⬆️加入群组一起聊 我的机器人 @Sakura03_Bot（爆炸了😭）",
+              "display_url": "t.me/xiaoyi_0324",
+              "end": 64,
+              "expanded_url": "https://t.me/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2087415790836297729/AS2JZuIJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "樱川由奈🏳️‍⚧️sakura🍥",
+              "unwound_url": "https://t.me/xiaoyi_0324",
+              "url": "https://t.co/Km3JsG4hOp"
+            },
+            {
+              "description": "樱川由奈的个人频道 欢迎订阅并加入讨论组 https://t.me/sakura_xiaoyi",
+              "display_url": "t.me/YunaSakagami",
+              "end": 112,
+              "expanded_url": "https://t.me/YunaSakagami",
+              "start": 89,
+              "status": 200,
+              "title": "Sakura's Studio",
+              "unwound_url": "https://t.me/YunaSakagami",
+              "url": "https://t.co/uB0kRT15gO"
+            },
+            {
+              "display_url": "pic.x.com/2qVvze1Cc1",
+              "end": 228,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+              "media_key": "3_2088623144341061632",
+              "start": 205,
+              "url": "https://t.co/2qVvze1Cc1"
+            },
+            {
+              "display_url": "pic.x.com/2qVvze1Cc1",
+              "end": 228,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2088758885524074689/photo/1",
+              "media_key": "3_2088623144324235264",
+              "start": 205,
+              "url": "https://t.co/2qVvze1Cc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088758885524074689",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088623144341061632"
+          },
+          {
+            "media_key": "3_2088623144324235264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyi_0324",
+                "end": 64,
+                "expanded_url": "http://t.me/xiaoyi_0324",
+                "start": 41,
+                "url": "https://t.co/qxwHiPDvd0"
+              },
+              {
+                "display_url": "t.me/YunaSakagami",
+                "end": 112,
+                "expanded_url": "https://t.me/YunaSakagami",
+                "start": 89,
+                "url": "https://t.co/vj0SuedUEi"
+              },
+              {
+                "display_url": "bsky.app/profile/xiaoyi…",
+                "end": 340,
+                "expanded_url": "https://bsky.app/profile/xiaoyi10.bsky.social",
+                "start": 317,
+                "url": "https://t.co/qKB0wuYNQg"
+              },
+              {
+                "display_url": "signal.me/#eu/mk0dSi2uAc…",
+                "end": 364,
+                "expanded_url": "https://signal.me/#eu/mk0dSi2uAcb-dd8OSkFSsDdoZqD23NbIwB3Svm9dAk-lwAShwt9Hf5jcPhyiM15N",
+                "start": 341,
+                "url": "https://t.co/gmLN01LWUp"
+              }
+            ]
+          },
+          "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/qxwHiPDvd0 Signal（看下方）或本推特号\n个人TG频道：https://t.co/vj0SuedUEi\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 13元/瓶（不包邮）\n0.36%（6倍）\n40g 31元 | 50g 34元 | 80g 42元\n定制浓度（0.1%-0.5%）私信按比例计价\n3瓶及以上85折，全国包邮\n保质期6个月 但仅限研究用途\n这是我的其他社交链接\nhttps://t.co/qKB0wuYNQg\nhttps://t.co/gmLN01LWUp"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2702,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稍微调整了一下凝胶的价格和定制范围 以及发布折扣（ ）\n有购买欲望的依旧联系TG：https://t.co/Km3JsG4hOp Signal（看下方）或本推特号\n个人TG频道：https://t.co/uB0kRT15gO\n规格如下：\n0.12%（2倍）\n40g 27元 | 50g 29元 | 80g 37元\n0.24%（4倍）\n40g 29元 | 50g 31元 | 80g 40元\n少量25g现货特价 https://t.co/2qVvze1Cc1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n单身|随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2090460588828995973",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 434,
+          "like_count": 2085,
+          "listed_count": 6,
+          "media_count": 437,
+          "tweet_count": 3559
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

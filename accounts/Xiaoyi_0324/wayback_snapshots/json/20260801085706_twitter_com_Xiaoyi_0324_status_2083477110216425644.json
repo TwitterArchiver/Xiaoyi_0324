@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083166414270341516",
+    "created_at": "2026-08-01T08:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083477110216425644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518254263457431552",
+          "start": 0,
+          "username": "ShawnX_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083477110216425644",
+    "in_reply_to_user_id": "1518254263457431552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083199176805106122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ShawnX_nya 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083166414270341516",
+        "created_at": "2026-08-01T08:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083477110216425644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518254263457431552",
+              "start": 0,
+              "username": "ShawnX_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083477110216425644",
+        "in_reply_to_user_id": "1518254263457431552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083199176805106122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ShawnX_nya 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518254263457431552",
+        "conversation_id": "2083166414270341516",
+        "created_at": "2026-07-31T14:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083199176805106122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083199176805106122",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083166414270341516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 唉姐妹你怎么似了（电棍音）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 428,
+          "like_count": 1920,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-24T15:43:43.000Z",
+        "description": "CN/EN OK | JP 勉強中 | RU 还没开始学\nMTX 任何称呼OK\n双相 服药治疗中 不好的评论我会删\n十八线coder 主Go\n日常发癫/emo  fo都会回\n长文参见 https://t.co/jb5NgL6g4G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 115,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 92,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuanpt2.org",
+                "end": 23,
+                "expanded_url": "http://xuanpt2.org",
+                "start": 0,
+                "url": "https://t.co/jb5NgL6g4G"
+              }
+            ]
+          }
+        },
+        "id": "1518254263457431552",
+        "name": "ShawNya",
+        "pinned_tweet_id": "2082731396989325558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925603292085903360/tTQlXEXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 401,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 212
+        },
+        "url": "https://t.co/jb5NgL6g4G",
+        "username": "ShawnX_nya",
+        "verified": true
+      }
+    ]
+  }
+}

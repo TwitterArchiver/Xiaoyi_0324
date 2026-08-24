@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2086366986767040520",
+    "created_at": "2026-08-09T11:40:42.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T12:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086417382889939004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781868776918790144",
+          "start": 0,
+          "username": "Kazama_Nagi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086417382889939004",
+    "in_reply_to_user_id": "1781868776918790144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086411804700471493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Kazama_Nagi_ 我就说这条申请怎么优先了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2086366986767040520",
+        "created_at": "2026-08-09T11:40:42.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086417382889939004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086417382889939004",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086411804700471493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Kazama_Nagi_ 我就说这条申请怎么优先了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781868776918790144",
+        "conversation_id": "2086366986767040520",
+        "created_at": "2026-08-09T11:18:32.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T12:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086411804700471493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086411804700471493",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086366986767040520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 呃呃..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2086417382889939004",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 436,
+          "like_count": 1957,
+          "listed_count": 6,
+          "media_count": 414,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T02:13:24.000Z",
+        "description": "人生价值观\n脸面乃身外之物/佛系/听天由命/造它就完了\n🏳️‍⚧️11年MTF 同类互fo喵\n🍥2026/08/02 Sun\n🏫高中生（准确来讲应该是准高一，还没开学）\n❌无任何政治立场\n👤MBTI （测不准，合起来是）INSFTP\n♥️爱好 折腾/音乐/写作/美食\n🗣️🇨🇳🇨🇦🇯🇵🇰🇷\n😭175cm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Riu-Mahiyo",
+                "end": 23,
+                "expanded_url": "https://github.com/Riu-Mahiyo",
+                "start": 0,
+                "url": "https://t.co/evOh4n5HBg"
+              }
+            ]
+          }
+        },
+        "id": "1781868776918790144",
+        "is_identity_verified": false,
+        "location": "Canada🇨🇦",
+        "most_recent_tweet_id": "2086411804700471493",
+        "name": "Kazama_Nagi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085044390649860161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781868776918790144/1785038533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080239190462390272/8R29S_kE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 769,
+          "like_count": 1154,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/evOh4n5HBg",
+        "username": "Kazama_Nagi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

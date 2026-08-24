@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2085241276539228504",
+    "created_at": "2026-08-06T17:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085423324507873541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2068310016071778304",
+          "start": 0,
+          "username": "GentWisp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085423324507873541",
+    "in_reply_to_user_id": "2068310016071778304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085412543699533835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@GentWisp 企图修正跨性别者的性别认同为正常的生理性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2085241276539228504",
+        "created_at": "2026-08-06T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085423324507873541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068310016071778304",
+              "start": 0,
+              "username": "GentWisp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085423324507873541",
+        "in_reply_to_user_id": "2068310016071778304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085412543699533835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@GentWisp 企图修正跨性别者的性别认同为正常的生理性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068310016071778304",
+        "conversation_id": "2085241276539228504",
+        "created_at": "2026-08-06T17:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085412543699533835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085412543699533835",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085241276539228504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 扭转是啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 432,
+          "like_count": 1944,
+          "listed_count": 6,
+          "media_count": 406,
+          "tweet_count": 3337
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-20T12:30:01.000Z",
+        "description": "鱼生是死鱼切片，所以人生就是死人切片",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "91.com",
+                "end": 23,
+                "expanded_url": "http://91.com",
+                "start": 0,
+                "url": "https://t.co/8b30aXAr0q"
+              }
+            ]
+          }
+        },
+        "id": "2068310016071778304",
+        "location": "地球",
+        "name": "☢️GentWisp⛎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068311790279077888/havkzQfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/8b30aXAr0q",
+        "username": "GentWisp",
+        "verified": false
+      }
+    ]
+  }
+}

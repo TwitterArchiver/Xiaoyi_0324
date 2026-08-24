@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2088473183611678760",
+    "created_at": "2026-08-16T03:21:15.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088828406687211840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2067769435675578368",
+          "start": 0,
+          "username": "yuanren0130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088828406687211840",
+    "in_reply_to_user_id": "2067769435675578368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088819112046960683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yuanren0130 薯条是世界上最好吃的食物，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2088473183611678760",
+        "created_at": "2026-08-16T03:21:15.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088828406687211840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2067769435675578368",
+              "start": 0,
+              "username": "yuanren0130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088828406687211840",
+        "in_reply_to_user_id": "2067769435675578368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088819112046960683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yuanren0130 薯条是世界上最好吃的食物，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067769435675578368",
+        "conversation_id": "2088473183611678760",
+        "created_at": "2026-08-16T02:44:19.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088819112046960683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088819112046960683",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088473183611678760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 平均一个人三盒薯条真的不会吃腻吗？？？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n单身|随笔 照片看亮点|逃生舱:@Ruai_0324\n|并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2088828406687211840",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 449,
+          "like_count": 2062,
+          "listed_count": 6,
+          "media_count": 429,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T00:41:21.000Z",
+        "description": "💜朝比奈真冬激推💜\n愿望是想当心理医生救赎所有人\n💗友跨｜17岁｜od中｜休学中｜不键政\n头像是朋友画的\n希望大家都能获得幸福，活的幸福",
+        "id": "2067769435675578368",
+        "is_identity_verified": false,
+        "location": "方寸之距   天上宗后山",
+        "most_recent_tweet_id": "2088825479973458303",
+        "name": "陆隐隐重度依赖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067769435675578368/1782766030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088291289200750593/vZvPZkqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 56,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "yuanren0130",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

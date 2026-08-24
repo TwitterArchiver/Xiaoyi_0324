@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2086778553535000927",
+    "created_at": "2026-08-10T13:56:37.000Z",
+    "display_text_range": [
+      29,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T14:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086813975950631038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1624337198765178881",
+          "start": 0,
+          "username": "niconekkod"
+        },
+        {
+          "end": 28,
+          "id": "1898058525072670720",
+          "start": 12,
+          "username": "WilliamLan49496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086813975950631038",
+    "in_reply_to_user_id": "1624337198765178881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086778553535000927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niconekkod @WilliamLan49496 没必要 她家里送进的扭转应该"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [WilliamLan49496].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "WilliamLan49496",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "WilliamLan49496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086778544492027904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW6B61aoAAOfML.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086778544437571584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW6B6obsAATIvy.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2086778553535000927",
+        "created_at": "2026-08-10T13:56:37.000Z",
+        "display_text_range": [
+          29,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086813975950631038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1624337198765178881",
+              "start": 0,
+              "username": "niconekkod"
+            },
+            {
+              "end": 28,
+              "id": "1898058525072670720",
+              "start": 12,
+              "username": "WilliamLan49496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086813975950631038",
+        "in_reply_to_user_id": "1624337198765178881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086778553535000927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niconekkod @WilliamLan49496 没必要 她家里送进的扭转应该"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086778544492027904",
+            "3_2086778544437571584"
+          ]
+        },
+        "author_id": "1624337198765178881",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086778553535000927",
+        "created_at": "2026-08-10T11:35:52.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086778553535000927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1898058525072670720",
+              "start": 23,
+              "username": "WilliamLan49496"
+            },
+            {
+              "end": 140,
+              "id": "2008812080099672064",
+              "start": 128,
+              "username": "Xiaoyi_0324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zi79HCMlbu",
+              "end": 166,
+              "expanded_url": "https://x.com/niconekkod/status/2086778553535000927/photo/1",
+              "media_key": "3_2086778544492027904",
+              "start": 143,
+              "url": "https://t.co/zi79HCMlbu"
+            },
+            {
+              "display_url": "pic.x.com/zi79HCMlbu",
+              "end": 166,
+              "expanded_url": "https://x.com/niconekkod/status/2086778553535000927/photo/1",
+              "media_key": "3_2086778544437571584",
+              "start": 143,
+              "url": "https://t.co/zi79HCMlbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086778553535000927",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086778544492027904"
+          },
+          {
+            "media_key": "3_2086778544437571584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1449,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我有 unk 她爸的联系方式，在我之前被封的号@WilliamLan49496 上，因为她当时没有隐藏 Telegram 的手机号码，我现在正在向 x 索要该账号的存档，伺服器正在准备，要到了会发个帖，如果有人觉得能帮上忙的可以 dm 找我要…\n（图片来自@Xiaoyi_0324 ） https://t.co/zi79HCMlbu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2086813975950631038",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 442,
+          "like_count": 2015,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 3426
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T09:19:19.000Z",
+        "description": "性别是:女孩子！| 家暴党 | 年龄党 | 无证含糖 | 出厂日期:2011.10.29 | hrt🍥:2026.6.4 |\noder | AFOedOIer | 🈹🔪🩸 | 💊💉 | 中度抑郁 | 坐标重庆 | 欢迎互 fo | 🩷@IiRin_00917_QwQ ✝️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "IiRin_00917_QwQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/niconekkod",
+                "end": 23,
+                "expanded_url": "https://t.me/niconekkod",
+                "start": 0,
+                "url": "https://t.co/Sxu7tx4YaI"
+              }
+            ]
+          }
+        },
+        "id": "1624337198765178881",
+        "is_identity_verified": false,
+        "location": "CKG",
+        "most_recent_tweet_id": "2086778553535000927",
+        "name": "niconekko🍥🏳️‍⚧️💊💉🩸",
+        "pinned_tweet_id": "2066524499240235409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624337198765178881/1781453891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085095403876409344/v1qXEMPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 202,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/Sxu7tx4YaI",
+        "username": "niconekkod",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

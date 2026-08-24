@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2084243785467465919",
+    "created_at": "2026-08-03T17:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084323420855284186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964335711521558531",
+          "start": 0,
+          "username": "bbkk23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084323420855284186",
+    "in_reply_to_user_id": "1964335711521558531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084243785467465919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbkk23333 那就被你打败然后被你欺负喵（ ）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2084243785467465919",
+        "created_at": "2026-08-03T17:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084323420855284186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964335711521558531",
+              "start": 0,
+              "username": "bbkk23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084323420855284186",
+        "in_reply_to_user_id": "1964335711521558531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084243785467465919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbkk23333 那就被你打败然后被你欺负喵（ ）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964335711521558531",
+        "conversation_id": "2084243785467465919",
+        "created_at": "2026-08-03T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084243785467465919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084243785467465919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欺负我的人给我等着喵！等我过两天就忘了～惹我的人更是给我等着喵！我会让你一直等着～那些能打败我的人！我不给你打～如果说对不起有用的话！那就这么说吧～惹到我表面没什么事！实际上更是没有～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 431,
+          "like_count": 1927,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:32:23.000Z",
+        "description": "我喜欢你喵🏳️‍⚧️\n网络小宠物喵，假期24小时中强度刷推\n≽^ ⦁ ⩊ ⦁ ^≼",
+        "id": "1964335711521558531",
+        "location": "垃圾桶旁边的纸箱",
+        "name": "沐雨喵~",
+        "pinned_tweet_id": "2069381811596386570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065840419745972224/rCDljDbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1628,
+          "following_count": 464,
+          "like_count": 6098,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "bbkk23333",
+        "verified": true
+      }
+    ]
+  }
+}

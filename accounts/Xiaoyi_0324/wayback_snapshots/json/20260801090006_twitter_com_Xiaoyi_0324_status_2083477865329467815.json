@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-08-01T09:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083477865329467815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1882873467340832768",
+          "start": 0,
+          "username": "1896dddd71391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083477865329467815",
+    "in_reply_to_user_id": "1882873467340832768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083477429759463850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1896dddd71391 我认可了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-08-01T09:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083477865329467815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1882873467340832768",
+              "start": 0,
+              "username": "1896dddd71391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083477865329467815",
+        "in_reply_to_user_id": "1882873467340832768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083477429759463850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1896dddd71391 我认可了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882873467340832768",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-08-01T08:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083477429759463850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083477429759463850",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 只是解放了女生的自己，力量应该是激素的作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n退学生|只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 428,
+          "like_count": 1920,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 4176,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "1896dddd71391",
+        "verified": false
+      }
+    ]
+  }
+}

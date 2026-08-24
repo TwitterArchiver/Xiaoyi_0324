@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-07-31T08:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083111137584062495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "17235228",
+          "start": 0,
+          "username": "INP1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083111137584062495",
+    "in_reply_to_user_id": "17235228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083110282071847290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@INP1458 no 我已经出柜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T08:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083111137584062495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "17235228",
+              "start": 0,
+              "username": "INP1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083111137584062495",
+        "in_reply_to_user_id": "17235228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083110282071847290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@INP1458 no 我已经出柜了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17235228",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T08:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083110282071847290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083110282071847290",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 本身就是深柜吧，七十天的雌激素就把性取向改了还是太魔幻了，要不然就是为了寻求认同居然骗自己性取向都改了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 425,
+          "like_count": 1913,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-07T17:53:43.000Z",
+        "description": "🧡🤍🩷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inp.la",
+                "end": 23,
+                "expanded_url": "http://inp.la",
+                "start": 0,
+                "url": "https://t.co/J0R7fygDUG"
+              }
+            ]
+          }
+        },
+        "id": "17235228",
+        "name": "inp 🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004956808784609283/2Nfex4yM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 486,
+          "like_count": 4482,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/J0R7fygDUG",
+        "username": "INP1458",
+        "verified": true
+      }
+    ]
+  }
+}

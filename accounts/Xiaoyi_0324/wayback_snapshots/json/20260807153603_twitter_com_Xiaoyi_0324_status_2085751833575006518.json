@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2085593550935482853",
+    "created_at": "2026-08-07T15:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085751833575006518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1336576654022340608",
+          "start": 0,
+          "username": "yu_kirins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085751833575006518",
+    "in_reply_to_user_id": "1336576654022340608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085593550935482853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins 你的评论区你就开一个社交圈回复就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2085593229899309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGD_h4boAAHpiH.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2085593550935482853",
+        "created_at": "2026-08-07T15:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085751833575006518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336576654022340608",
+              "start": 0,
+              "username": "yu_kirins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085751833575006518",
+        "in_reply_to_user_id": "1336576654022340608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085593550935482853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins 你的评论区你就开一个社交圈回复就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085593229899309056"
+          ]
+        },
+        "author_id": "1336576654022340608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085593550935482853",
+        "created_at": "2026-08-07T05:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:05:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085593246965911994",
+          "2085593550935482853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HkOP6ph2yW",
+              "end": 44,
+              "expanded_url": "https://x.com/yu_kirins/status/2085593550935482853/photo/1",
+              "media_key": "3_2085593229899309056",
+              "start": 21,
+              "url": "https://t.co/HkOP6ph2yW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593550935482853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么办法一次性屏蔽。\n没有人要看福 https://t.co/HkOP6ph2yW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 434,
+          "like_count": 1954,
+          "listed_count": 6,
+          "media_count": 408,
+          "tweet_count": 3362
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|去势:2026.7.27|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 158,
+          "like_count": 1521,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "yu_kirins",
+        "verified": true
+      }
+    ]
+  }
+}

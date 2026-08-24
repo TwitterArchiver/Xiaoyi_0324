@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2083065792250445923",
+    "created_at": "2026-07-31T09:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083122710583087558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2068326497006530560",
+          "start": 0,
+          "username": "emilyzweix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083122710583087558",
+    "in_reply_to_user_id": "2068326497006530560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083072448078234088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@emilyzweix 慢慢来捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T09:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083122710583087558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2068326497006530560",
+              "start": 0,
+              "username": "emilyzweix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083122710583087558",
+        "in_reply_to_user_id": "2068326497006530560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083072448078234088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@emilyzweix 慢慢来捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068326497006530560",
+        "conversation_id": "2083065792250445923",
+        "created_at": "2026-07-31T06:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083072448078234088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083072448078234088",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083065792250445923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 羡慕了，你这效果也太好啦，我HRT刚两个月，身体一点变化没有😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n亮点里是我的一些随笔|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预3次(线下1次\n只互同类|其他互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 425,
+          "like_count": 1913,
+          "listed_count": 6,
+          "media_count": 393,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-20T13:37:08.000Z",
+        "description": "奔四大龄MTF | HRT Ing  | 欢迎同类扩列  | 程序员",
+        "id": "2068326497006530560",
+        "location": "China",
+        "name": "Emily🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068335009950515201/z5QipezG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 219,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "emilyzweix",
+        "verified": true
+      }
+    ]
+  }
+}

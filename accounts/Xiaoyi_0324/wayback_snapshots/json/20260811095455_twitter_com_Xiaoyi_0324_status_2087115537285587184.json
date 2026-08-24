@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2087053040314654837",
+    "created_at": "2026-08-11T09:54:55.000Z",
+    "display_text_range": [
+      24,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087115537285587184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014293353269997568",
+          "start": 0,
+          "username": "paperly_forge"
+        },
+        {
+          "end": 23,
+          "id": "1953688493160542208",
+          "start": 15,
+          "username": "SYFSASN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087115537285587184",
+    "in_reply_to_user_id": "2014293353269997568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087053040314654837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperly_forge @SYFSASN 安啦 RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2087053040314654837",
+        "created_at": "2026-08-11T09:54:55.000Z",
+        "display_text_range": [
+          24,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087115537285587184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014293353269997568",
+              "start": 0,
+              "username": "paperly_forge"
+            },
+            {
+              "end": 23,
+              "id": "1953688493160542208",
+              "start": 15,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087115537285587184",
+        "in_reply_to_user_id": "2014293353269997568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087053040314654837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperly_forge @SYFSASN 安啦 RIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014293353269997568",
+        "conversation_id": "2087053040314654837",
+        "created_at": "2026-08-11T05:46:35.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087053040314654837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953688493160542208",
+              "start": 5,
+              "username": "SYFSASN"
+            },
+            {
+              "end": 30,
+              "id": "2014293353269997568",
+              "start": 16,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053040314654837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 13,
+                "id": "1953688493160542208",
+                "start": 5,
+                "username": "SYFSASN"
+              },
+              {
+                "end": 30,
+                "id": "2014293353269997568",
+                "start": 16,
+                "username": "paperly_forge"
+              }
+            ]
+          },
+          "text": "讣告\n我是@SYFSASN，号主@paperly_forge于8月10日23时因家长不支持跨性别，绝望之下服用13g亚硝酸钠和17片思诺思13g氯硝西泮后逝世，享年15岁\n\n我不知道要说什么了，如果……如果她家长能听一句劝她是不是就不会死了，如果我报警再快一点是不是就能活下来了……我真的很后悔，我连她最后一面都没见到……\n\n星星已经走了……我要于8月12日去找她，我要和朋友告别，我已经失去她了，我的人生已经没有意义了，我要去找她，我还得去陪她"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9774,
+          "like_count": 112,
+          "quote_count": 3,
+          "reply_count": 42,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n我是@SYFSASN，号主@paperly_forge于8月10日23时因家长不支持跨性别，绝望之下服用13g亚硝酸钠和17片思诺思13g氯硝西泮后逝世，享年15岁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|参与自杀干预4次\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Heaven",
+        "most_recent_tweet_id": "2087115537285587184",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 443,
+          "like_count": 2024,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2087053106362318966",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 270,
+          "like_count": 1300,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09年3月出厂/视成分fo/友跨🏳️‍⚧️/明日方舟/星穹铁道/大部分pc游戏/不聊政治/有事情请私信/厌世人格上线",
+        "id": "1953688493160542208",
+        "is_identity_verified": false,
+        "location": "二相乐园",
+        "most_recent_tweet_id": "2087098270099345886",
+        "name": "SYFSASN🍥",
+        "pinned_tweet_id": "2085969335932346581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953688493160542208/1755148670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084611675806949376/9E9BJKam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 1528,
+          "like_count": 19384,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "SYFSASN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

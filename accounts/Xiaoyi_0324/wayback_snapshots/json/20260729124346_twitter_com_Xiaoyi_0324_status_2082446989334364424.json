@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2082365300406976535",
+    "created_at": "2026-07-29T12:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082446989334364424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686914633314013184",
+          "start": 0,
+          "username": "KTD593yug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082446989334364424",
+    "in_reply_to_user_id": "1686914633314013184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082374668674380088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@KTD593yug 做私信 给我做好的啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2082365300406976535",
+        "created_at": "2026-07-29T12:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082446989334364424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082446989334364424",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082374668674380088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@KTD593yug 做私信 给我做好的啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2082365300406976535",
+        "created_at": "2026-07-29T07:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082374668674380088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082374668674380088",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082365300406976535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 吞私信也挺私募的😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@yuchenawa\n|性取向男|想了解我请查看亮点😃\n|逃生舱:@Ruai_0324|MTFTX|出柜:26/4/30|家长不管党|无证含糖:26/5/26|参与自杀干预3次(线下1次|只互同类|其他互fo请私信|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 418,
+          "like_count": 1900,
+          "listed_count": 6,
+          "media_count": 388,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 181,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}
