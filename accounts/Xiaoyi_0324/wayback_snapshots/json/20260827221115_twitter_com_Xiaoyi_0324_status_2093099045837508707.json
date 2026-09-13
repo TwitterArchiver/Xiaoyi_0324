@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2093053325684150332",
+    "created_at": "2026-08-27T22:11:15.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T23:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093099045837508707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070767316229554176",
+          "start": 0,
+          "username": "Cafwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093099045837508707",
+    "in_reply_to_user_id": "2070767316229554176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093053325684150332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cafwwwww ！？强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4079,
+        "media_key": "3_2093053314393116672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQwE5mRbEAAwUgp.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2093053325684150332",
+        "created_at": "2026-08-27T22:11:15.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T23:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093099045837508707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070767316229554176",
+              "start": 0,
+              "username": "Cafwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093099045837508707",
+        "in_reply_to_user_id": "2070767316229554176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093053325684150332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cafwwwww ！？强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093053314393116672"
+          ]
+        },
+        "author_id": "2070767316229554176",
+        "conversation_id": "2093053325684150332",
+        "created_at": "2026-08-27T19:09:34.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093053325684150332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2PV5qMU4c",
+              "end": 38,
+              "expanded_url": "https://x.com/Cafwwwww/status/2093053325684150332/photo/1",
+              "media_key": "3_2093053314393116672",
+              "start": 15,
+              "url": "https://t.co/J2PV5qMU4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093053325684150332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093053314393116672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 215,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在研发凝胶自动化生产设备🤔 https://t.co/J2PV5qMU4c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|游戏账号:@Ruai_0324\n并不Pass的MTF|老婆:@Cafwwwww\n出柜:26/4/30|算是半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2093099045837508707",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 443,
+          "like_count": 2130,
+          "listed_count": 7,
+          "media_count": 457,
+          "tweet_count": 3697
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T07:14:17.000Z",
+        "description": "17 / 高三 / 上海 / mtf🏳️‍⚧️ / 全栈开发 / 中抑 / 音游 / 摄影 / 互fo私信喵\n老婆：@Xiaoyi_0324\n有凝胶卖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          }
+        },
+        "id": "2070767316229554176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093053325684150332",
+        "name": "Cafwww🍥",
+        "pinned_tweet_id": "2089523377786740806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070767316229554176/1782556132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070769559909629952/Wx-dX3JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 61,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "Cafwwwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

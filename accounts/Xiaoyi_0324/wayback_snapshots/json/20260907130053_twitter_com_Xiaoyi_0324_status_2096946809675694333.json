@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2096561614107635818",
+    "created_at": "2026-09-07T13:00:53.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T14:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096946809675694333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1265287619241316357",
+          "start": 0,
+          "username": "takeno_omoti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096946809675694333",
+    "in_reply_to_user_id": "1265287619241316357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561614107635818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takeno_omoti 丢失的泳装在哥伦比娅的手里 去找她要啊！！😏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2096561603529650176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh7q5wbsAAa-yo.jpg",
+        "width": 1810
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096561609212854273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh7rO7agAExl5n.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2096561614107635818",
+        "created_at": "2026-09-07T13:00:53.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096946809675694333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1265287619241316357",
+              "start": 0,
+              "username": "takeno_omoti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096946809675694333",
+        "in_reply_to_user_id": "1265287619241316357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561614107635818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takeno_omoti 丢失的泳装在哥伦比娅的手里 去找她要啊！！😏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096561603529650176",
+            "3_2096561609212854273"
+          ]
+        },
+        "author_id": "1265287619241316357",
+        "conversation_id": "2096561614107635818",
+        "created_at": "2026-09-06T11:30:15.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096561614107635818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 38,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561603529650176",
+              "start": 15,
+              "url": "https://t.co/osgKNztf56"
+            },
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 38,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561609212854273",
+              "start": 15,
+              "url": "https://t.co/osgKNztf56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096561614107635818",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096561603529650176"
+          },
+          {
+            "media_key": "3_2096561609212854273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14324,
+          "impression_count": 942081,
+          "like_count": 64388,
+          "quote_count": 17,
+          "reply_count": 20,
+          "retweet_count": 2582
+        },
+        "reply_settings": "everyone",
+        "text": "なくした水着の行方は……？👀 https://t.co/osgKNztf56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2096946809675694333",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 448,
+          "like_count": 2163,
+          "listed_count": 7,
+          "media_count": 477,
+          "tweet_count": 3839
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-26T14:24:56.000Z",
+        "description": "Illustrator\nお仕事募集中 (10月着手〇)\n【contact✉】takenoomoti@gmail.com【work】https://t.co/fBdmes2gYw\n  【pixiv】https://t.co/1PcS8H9kbi\nHoYoCREATOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/take…",
+                "end": 88,
+                "expanded_url": "https://xfolio.jp/portfolio/takeno_omoti",
+                "start": 65,
+                "url": "https://t.co/fBdmes2gYw"
+              },
+              {
+                "display_url": "pixiv.net/users/55924913",
+                "end": 121,
+                "expanded_url": "https://www.pixiv.net/users/55924913",
+                "start": 98,
+                "url": "https://t.co/1PcS8H9kbi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "takenoomoti.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://takenoomoti.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/24RVPuDyfo"
+              }
+            ]
+          }
+        },
+        "id": "1265287619241316357",
+        "is_identity_verified": false,
+        "location": "AI学習禁止",
+        "most_recent_tweet_id": "2096838783492857990",
+        "name": "たけのおもち",
+        "pinned_tweet_id": "2082790828708347984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265287619241316357/1780385686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023363500727541760/UN2dCCmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130009,
+          "following_count": 286,
+          "like_count": 22948,
+          "listed_count": 690,
+          "media_count": 207,
+          "tweet_count": 7312
+        },
+        "url": "https://t.co/24RVPuDyfo",
+        "username": "takeno_omoti",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093883621551841281"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2093883628623393098",
+    "created_at": "2026-08-30T02:08:54.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T03:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093883628623393098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/xiaoyi_0324",
+          "end": 55,
+          "expanded_url": "https://ngl.link/xiaoyi_0324",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "@xiaoyi_0324: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/xiaoyi_0324",
+          "url": "https://t.co/yyCVeNWmak"
+        },
+        {
+          "display_url": "pic.x.com/xzMx8RGHUe",
+          "end": 79,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2093883628623393098/photo/1",
+          "media_key": "3_2093883621551841281",
+          "start": 56,
+          "url": "https://t.co/xzMx8RGHUe"
+        },
+        {
+          "display_url": "x.com/xiaoyi_0324/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/xiaoyi_0324/status/2089269472058384694",
+          "start": 80,
+          "url": "https://t.co/3wZbsvqzM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093883628623393098",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093883621551841281"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089269472058384694",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "是的 感觉东北的同类很少啊🤔\n通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak https://t.co/xzMx8RGHUe https://t.co/3wZbsvqzM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093883621551841281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ74D1ebIAEBVd9.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089269465171283968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6Tglea0AABHRA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089269465154473984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6TglaaUAAvWSZ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089269465200607232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6TgllaQAAmXZb.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089269465250959360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6TglxakAArEt8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093883621551841281"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2093883628623393098",
+        "created_at": "2026-08-30T02:08:54.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093883628623393098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiaoyi_0324",
+              "end": 55,
+              "expanded_url": "https://ngl.link/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "@xiaoyi_0324: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiaoyi_0324",
+              "url": "https://t.co/yyCVeNWmak"
+            },
+            {
+              "display_url": "pic.x.com/xzMx8RGHUe",
+              "end": 79,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2093883628623393098/photo/1",
+              "media_key": "3_2093883621551841281",
+              "start": 56,
+              "url": "https://t.co/xzMx8RGHUe"
+            },
+            {
+              "display_url": "x.com/xiaoyi_0324/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/xiaoyi_0324/status/2089269472058384694",
+              "start": 80,
+              "url": "https://t.co/3wZbsvqzM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093883628623393098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093883621551841281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089269472058384694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "是的 感觉东北的同类很少啊🤔\n通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak https://t.co/xzMx8RGHUe https://t.co/3wZbsvqzM1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089269465171283968",
+            "3_2089269465154473984",
+            "3_2089269465200607232",
+            "3_2089269465250959360"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2089269472058384694",
+        "created_at": "2026-08-17T08:33:53.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089269472058384694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiaoyi_0324",
+              "end": 59,
+              "expanded_url": "https://ngl.link/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081387024096034816/unyUykFV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "@xiaoyi_0324: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiaoyi_0324",
+              "url": "https://t.co/yyCVeNWmak"
+            },
+            {
+              "display_url": "pic.x.com/F27KcNNSR7",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2089269472058384694/photo/1",
+              "media_key": "3_2089269465171283968",
+              "start": 60,
+              "url": "https://t.co/F27KcNNSR7"
+            },
+            {
+              "display_url": "pic.x.com/F27KcNNSR7",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2089269472058384694/photo/1",
+              "media_key": "3_2089269465154473984",
+              "start": 60,
+              "url": "https://t.co/F27KcNNSR7"
+            },
+            {
+              "display_url": "pic.x.com/F27KcNNSR7",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2089269472058384694/photo/1",
+              "media_key": "3_2089269465200607232",
+              "start": 60,
+              "url": "https://t.co/F27KcNNSR7"
+            },
+            {
+              "display_url": "pic.x.com/F27KcNNSR7",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2089269472058384694/photo/1",
+              "media_key": "3_2089269465250959360",
+              "start": 60,
+              "url": "https://t.co/F27KcNNSR7"
+            },
+            {
+              "display_url": "x.com/xiaoyi_0324/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/xiaoyi_0324/status/2086263615070638101",
+              "start": 84,
+              "url": "https://t.co/n8qN80ZXWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089269472058384694",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089269465171283968"
+          },
+          {
+            "media_key": "3_2089269465154473984"
+          },
+          {
+            "media_key": "3_2089269465200607232"
+          },
+          {
+            "media_key": "3_2089269465250959360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1625,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086263615070638101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "好久没看匿名提问箱了 这里面都是些啥\n通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak https://t.co/F27KcNNSR7 https://t.co/n8qN80ZXWc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|游戏账号:@Ruai_0324\n并不Pass的MTF|老婆:@Cafwwwww\n出柜:26/4/30|算是半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2093883628623393098",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 442,
+          "like_count": 2131,
+          "listed_count": 7,
+          "media_count": 462,
+          "tweet_count": 3723
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

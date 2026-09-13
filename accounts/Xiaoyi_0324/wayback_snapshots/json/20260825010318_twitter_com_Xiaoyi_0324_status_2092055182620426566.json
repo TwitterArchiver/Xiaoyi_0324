@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092054958095134720",
+        "3_2092055176475815936"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2092055182620426566",
+    "created_at": "2026-08-25T01:03:18.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092055182620426566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDpAmnaQZc",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2092055182620426566/video/1",
+          "media_key": "13_2092054958095134720",
+          "start": 22,
+          "url": "https://t.co/hDpAmnaQZc"
+        },
+        {
+          "display_url": "pic.x.com/hDpAmnaQZc",
+          "end": 45,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2092055182620426566/video/1",
+          "media_key": "3_2092055176475815936",
+          "start": 22,
+          "url": "https://t.co/hDpAmnaQZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092055182620426566",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092054958095134720"
+      },
+      {
+        "media_key": "3_2092055176475815936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这样的dsh还是不能俘获你的芳心吗🥺🥺🫳🫳 https://t.co/hDpAmnaQZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27422,
+        "height": 2160,
+        "media_key": "13_2092054958095134720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092054958095134720/img/V6HpJurs-kdH-5w2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/vid/avc1/2322x2160/Znkisv8Sy_P9-2-Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/pl/72_oLAYdyOYVp7hy.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/vid/avc1/774x720/aLCRh8EsLTDszsbE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/vid/avc1/386x360/0Bi81QN4wwd6Wj48.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/vid/avc1/1160x1080/zLRz7DoFjFfrr14E.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092054958095134720/vid/avc1/290x270/82SbGMrywxje7aHX.mp4"
+          }
+        ],
+        "width": 2322
+      },
+      {
+        "height": 1846,
+        "media_key": "3_2092055176475815936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQh5GUxbsAA0xb0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092054958095134720",
+            "3_2092055176475815936"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2092055182620426566",
+        "created_at": "2026-08-25T01:03:18.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092055182620426566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDpAmnaQZc",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2092055182620426566/video/1",
+              "media_key": "13_2092054958095134720",
+              "start": 22,
+              "url": "https://t.co/hDpAmnaQZc"
+            },
+            {
+              "display_url": "pic.x.com/hDpAmnaQZc",
+              "end": 45,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2092055182620426566/video/1",
+              "media_key": "3_2092055176475815936",
+              "start": 22,
+              "url": "https://t.co/hDpAmnaQZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092055182620426566",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092054958095134720"
+          },
+          {
+            "media_key": "3_2092055176475815936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样的dsh还是不能俘获你的芳心吗🥺🥺🫳🫳 https://t.co/hDpAmnaQZc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|多发推少刷推之人\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2092055182620426566",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 442,
+          "like_count": 2118,
+          "listed_count": 7,
+          "media_count": 447,
+          "tweet_count": 3643
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

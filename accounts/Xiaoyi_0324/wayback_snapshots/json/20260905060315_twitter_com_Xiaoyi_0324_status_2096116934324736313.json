@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2095799125392695614",
+    "created_at": "2026-09-05T06:03:15.000Z",
+    "display_text_range": [
+      26,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T07:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096116934324736313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2075765382602969088",
+          "start": 0,
+          "username": "lxlUsually1101"
+        },
+        {
+          "end": 25,
+          "id": "1819721615569195008",
+          "start": 16,
+          "username": "Mag1ceye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096116934324736313",
+    "in_reply_to_user_id": "2075765382602969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096115487918948715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxlUsually1101 @Mag1ceye 走个流程 联系客服把核销码给他然后提供sfz和姓名 最后说病症应该就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2095799125392695614",
+        "created_at": "2026-09-05T06:03:15.000Z",
+        "display_text_range": [
+          26,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T07:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096116934324736313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2075765382602969088",
+              "start": 0,
+              "username": "lxlUsually1101"
+            },
+            {
+              "end": 25,
+              "id": "1819721615569195008",
+              "start": 16,
+              "username": "Mag1ceye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096116934324736313",
+        "in_reply_to_user_id": "2075765382602969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096115487918948715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxlUsually1101 @Mag1ceye 走个流程 联系客服把核销码给他然后提供sfz和姓名 最后说病症应该就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075765382602969088",
+        "conversation_id": "2095799125392695614",
+        "created_at": "2026-09-05T05:57:30.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096115487918948715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1819721615569195008",
+              "start": 0,
+              "username": "Mag1ceye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096115487918948715",
+        "in_reply_to_user_id": "1819721615569195008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095799125392695614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mag1ceye 预约之后真的会有人来问诊吗？🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2096116934324736313",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 446,
+          "like_count": 2156,
+          "listed_count": 7,
+          "media_count": 475,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T02:15:16.000Z",
+        "description": "等级13 | MTF | 坚持一个中国原则 | 生产日期2012.11.1 | 真寻粉 | 无证含糖 | 含糖日期2026.7.24 | 1米65 | BMI 19 | 准初二 | 26.8.13炸柜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Usually1101",
+                "end": 23,
+                "expanded_url": "https://github.com/Usually1101",
+                "start": 0,
+                "url": "https://t.co/zypH885ZKB"
+              }
+            ]
+          }
+        },
+        "id": "2075765382602969088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096116100652302690",
+        "name": "Usually🏳️‍⚧🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075765382602969088/1786599330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077894554313953280/K-eTBj3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 356,
+          "like_count": 3551,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/zypH885ZKB",
+        "username": "lxlUsually1101",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-03T13:07:05.000Z",
+        "description": "鱼:06| INFP | 地点成都 | 大三📚 | 属性：地雷系🖤 | 宅 | 车万;... | 刚开始吃糖🍬  あいす单推い🍧  喜欢和平 艺术\n会认真回关忘记了要提醒喵 喜欢友善路评  可线下同类贴贴\n扩+ 3429474848 🐧",
+        "id": "1819721615569195008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096116205019070583",
+        "name": "Sakana🐟🏳️‍⚧️💨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1819721615569195008/1788517415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095187305925603328/H6iGHxo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 151,
+          "like_count": 673,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Mag1ceye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

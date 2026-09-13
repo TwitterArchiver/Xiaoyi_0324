@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2094077680778154353",
+    "created_at": "2026-08-30T15:58:00.000Z",
+    "display_text_range": [
+      12,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094092278646325687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1459490226095943685",
+          "start": 0,
+          "username": "miratsu169"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094092278646325687",
+    "in_reply_to_user_id": "1459490226095943685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094077680778154353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miratsu169 あっ？今日が彼女の誕生日だったのか！お誕生日おめでとう！ミク！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1231,
+        "media_key": "3_2094077674918707200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-ojOmbAAAynqz.jpg",
+        "width": 3214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2094077680778154353",
+        "created_at": "2026-08-30T15:58:00.000Z",
+        "display_text_range": [
+          12,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094092278646325687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1459490226095943685",
+              "start": 0,
+              "username": "miratsu169"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094092278646325687",
+        "in_reply_to_user_id": "1459490226095943685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094077680778154353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miratsu169 あっ？今日が彼女の誕生日だったのか！お誕生日おめでとう！ミク！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094077674918707200"
+          ]
+        },
+        "author_id": "1459490226095943685",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2094077680778154353",
+        "created_at": "2026-08-30T14:59:59.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094077680778154353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "初音ミク誕生祭2026"
+            },
+            {
+              "end": 44,
+              "start": 32,
+              "tag": "初音ミク生誕祭2026"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEIHsFMT7C",
+              "end": 75,
+              "expanded_url": "https://x.com/miratsu169/status/2094077680778154353/photo/1",
+              "media_key": "3_2094077674918707200",
+              "start": 52,
+              "url": "https://t.co/GEIHsFMT7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094077680778154353",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094077674918707200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 13391,
+          "like_count": 1456,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "ミクちゃん、お誕生日おめでとう！！\n#初音ミク誕生祭2026  #初音ミク生誕祭2026 \n#初音ミク https://t.co/GEIHsFMT7C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|游戏账号:@Ruai_0324\n并不Pass的MTF|老婆:@Cafwwwww\n出柜:26/4/30|算是半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2094092278646325687",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 444,
+          "like_count": 2135,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-13T11:56:07.000Z",
+        "description": "🚫AI🚫27년 외주 모집중 개인외주× ご依頼受付中\n現在新規のご依頼は27年　可能\n📧seet100r@gmail.com\nFA- #miratsu_art\nSD작법서 https://t.co/d5y9WU2azw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 68,
+                "tag": "miratsu_art"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "product.kyobobook.co.kr/detail/S000220…",
+                "end": 110,
+                "expanded_url": "https://product.kyobobook.co.kr/detail/S000220871202",
+                "start": 87,
+                "url": "https://t.co/d5y9WU2azw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cardit.to/miratsu169",
+                "end": 23,
+                "expanded_url": "https://cardit.to/miratsu169",
+                "start": 0,
+                "url": "https://t.co/anOaM65FMn"
+              }
+            ]
+          }
+        },
+        "id": "1459490226095943685",
+        "is_identity_verified": false,
+        "location": "hp",
+        "most_recent_tweet_id": "2094077680778154353",
+        "name": "みらつ/밋다다@SD작법서많관부",
+        "pinned_tweet_id": "2088187015493746689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459490226095943685/1775056708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077669835476262912/RSIJ__14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105674,
+          "following_count": 101,
+          "like_count": 1283,
+          "listed_count": 281,
+          "media_count": 817,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/anOaM65FMn",
+        "username": "miratsu169",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

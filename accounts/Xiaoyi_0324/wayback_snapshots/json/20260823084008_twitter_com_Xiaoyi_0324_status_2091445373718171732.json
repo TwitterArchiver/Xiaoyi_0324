@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2091136857866490015",
+    "created_at": "2026-08-23T08:40:08.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091445373718171732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069859146086907904",
+          "start": 0,
+          "username": "xooxksnsb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091445373718171732",
+    "in_reply_to_user_id": "2069859146086907904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091413014595387871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@xooxksnsb2 少见性取向是男生的跨诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2091136857866490015",
+        "created_at": "2026-08-23T08:40:08.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091445373718171732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069859146086907904",
+              "start": 0,
+              "username": "xooxksnsb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091445373718171732",
+        "in_reply_to_user_id": "2069859146086907904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091413014595387871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@xooxksnsb2 少见性取向是男生的跨诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069859146086907904",
+        "conversation_id": "2091136857866490015",
+        "created_at": "2026-08-23T06:31:33.000Z",
+        "display_text_range": [
+          13,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091413014595387871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091413014595387871",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091136857866490015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 我的性取向是男的，以前没吃药的时候我认为我是双，吃药后我就不喜欢女的了😋😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|逃生舱:@Ruai_0324\n并不Pass的MTF|出柜:26/4/30|算是半个家长党\n无证含糖:26/5/26|多发推少刷推之人\n只互同类|其他互fo请私信|团队@TransCircleOrg\n快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2091445373718171732",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 439,
+          "like_count": 2102,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 3605
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T19:05:07.000Z",
+        "description": "无证含糖｜正在上学｜出厂时间07.08.13｜傻子一个｜求互fo私信喵～｜QQ:3804966869｜https://t.co/JuKGDqgF0s",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yueyingxi",
+                "end": 74,
+                "expanded_url": "http://t.me/yueyingxi",
+                "start": 51,
+                "url": "https://t.co/JuKGDqgF0s"
+              }
+            ]
+          }
+        },
+        "id": "2069859146086907904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091430587068535143",
+        "name": "月影汐🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069859146086907904/1787285343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090648198226563072/0PqhZIHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 81,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "xooxksnsb2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

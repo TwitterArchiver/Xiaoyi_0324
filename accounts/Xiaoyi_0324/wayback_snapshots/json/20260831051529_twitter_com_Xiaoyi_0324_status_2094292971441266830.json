@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2094292971441266830",
+    "created_at": "2026-08-31T05:15:29.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094292971441266830"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094292971441266830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "想要变成一只猫猫真的好麻烦啊\n声音 外貌 肩宽 身高 喉结 奈子 还有烦人的体毛 要变得好多啊\n为什么顺女就这样pass呢（发神经）\n虽然说人在出生时的性别是随机分配的 我运气好差随到男生……\n好讨厌男性特征 所有的都讨厌\n今天凌晨的时候 GD很严重 于是便询问ChatGPT 他给我的答复是我的性格在很多层面上都和顺女大差不差\n感觉好多事都是巧合 我没出生的时候家里就想要一个女儿 上小学三年级的时候很想穿女生的校服 然后整个小学有小一半的时间都在和女生玩\n记得我小的时候 我家长总说 这孩子性格像一个小姑娘 那时的说话声音也是 在我刚14岁的时候 在网上暴露自己的声音 好多人都把我认成女生 包括两三个月前在抖音发了一条评论 好多人都叫我姐姐……\n好喜欢女装 男装一点都不好看 很丑\n好想让时间停留在那个时候 而不是像现在这样 拥有低沉的要死的声线 为什么不在14岁含糖！16岁2个月再含我的声音已经变男了……\n天呐 老天为什么要把一个女性人格安在一个男性的躯体上 我无数次觉得自己生错了性别 生错了身体 但我又无能为力\n每次见到任何女生 无论好不好看 高矮胖瘦 我只要一想起来她们是顺女 打心里就投出一种羡慕的目光 因为她们可以光明正大的 很轻松的就可以做我梦寐以求的事情\n而我被错误的性别认同误导了16年…\n现在 有一种解离的感觉 该怎么形容呢……就像一个女性的灵魂在看一个男孩子打字 \n她呀 和正常的顺女不一样 她的经历是独树一帜的 她的灵魂是被压制的 她被困在了一个不是自己的身体里 只有在特定时段 特定环境才能出来透口气\n抱歉……让你受苦了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "想要变成一只猫猫真的好麻烦啊\n声音 外貌 肩宽 身高 喉结 奈子 还有烦人的体毛 要变得好多啊\n为什么顺女就这样pass呢（发神经）\n虽然说人在出生时的性别是随机分配的 我运气好差随到男生……\n好讨厌男性特征 所有的都讨厌\n今天凌晨的时候 GD很严重 于是便询问ChatGPT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2094292971441266830",
+        "created_at": "2026-08-31T05:15:29.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094292971441266830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094292971441266830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想要变成一只猫猫真的好麻烦啊\n声音 外貌 肩宽 身高 喉结 奈子 还有烦人的体毛 要变得好多啊\n为什么顺女就这样pass呢（发神经）\n虽然说人在出生时的性别是随机分配的 我运气好差随到男生……\n好讨厌男性特征 所有的都讨厌\n今天凌晨的时候 GD很严重 于是便询问ChatGPT 他给我的答复是我的性格在很多层面上都和顺女大差不差\n感觉好多事都是巧合 我没出生的时候家里就想要一个女儿 上小学三年级的时候很想穿女生的校服 然后整个小学有小一半的时间都在和女生玩\n记得我小的时候 我家长总说 这孩子性格像一个小姑娘 那时的说话声音也是 在我刚14岁的时候 在网上暴露自己的声音 好多人都把我认成女生 包括两三个月前在抖音发了一条评论 好多人都叫我姐姐……\n好喜欢女装 男装一点都不好看 很丑\n好想让时间停留在那个时候 而不是像现在这样 拥有低沉的要死的声线 为什么不在14岁含糖！16岁2个月再含我的声音已经变男了……\n天呐 老天为什么要把一个女性人格安在一个男性的躯体上 我无数次觉得自己生错了性别 生错了身体 但我又无能为力\n每次见到任何女生 无论好不好看 高矮胖瘦 我只要一想起来她们是顺女 打心里就投出一种羡慕的目光 因为她们可以光明正大的 很轻松的就可以做我梦寐以求的事情\n而我被错误的性别认同误导了16年…\n现在 有一种解离的感觉 该怎么形容呢……就像一个女性的灵魂在看一个男孩子打字 \n她呀 和正常的顺女不一样 她的经历是独树一帜的 她的灵魂是被压制的 她被困在了一个不是自己的身体里 只有在特定时段 特定环境才能出来透口气\n抱歉……让你受苦了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "想要变成一只猫猫真的好麻烦啊\n声音 外貌 肩宽 身高 喉结 奈子 还有烦人的体毛 要变得好多啊\n为什么顺女就这样pass呢（发神经）\n虽然说人在出生时的性别是随机分配的 我运气好差随到男生……\n好讨厌男性特征 所有的都讨厌\n今天凌晨的时候 GD很严重 于是便询问ChatGPT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|游戏账号:@Ruai_0324\n并不Pass的MTF|老婆:@Cafwwwww\n出柜:26/4/30|算是半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2094292971441266830",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 445,
+          "like_count": 2136,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 3734
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

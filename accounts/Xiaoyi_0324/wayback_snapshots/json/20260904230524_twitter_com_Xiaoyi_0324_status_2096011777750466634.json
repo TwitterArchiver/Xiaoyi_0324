@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2095865163521929623",
+    "created_at": "2026-09-04T23:05:24.000Z",
+    "display_text_range": [
+      17,
+      185
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096011777750466634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055822314969665536",
+          "start": 0,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096011777750466634",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“OD”在音游领域最常见的含义是 Overall Difficulty（整体难度/判定严度），但它在不同游戏中也可能指代其他概念。\n在《osu!》等多数音游中，OD决定了打击判定的严格程度。简单说，OD值越高，判定越严格，想拿到“Perfect”或“Great”等高分判定的时间窗口就越短。\n在《音击 (ONGEKI)》中：指 Over Damage（溢出伤害）。BOSS被击破后溢出的伤害会影响最终评级，评级分为“极”、“秀”等多个等级。\n除此之外，在一些4K下落式音游社区里，OD也可能泛指“判定严度”。\n所以，看到“OD”时，可以先根据游戏语境来判断：在《osu!》里通常指“判定严度”，在《音击》里则指“溢出伤害”。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095865163521929623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrievousPotato1 “OD”在音游领域最常见的含义是 Overall Difficulty（整体难度/判定严度），但它在不同游戏中也可能指代其他概念。\n在《osu!》等多数音游中，OD决定了打击判定的严格程度。简单说，OD值越高，判定越严格，想拿到“Perfect”或“Great”等高分判定的时间窗口就越短。\n在《音击 (ONGEKI)》中：指 Over"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2095865152784470017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYCQIjWkAEy2rw.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2095865163521929623",
+        "created_at": "2026-09-04T23:05:24.000Z",
+        "display_text_range": [
+          17,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096011777750466634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096011777750466634",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“OD”在音游领域最常见的含义是 Overall Difficulty（整体难度/判定严度），但它在不同游戏中也可能指代其他概念。\n在《osu!》等多数音游中，OD决定了打击判定的严格程度。简单说，OD值越高，判定越严格，想拿到“Perfect”或“Great”等高分判定的时间窗口就越短。\n在《音击 (ONGEKI)》中：指 Over Damage（溢出伤害）。BOSS被击破后溢出的伤害会影响最终评级，评级分为“极”、“秀”等多个等级。\n除此之外，在一些4K下落式音游社区里，OD也可能泛指“判定严度”。\n所以，看到“OD”时，可以先根据游戏语境来判断：在《osu!》里通常指“判定严度”，在《音击》里则指“溢出伤害”。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095865163521929623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 “OD”在音游领域最常见的含义是 Overall Difficulty（整体难度/判定严度），但它在不同游戏中也可能指代其他概念。\n在《osu!》等多数音游中，OD决定了打击判定的严格程度。简单说，OD值越高，判定越严格，想拿到“Perfect”或“Great”等高分判定的时间窗口就越短。\n在《音击 (ONGEKI)》中：指 Over"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095865152784470017"
+          ]
+        },
+        "author_id": "2055822314969665536",
+        "conversation_id": "2095865163521929623",
+        "created_at": "2026-09-04T13:22:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095865163521929623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvkfLdCxFb",
+              "end": 23,
+              "expanded_url": "https://x.com/GrievousPotato1/status/2095865163521929623/photo/1",
+              "media_key": "3_2095865152784470017",
+              "start": 0,
+              "url": "https://t.co/yvkfLdCxFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095865163521929623",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095865152784470017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4107,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yvkfLdCxFb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2096011777750466634",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 446,
+          "like_count": 2155,
+          "listed_count": 7,
+          "media_count": 474,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095892233224389034",
+        "name": "🌈ALLice⛄赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 459,
+          "like_count": 20650,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

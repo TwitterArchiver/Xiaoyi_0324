@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2092530894355791893",
+    "created_at": "2026-08-27T05:54:33.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092853254791246228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2061979903084593152",
+          "start": 0,
+          "username": "520yinhuanye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092853254791246228",
+    "in_reply_to_user_id": "2061979903084593152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092530894355791893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520yinhuanye 事后证明 这个人有精神疾病 还是个地铁迷 哦 他的抖音还是个乌贼娘😂😂😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 151578,
+        "height": 1268,
+        "media_key": "13_2092529811566829568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092529811566829568/img/twDww2sN3sTp_7V_.jpg",
+        "public_metrics": {
+          "view_count": 17421
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092529811566829568/vid/avc1/320x562/QeAKnAqPWpTS5jdN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092529811566829568/vid/avc1/480x844/Qy3bNpp5A4a5qB0O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092529811566829568/vid/avc1/720x1268/YVpBE9_1sQUBAkcE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092529811566829568/pl/hxlP-CseZZGub6DU.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2092530894355791893",
+        "created_at": "2026-08-27T05:54:33.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092853254791246228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2061979903084593152",
+              "start": 0,
+              "username": "520yinhuanye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092853254791246228",
+        "in_reply_to_user_id": "2061979903084593152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092530894355791893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520yinhuanye 事后证明 这个人有精神疾病 还是个地铁迷 哦 他的抖音还是个乌贼娘😂😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092529811566829568"
+          ]
+        },
+        "author_id": "2061979903084593152",
+        "conversation_id": "2092530894355791893",
+        "created_at": "2026-08-26T08:33:37.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092530894355791893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uuhwbVYrei",
+              "end": 147,
+              "expanded_url": "https://x.com/520yinhuanye/status/2092530894355791893/video/1",
+              "media_key": "13_2092529811566829568",
+              "start": 124,
+              "url": "https://t.co/uuhwbVYrei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092530894355791893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092529811566829568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 26684,
+          "like_count": 235,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我造一辆地铁这么难😤而国家就可以这么简单的拥有一辆地铁🤗凭什么呀😭凭什么😥我要地铁😡我要地铁😡我要地铁😡不可能😫我要地铁😍不可能😫我父母不给我买😭我要地铁😡我要地铁😡我要地铁你别管我你别管我😠我刚才撞到人了😱我自己负责😁我要地铁😡我要地铁😡 https://t.co/uuhwbVYrei"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|游戏账号:@Ruai_0324\n并不Pass的MTF|老婆:@Cafwwwww\n出柜:26/4/30|算是半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\n尝试不自杀|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2092853254791246228",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 440,
+          "like_count": 2122,
+          "listed_count": 7,
+          "media_count": 455,
+          "tweet_count": 3681
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T01:15:44.000Z",
+        "description": "miku一生推 玩音游 主玩phigros 不鉴政 同类互 \n小号@yinhuanye112\n/mbti entj/匿名提问邮箱https://t.co/jNM1tsof8D\n/术力口重度依赖/mtx/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "yinhuanye112"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yinhuanye",
+                "end": 87,
+                "expanded_url": "https://ngl.link/yinhuanye",
+                "start": 64,
+                "url": "https://t.co/jNM1tsof8D"
+              }
+            ]
+          }
+        },
+        "id": "2061979903084593152",
+        "is_identity_verified": false,
+        "location": "miku1",
+        "most_recent_tweet_id": "2092661282709332226",
+        "name": "音环夜",
+        "pinned_tweet_id": "2091940672958066796",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086418367196651520/dAh_fOrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 444,
+          "like_count": 423,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "520yinhuanye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
