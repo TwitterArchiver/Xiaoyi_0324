@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2100464175415693729",
+    "created_at": "2026-09-18T06:53:12.000Z",
+    "display_text_range": [
+      8,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100840546784985218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092971438521077760",
+          "start": 0,
+          "username": "zza2ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100840546784985218",
+    "in_reply_to_user_id": "2092971438521077760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100464175415693729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zza2ku 某些人喜欢炒作你就让他炒呗🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2100464160366600192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZZBm4XIAANpIu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2100464175415693729",
+        "created_at": "2026-09-18T06:53:12.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100840546784985218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092971438521077760",
+              "start": 0,
+              "username": "zza2ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100840546784985218",
+        "in_reply_to_user_id": "2092971438521077760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100464175415693729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zza2ku 某些人喜欢炒作你就让他炒呗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100464160366600192"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2100464175415693729",
+        "created_at": "2026-09-17T05:57:38.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T06:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100464175415693729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuKr4MWt2X",
+              "end": 25,
+              "expanded_url": "https://x.com/zza2ku/status/2100464175415693729/photo/1",
+              "media_key": "3_2100464160366600192",
+              "start": 2,
+              "url": "https://t.co/BuKr4MWt2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100464175415693729",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100464160366600192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21931,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/BuKr4MWt2X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2100840546784985218",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 454,
+          "like_count": 2157,
+          "listed_count": 7,
+          "media_count": 497,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100837910173937720",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 110,
+          "like_count": 119,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

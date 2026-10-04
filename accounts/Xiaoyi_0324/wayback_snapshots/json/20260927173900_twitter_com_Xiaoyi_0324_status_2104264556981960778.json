@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2104124099161411928",
+    "created_at": "2026-09-27T17:39:00.000Z",
+    "display_text_range": [
+      22,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104264556981960778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067418938452176896",
+          "start": 0,
+          "username": "gudwbefx3u"
+        },
+        {
+          "end": 21,
+          "id": "1810661754319548416",
+          "start": 12,
+          "username": "Zereu029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104264556981960778",
+    "in_reply_to_user_id": "2067418938452176896",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104262435825971461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gudwbefx3u @Zereu029 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2104124099161411928",
+        "created_at": "2026-09-27T17:39:00.000Z",
+        "display_text_range": [
+          22,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104264556981960778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067418938452176896",
+              "start": 0,
+              "username": "gudwbefx3u"
+            },
+            {
+              "end": 21,
+              "id": "1810661754319548416",
+              "start": 12,
+              "username": "Zereu029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104264556981960778",
+        "in_reply_to_user_id": "2067418938452176896",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104262435825971461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gudwbefx3u @Zereu029 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067418938452176896",
+        "conversation_id": "2104124099161411928",
+        "created_at": "2026-09-27T17:30:34.000Z",
+        "display_text_range": [
+          23,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104262435825971461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 22,
+              "id": "1810661754319548416",
+              "start": 13,
+              "username": "Zereu029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104262435825971461",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104254716075221211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @Zereu029 Where did you buy it?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n不Pass的MTF|随笔 照片看亮点\n里推:@Ruai_0324|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2104264556981960778",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2588,
+          "following_count": 457,
+          "like_count": 2187,
+          "listed_count": 6,
+          "media_count": 511,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T01:28:45.000Z",
+        "description": "",
+        "id": "2067418938452176896",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2104262435825971461",
+        "name": "ioinh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067418938452176896/1790530696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104261796492390400/mT1epCV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 106,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "gudwbefx3u",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T13:06:31.000Z",
+        "description": "=さか┊成人済┊CH/EN/JP   低浮上             \nRT/雑多め   詳細はリトリン",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/Sakafish",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/Sakafish",
+                "start": 0,
+                "url": "https://t.co/6zVAzTrl7x"
+              }
+            ]
+          }
+        },
+        "id": "1810661754319548416",
+        "is_identity_verified": false,
+        "location": "どこまでも",
+        "most_recent_tweet_id": "2104239407473824150",
+        "name": "お魚🐟",
+        "pinned_tweet_id": "1923806850379809059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810661754319548416/1720530885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104239658519662592/JzmiJpYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 653,
+          "like_count": 25027,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 7043
+        },
+        "url": "https://t.co/6zVAzTrl7x",
+        "username": "Zereu029",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

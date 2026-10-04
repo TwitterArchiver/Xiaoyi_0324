@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2104928464763514952",
+    "created_at": "2026-09-29T14:52:24.000Z",
+    "display_text_range": [
+      21,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T15:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104947407800906205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2101527069801009152",
+          "start": 0,
+          "username": "zedaxzamy"
+        },
+        {
+          "end": 20,
+          "id": "2070767316229554176",
+          "start": 11,
+          "username": "Cafwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104947407800906205",
+    "in_reply_to_user_id": "2101527069801009152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104933356140204418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zedaxzamy @Cafwwwww ？你挺例外啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2104933348963758081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY5unzbsAEILme.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2104928464763514952",
+        "created_at": "2026-09-29T14:52:24.000Z",
+        "display_text_range": [
+          21,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104947407800906205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2101527069801009152",
+              "start": 0,
+              "username": "zedaxzamy"
+            },
+            {
+              "end": 20,
+              "id": "2070767316229554176",
+              "start": 11,
+              "username": "Cafwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104947407800906205",
+        "in_reply_to_user_id": "2101527069801009152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104933356140204418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zedaxzamy @Cafwwwww ？你挺例外啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104933348963758081"
+          ]
+        },
+        "author_id": "2101527069801009152",
+        "conversation_id": "2104928464763514952",
+        "created_at": "2026-09-29T13:56:34.000Z",
+        "display_text_range": [
+          22,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104933356140204418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            },
+            {
+              "end": 22,
+              "id": "2070767316229554176",
+              "start": 13,
+              "username": "Cafwwwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHhBJ5lTw0",
+              "end": 46,
+              "expanded_url": "https://x.com/zedaxzamy/status/2104933356140204418/photo/1",
+              "media_key": "3_2104933348963758081",
+              "start": 23,
+              "url": "https://t.co/RHhBJ5lTw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104933356140204418",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104933348963758081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104928464763514952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 @Cafwwwww https://t.co/RHhBJ5lTw0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n不Pass的MTF|随笔 照片看亮点\n里推:@Ruai_0324|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2104947407800906205",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 454,
+          "like_count": 2196,
+          "listed_count": 5,
+          "media_count": 514,
+          "tweet_count": 4050
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T04:22:07.000Z",
+        "description": "喵喵喵",
+        "id": "2101527069801009152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104935524255597044",
+        "name": "翅膀喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101950831096664064/3FSJt3Bp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 33,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "zedaxzamy",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T07:14:17.000Z",
+        "description": "17 / 高三 / 上海 / mtf🏳️‍⚧️ / 全栈开发 / 中抑 / 音游 / 摄影 / 互fo私信喵\n老婆：@Xiaoyi_0324\n有凝胶卖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          }
+        },
+        "id": "2070767316229554176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104936220648439883",
+        "name": "Cafwww🍥",
+        "pinned_tweet_id": "2101135428581728310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070767316229554176/1782556132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070769559909629952/Wx-dX3JX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 89,
+          "like_count": 2998,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 429
+        },
+        "url": "",
+        "username": "Cafwwwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

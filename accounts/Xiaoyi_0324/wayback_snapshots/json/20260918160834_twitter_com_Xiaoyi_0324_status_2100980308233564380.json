@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100980299115253760"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2100980308233564380",
+    "created_at": "2026-09-18T16:08:34.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100980308233564380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/xiaoyi_0324",
+          "end": 40,
+          "expanded_url": "https://ngl.link/xiaoyi_0324",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "@xiaoyi_0324: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/xiaoyi_0324",
+          "url": "https://t.co/yyCVeNWmak"
+        },
+        {
+          "display_url": "pic.x.com/KLONrcxrC7",
+          "end": 64,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2100980308233564380/photo/1",
+          "media_key": "3_2100980299115253760",
+          "start": 41,
+          "url": "https://t.co/KLONrcxrC7"
+        },
+        {
+          "display_url": "x.com/xiaoyi_0324/st…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/xiaoyi_0324/status/2094611839737065922",
+          "start": 65,
+          "url": "https://t.co/8XkTCRk1eB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100980308233564380",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100980299115253760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094611839737065922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak https://t.co/KLONrcxrC7 https://t.co/8XkTCRk1eB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2100980299115253760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSguc1jb0AAypxz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094611830333390848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGOXKlaQAAW8MT.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094611830337646593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGOXKmbMAElGMV.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094611830316621824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGOXKhaYAAoSn8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100980299115253760"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2100980308233564380",
+        "created_at": "2026-09-18T16:08:34.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100980308233564380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiaoyi_0324",
+              "end": 40,
+              "expanded_url": "https://ngl.link/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "@xiaoyi_0324: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiaoyi_0324",
+              "url": "https://t.co/yyCVeNWmak"
+            },
+            {
+              "display_url": "pic.x.com/KLONrcxrC7",
+              "end": 64,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2100980308233564380/photo/1",
+              "media_key": "3_2100980299115253760",
+              "start": 41,
+              "url": "https://t.co/KLONrcxrC7"
+            },
+            {
+              "display_url": "x.com/xiaoyi_0324/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/xiaoyi_0324/status/2094611839737065922",
+              "start": 65,
+              "url": "https://t.co/8XkTCRk1eB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100980308233564380",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100980299115253760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094611839737065922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak https://t.co/KLONrcxrC7 https://t.co/8XkTCRk1eB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094611830333390848",
+            "3_2094611830337646593",
+            "3_2094611830316621824"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094611839737065922",
+        "created_at": "2026-09-01T02:22:33.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094611839737065922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/xiaoyi_0324",
+              "end": 40,
+              "expanded_url": "https://ngl.link/xiaoyi_0324",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093883697724567553/v8jh0m4r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "@xiaoyi_0324: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/xiaoyi_0324",
+              "url": "https://t.co/yyCVeNWmak"
+            },
+            {
+              "display_url": "pic.x.com/dH7ZV9AZu0",
+              "end": 172,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2094611839737065922/photo/1",
+              "media_key": "3_2094611830333390848",
+              "start": 149,
+              "url": "https://t.co/dH7ZV9AZu0"
+            },
+            {
+              "display_url": "pic.x.com/dH7ZV9AZu0",
+              "end": 172,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2094611839737065922/photo/1",
+              "media_key": "3_2094611830337646593",
+              "start": 149,
+              "url": "https://t.co/dH7ZV9AZu0"
+            },
+            {
+              "display_url": "pic.x.com/dH7ZV9AZu0",
+              "end": 172,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2094611839737065922/photo/1",
+              "media_key": "3_2094611830316621824",
+              "start": 149,
+              "url": "https://t.co/dH7ZV9AZu0"
+            },
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2093883628623393098",
+              "start": 173,
+              "url": "https://t.co/r83MfZrqBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094611839737065922",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094611830333390848"
+          },
+          {
+            "media_key": "3_2094611830337646593"
+          },
+          {
+            "media_key": "3_2094611830316621824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 40,
+                "expanded_url": "http://ngl.link/xiaoyi_0324",
+                "start": 17,
+                "url": "https://t.co/0xjvXXGjH5"
+              }
+            ]
+          },
+          "text": "通过以下链接向我发送匿名提问⬇️\nhttps://t.co/0xjvXXGjH5\n靠北了 我之前写的很长一串丢了 既然这样 那我就更系统性的说清楚点\n我将根据AI和我的个人经历来回答你的所有问题\n1.生理层面的影响\n你需要区分自己是mtf还是ftm 我并不知道你是什么身份 所以我会把两种全部罗列\n女性化激素（雌二醇+抗雄）：皮肤变细腻、体脂重新分布、乳房发育、睾丸缩小、性欲降低、勃起减少。同时可能影响生育能力。需注意药物相互作用，如螺内酯可能影响某些抗抑郁药的效果。\n男性化激素（睾酮）：声音变低沉、面部/身体毛发生长、肌肉增加、脂肪重新分布、阴蒂增大、月经停止。同样可能影响生育能力。\n此外 有些变化是可逆的（如体脂分布），有些是永久性的（如声音变低、乳房发育），所以一定要在充分了解后做决定。\n重要提醒：以上变化的速度和程度因人而异。HRT必须在专业医生指导下进行，并定期监测激素水平和身体状况。\n2.心理层面影响\nhrt可以缓解性别不安 改善心理健康 提升身体认同感 但因为更换了激素的主导者 你会经历一段时间的情绪波动 属于正常现象 但如果情绪困扰持续，建议同步寻求性别友善的心理咨询师，这跟激素治疗同样重要。\n第二层面我只做了简单概括 如果你对该层面感兴趣 我们可以私信深究\n3.现实生活中可能遇到的问题\n家庭与社会关系：家人和朋友的态度影响巨大。支持能成为力量源泉；反之，拒绝和排斥会造成巨大伤害和孤立感。\n职场与公共环境：可能面临职场歧视、被迫隐藏身份，甚至在公共场合遭遇偏见和暴力。\n医疗系统障碍：获得专业、友善的医疗服务可能并不容易。一些医护人员缺乏相关知识，甚至会将所有健康问题归咎于HRT。\n经济压力：激素药物、定期检查及相关医疗费用可能构成不小的经济负担。\n摸索期是每个跨性别者都要经历的阶段 你语言也没有冒犯 不过 也请你在开始hrt前三思 如果确认这么做 也请你勇敢的走下去 可以的话 尽量寻求专业支持 之后 寻找一些支持你的人或社群 他人的理解能极大的缓冲来自外界的压力 最后 需要保持耐心 hrt是一个横跨一辈子的过程 这只是其中一条路，探索社会角色、穿搭、姓名等也是同样重要的部分，不急着做决定。也请给自己适应的时间！\n最后 跨性别激素治疗是一段深刻的身心旅程，既带来巨大的内心平静与认同，也可能伴随着现实世界的挑战。\n希望这些信息能为你提供一些参考 祝你在探索的路上一切顺利！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093883628623393098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "通过以下链接向我发送匿名提问⬇️\nhttps://t.co/yyCVeNWmak\n靠北了 我之前写的很长一串丢了 既然这样 那我就更系统性的说清楚点\n我将根据AI和我的个人经历来回答你的所有问题\n1.生理层面的影响\n你需要区分自己是mtf还是ftm 我并不知道你是什么身份 所以我会把两种全部罗列 https://t.co/dH7ZV9AZu0 https://t.co/r83MfZrqBj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2100980308233564380",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 454,
+          "like_count": 2157,
+          "listed_count": 7,
+          "media_count": 498,
+          "tweet_count": 3956
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

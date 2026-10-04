@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100609607920205824",
+        "3_2100609623082610688"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2100609635438985286",
+    "created_at": "2026-09-17T15:35:39.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100609635438985286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AexeZE4SJP",
+          "end": 83,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2100609635438985286/photo/1",
+          "media_key": "3_2100609607920205824",
+          "start": 60,
+          "url": "https://t.co/AexeZE4SJP"
+        },
+        {
+          "display_url": "pic.x.com/AexeZE4SJP",
+          "end": 83,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2100609635438985286/photo/1",
+          "media_key": "3_2100609623082610688",
+          "start": 60,
+          "url": "https://t.co/AexeZE4SJP"
+        },
+        {
+          "display_url": "x.com/Ruai_0324/stat…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/Ruai_0324/status/2100511865868587429",
+          "start": 84,
+          "url": "https://t.co/WRAp9frY8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100609635438985286",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100609607920205824"
+      },
+      {
+        "media_key": "3_2100609623082610688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100511865868587429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想和你诉说我最近的痛苦 但不知道从何起笔 我无法用言语表达痛苦 那就用行动表达\n至此 笔者已服用0.25gNaNO₂ https://t.co/AexeZE4SJP https://t.co/WRAp9frY8z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100609607920205824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbdTxPbQAADbwr.jpg",
+        "width": 2661
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100609623082610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbdUpubMAASEHt.jpg",
+        "width": 2661
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2100511855055917056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaEZzca0AA7icH.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2100511860768616449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaEaIubsAEPxG7.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100609607920205824",
+            "3_2100609623082610688"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2100609635438985286",
+        "created_at": "2026-09-17T15:35:39.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100609635438985286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AexeZE4SJP",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2100609635438985286/photo/1",
+              "media_key": "3_2100609607920205824",
+              "start": 60,
+              "url": "https://t.co/AexeZE4SJP"
+            },
+            {
+              "display_url": "pic.x.com/AexeZE4SJP",
+              "end": 83,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2100609635438985286/photo/1",
+              "media_key": "3_2100609623082610688",
+              "start": 60,
+              "url": "https://t.co/AexeZE4SJP"
+            },
+            {
+              "display_url": "x.com/Ruai_0324/stat…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Ruai_0324/status/2100511865868587429",
+              "start": 84,
+              "url": "https://t.co/WRAp9frY8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100609635438985286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100609607920205824"
+          },
+          {
+            "media_key": "3_2100609623082610688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100511865868587429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想和你诉说我最近的痛苦 但不知道从何起笔 我无法用言语表达痛苦 那就用行动表达\n至此 笔者已服用0.25gNaNO₂ https://t.co/AexeZE4SJP https://t.co/WRAp9frY8z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100511855055917056",
+            "3_2100511860768616449"
+          ]
+        },
+        "author_id": "2055228634710065152",
+        "conversation_id": "2100511865868587429",
+        "created_at": "2026-09-17T09:07:09.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100511865868587429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP0fPCko0n",
+              "end": 92,
+              "expanded_url": "https://x.com/Ruai_0324/status/2100511865868587429/photo/1",
+              "media_key": "3_2100511855055917056",
+              "start": 69,
+              "url": "https://t.co/GP0fPCko0n"
+            },
+            {
+              "display_url": "pic.x.com/GP0fPCko0n",
+              "end": 92,
+              "expanded_url": "https://x.com/Ruai_0324/status/2100511865868587429/photo/1",
+              "media_key": "3_2100511860768616449",
+              "start": 69,
+              "url": "https://t.co/GP0fPCko0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100511865868587429",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100511855055917056"
+          },
+          {
+            "media_key": "3_2100511860768616449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1953,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用了大约0.1g都NaNO₂ 确实好咸 但可能我吃得少了 不苦啊也\n最终造成了90%的血氧 以及心率飙到了172\n见识到威力了 吓哭了 https://t.co/GP0fPCko0n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2100609635438985286",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 452,
+          "like_count": 2157,
+          "listed_count": 7,
+          "media_count": 497,
+          "tweet_count": 3946
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "@Xiaoyi_0324\n簡体字・繁体字どちらもOK｜日本語は翻訳ソフトやChatGPTを使用しています｜重度のうつ+中等度の不安｜双極性障害の疑いあり｜ODをやめて、もう自殺もしません｜少しのネガティブな感情と独り言中心、閲覧は自己責任でお願いします｜質問箱はプロフィール冒頭に記載しているアカウントで返信します",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzkB2O"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "is_identity_verified": false,
+        "location": "質問箱で遊ぼうよ😭",
+        "most_recent_tweet_id": "2100605905972973700",
+        "name": "Ruai_🍥",
+        "pinned_tweet_id": "2094751861794541979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055228634710065152/1788262697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 102,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/mApcFzkB2O",
+        "username": "Ruai_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

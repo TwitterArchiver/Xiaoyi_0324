@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099499067760144384"
+      ]
+    },
+    "author_id": "2008812080099672064",
+    "conversation_id": "2099502295189008821",
+    "created_at": "2026-09-14T14:15:28.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099502295189008821"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FFigIQlxK0",
+          "end": 34,
+          "expanded_url": "https://x.com/Xiaoyi_0324/status/2099502295189008821/video/1",
+          "media_key": "13_2099499067760144384",
+          "start": 11,
+          "url": "https://t.co/FFigIQlxK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099502295189008821",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099499067760144384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快夸我快夸我 我建的 https://t.co/FFigIQlxK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66218,
+        "height": 1440,
+        "media_key": "13_2099499067760144384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099499067760144384/img/mZRd7MtNjhMYynfq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499067760144384/vid/avc1/480x270/5DGTSRvkxQ__L1F-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499067760144384/vid/avc1/640x360/KHDQWNhYcfqT7Lk1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499067760144384/vid/avc1/1280x720/dg0OumONMjBJVlsH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099499067760144384/pl/ePUbdg7b--ilVCwk.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099499067760144384"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2099502295189008821",
+        "created_at": "2026-09-14T14:15:28.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099502295189008821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFigIQlxK0",
+              "end": 34,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2099502295189008821/video/1",
+              "media_key": "13_2099499067760144384",
+              "start": 11,
+              "url": "https://t.co/FFigIQlxK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099502295189008821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099499067760144384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快夸我快夸我 我建的 https://t.co/FFigIQlxK0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2099502295189008821",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 452,
+          "like_count": 2153,
+          "listed_count": 7,
+          "media_count": 488,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

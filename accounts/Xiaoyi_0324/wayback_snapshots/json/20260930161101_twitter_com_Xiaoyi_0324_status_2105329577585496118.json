@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2105315985011929268",
+    "created_at": "2026-09-30T16:11:01.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105329577585496118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "xynrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105329577585496118",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105315985011929268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynrui 我闺蜜0秒接受我是跨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2105315985011929268",
+        "created_at": "2026-09-30T16:11:01.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105329577585496118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "xynrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105329577585496118",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105315985011929268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynrui 我闺蜜0秒接受我是跨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794306281572118528",
+        "conversation_id": "2105315985011929268",
+        "created_at": "2026-09-30T15:17:00.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105315985011929268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105315985011929268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么顺女都这么难交，太主动又被当成傻子，太高冷又像个路人一样，你们是怎么交到顺女朋友的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n不Pass的MTF|随笔 照片看亮点\n里推:@Ruai_0324|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2105329577585496118",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 456,
+          "like_count": 2205,
+          "listed_count": 5,
+          "media_count": 518,
+          "tweet_count": 4086
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "location": "广东韶关",
+        "most_recent_tweet_id": "2105315985011929268",
+        "name": "惠惠🏳️‍⚧️(糖🍥商)（中二病也要mtf）",
+        "pinned_tweet_id": "2095890884730757256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1790743722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105157646592671744/fH-jJV3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 156,
+          "like_count": 193,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/mhMUnF6GNe",
+        "username": "xynrui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

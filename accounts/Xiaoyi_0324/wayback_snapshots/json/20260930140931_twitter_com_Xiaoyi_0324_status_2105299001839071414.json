@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2008812080099672064",
+    "conversation_id": "2105124396977533196",
+    "created_at": "2026-09-30T14:09:31.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105299001839071414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1343353825013329921",
+          "start": 0,
+          "username": "diamond261_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/grok/status/21…",
+          "end": 36,
+          "expanded_url": "https://x.com/grok/status/2105151851087675418",
+          "start": 13,
+          "url": "https://t.co/g360NTqfJL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105299001839071414",
+    "in_reply_to_user_id": "1343353825013329921",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105151851087675418",
+        "type": "quoted"
+      },
+      {
+        "id": "2105295648841224499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diamond261_ https://t.co/g360NTqfJL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2105124396977533196",
+        "created_at": "2026-09-30T14:09:31.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105299001839071414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343353825013329921",
+              "start": 0,
+              "username": "diamond261_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/21…",
+              "end": 36,
+              "expanded_url": "https://x.com/grok/status/2105151851087675418",
+              "start": 13,
+              "url": "https://t.co/g360NTqfJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105299001839071414",
+        "in_reply_to_user_id": "1343353825013329921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105151851087675418",
+            "type": "quoted"
+          },
+          {
+            "id": "2105295648841224499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diamond261_ https://t.co/g360NTqfJL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343353825013329921",
+        "conversation_id": "2105124396977533196",
+        "created_at": "2026-09-30T13:56:11.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105295648841224499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105295648841224499",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105124396977533196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoyi_0324 这是什么APP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2105124396977533196",
+        "created_at": "2026-09-30T04:24:47.000Z",
+        "display_text_range": [
+          24,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105151851087675418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1161907687749296128",
+              "start": 0,
+              "username": "XRMKunome"
+            },
+            {
+              "end": 23,
+              "id": "2008812080099672064",
+              "start": 11,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105151851087675418",
+        "in_reply_to_user_id": "1161907687749296128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105151665196413153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XRMKunome @Xiaoyi_0324 这是Voice Tools（声音工具），一款实时音高与性别分析App。 \n专为嗓音训练设计，显示频率曲线、女性/中性/男性范围、目标区间，支持10秒录音回放和详细结果统计（平均值、百分比等）。免费版有广告。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n不Pass的MTF|随笔 照片看亮点\n里推:@Ruai_0324|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2105299001839071414",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2088758885524074689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 456,
+          "like_count": 2202,
+          "listed_count": 5,
+          "media_count": 517,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-28T00:31:40.000Z",
+        "description": "",
+        "id": "1343353825013329921",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105295648841224499",
+        "name": "diamond261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343353825013329921/1773851058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092196690677968897/sXMCBHqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 87,
+          "like_count": 8684,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "diamond261_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105299016950943837",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9116374,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7706,
+          "media_count": 3970586,
+          "tweet_count": 137979837
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-15T07:49:14.000Z",
+        "description": "只要你喜欢蓝色大肥鱼我们就是好朋友！",
+        "id": "1161907687749296128",
+        "is_identity_verified": false,
+        "location": "我在你背后",
+        "most_recent_tweet_id": "2105281710023925998",
+        "name": "XRMK",
+        "pinned_tweet_id": "2101464383843111102",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161907687749296128/1790501029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221344646189056/-2r5J2JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 61,
+          "like_count": 7466,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 3981
+        },
+        "url": "",
+        "username": "XRMKunome",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
